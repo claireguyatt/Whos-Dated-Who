@@ -1,0 +1,694 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is TJ Jackson dating? TJ Jackson girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/tj-jackson" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/tj-jackson" /><meta name="title" content="Who is TJ Jackson dating? TJ Jackson girlfriend, wife" /><meta name="description" content="18 October 2022... TJ Jackson news, gossip, photos of TJ Jackson, biography, TJ Jackson girlfriend list 2022. Relationship history. TJ Jackson relationship list. TJ Jackson dating history, 2022, 2021, list of TJ Jackson relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/tj-jackson" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="TJ Jackson" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img5.bdbphotos.com/images/orig/c/o/con87qbl58jmbq5n.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/tj-jackson",
+  "name": "TJ Jackson",
+"jobTitle": "Singer",  "url": "https://www.whosdatedwho.com/dating/tj-jackson",
+"birthDate": "1978-07-16",  "spouse": {
+	"@type": "Person",
+  	"name": "Frances Jackson (personality)",
+	"url": "https://www.whosdatedwho.com/dating/frances-jackson"
+  },
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 2,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Frances Jackson (personality)",
+        "url": "https://www.whosdatedwho.com/dating/tj-jackson#dating-frances-jackson",
+		        "image": "//img5.bdbphotos.com/images/orig/c/3/c3kptrf5j92tpkrt.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Kim Kardashian",
+        "url": "https://www.whosdatedwho.com/dating/tj-jackson#dating-kim-kardashian",
+		        "image": "//img2.bdbphotos.com/images/orig/1/v/1vr06nqft35uv103.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="tj-jackson" data-ff-tid="1" data-ff-id="189902" data-ff-title="TJ Jackson" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="189902"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/tj-jackson">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">			</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-tj-jackson" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										TJ Jackson 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-tj-jackson"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/c/o/con87qbl58jm5nm8.jpg?skj2io4l" alt="TJ Jackson" class=" " /></div></div><div class="ff-relationship text-center ff-married" ><span>Married</span></div><div class="ff-name text-left ff-banner-gradient">
+		
+		TJ Jackson&nbsp;&nbsp;<span class="ff-smaller">American Singer</span></div><div class="ff-thumbs"><span onClick="contentVote('v189902101',189902,1,0,1,'tj-jackson');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v189902101">8</v></span><span onClick="contentVote('v18990210-1',189902,1,0,'-1','tj-jackson');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v18990210-1">0</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/tj-jackson/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">4716</div><div class="footer"><span class="ff-rank-change "><i class="icon-chart-line"></i><span>157</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">44</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-cancer"><i class="icon-cancer"></i></a></div><div class="footer">Cancer</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">2</div><div class="footer">total</div></a></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact lots"><i class='icon-child' ></i><i class='icon-child' ></i><br /><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">4 children</div></a></div></div></div><h1 style="font-size: 1.2rem;">TJ Jackson dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><div style="position:relative;width:51%;padding-left:108px;height:130px;margin-bottom:20px;"><div style="position:absolute;left:0;top:0"><img width="100" height="130" style="width:100px;height:130px;" src="//img4.bdbphotos.com/images/120x156/j/q/jqqs6v2iry1zzri.jpg?skj2io4l" alt="TJ Jackson and Frances Jackson (personality)" class=" " /></div><a href="/dating/frances-jackson">Frances Jackson (personality)</a> and <a href="/dating/tj-jackson">TJ Jackson</a> have been married for 14 years since 28th Oct 2007.
+    				<a class="button radius small" href="tj-jackson-and-frances-jackson" style="position:absolute;bottom:0;left:108px;right:0;background-color:#ad0400;margin:0;">view relationship</a></div><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="tj-jackson">TJ Jackson</topic> has been in a relationship with <a href="/dating/kim-kardashian">Kim Kardashian</a><span> (1994 - 1999)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="tj-jackson">TJ Jackson</topic> is a 44 year old American Singer. Born Tito Joseph Jackson on 16th July, 1978 in Los Angeles, California, U.S., he is famous for singer of the group 3T with his brothers, when he was in his teens. in a career that spans 1994&#8211;present. His zodiac sign is Cancer.</p><p class="ff-auto-about"><topic url="tj-jackson">TJ Jackson</topic> is a member of the following lists: <a href="/lists/american-singer-songwriters">American singer-songwriters</a>, <a href="/lists/people-from-los-angeles-california">People from Los Angeles, California</a> and <a href="/lists/1978-births">1978 births</a>.</p><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is TJ Jackson dating? TJ Jackson girlfriend, wife list. Help us build our profile of TJ Jackson! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/tj-jackson">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="TJ Jackson and Frances Jackson (personality)">
+								23 years, 8 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Dating</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Kim Kardashian and TJ Jackson">
+								4 years, 10 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">2</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="TJ Jackson and Frances Jackson (personality)">
+								23 years, 8 months
+						</span></td><td style="font-style:oblique">
+											14 years, 3 months
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Kim Kardashian and TJ Jackson">
+							4 years, 10 months
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Tito
+													</td></tr><tr><td>Middle Name</td><td>
+															Joseph
+													</td></tr><tr><td>Last Name</td><td>
+															Jackson
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Tito Joseph Jackson
+													</td></tr><tr><td>Alternative Name</td><td>
+															T.J. Jackson
+													</td></tr><tr><td>Age</td><td>
+															44 years
+													</td></tr><tr><td>Birthday</td><td>
+															16th July, 1978
+													</td></tr><tr><td>Birthplace</td><td>
+															Los Angeles, California, U.S.
+													</td></tr><tr><td>Height</td><td>
+															5&#039; 10&quot; (178 cm)
+													</td></tr><tr><td>Build</td><td>
+															Athletic
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Hair Color</td><td>
+															Black
+													</td></tr><tr><td>Distinctive Feature</td><td>
+															Raised Eyebrows
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Cancer
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Christian
+													</td></tr><tr><td>Ethnicity</td><td>
+															Multiracial
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>Occupation Text</td><td>
+															Singer
+													</td></tr><tr><td>Occupation</td><td>
+															Singer
+													</td></tr><tr><td>Claim to Fame</td><td>
+															singer of the group 3T with his brothers, when he was in his teens.
+													</td></tr><tr><td>Music Genre (Text)</td><td>
+															R&amp;B, pop
+													</td></tr><tr><td>Year(s) Active</td><td>
+															1989&#8211;2005, 2013&#8211;present, 1994&#8211;present
+													</td></tr><tr><td>Instrument (text)</td><td>
+															Vocals
+													</td></tr><tr><td>Record Label</td><td>
+															Sony, Warner Bros.
+													</td></tr><tr><td>Associated Acts</td><td>
+															The Jackson 5, 3T
+													</td></tr><tr><td>Official Websites</td><td>
+															=
+													</td></tr><tr><td>Father</td><td>
+															Tito Jackson
+													</td></tr><tr><td>Mother</td><td>
+															Delores V. Martes
+													</td></tr><tr><td>Brother</td><td>
+															Taj Jackson, Taryll Jackson
+													</td></tr><tr><td>Family Member</td><td>
+															Michael Jackson (Uncle), Jermaine Jackson (Uncle), Jackie Jackson (Uncle), Janet Jackson (Aunt), La Toya Jackson (Aunt), Prince Jackson (Cousin), Blanket Jackson (Cousin), Paris Jackson (Cousin), Rebbie Jackson (Aunt), Marlon Jackson (Uncle), Randy Jackson (Uncle), Joe Jackson (Grandfather), Katherine Jackson (Grandmother)
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Tito Joe &quot;TJ&quot; Jackson (born July 16, 1978) is an American singer and member of 3T. He is the youngest son of Tito Jackson.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about TJ Jackson
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about TJ Jackson
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/tj-jackson/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,frances-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/frances-jackson">
+				Frances Jackson (personality)
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Feb 1999
+					</td><td>
+							present
+					</td><td>
+						    			23 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,tj-jackson-and-frances-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/tj-jackson-and-frances-jackson"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian">
+				Kim Kardashian
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    May 1994
+					</td><td>
+						    Mar 1999
+					</td><td>
+						    			4 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,kim-kardashian-and-tj-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian-and-tj-jackson"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-frances-jackson"><a data-ff-gx="View Person,frances-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/frances-jackson"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/c/3/c3kptrf5j92tft5r.jpg?skj2io4l" alt="Frances Jackson (personality)" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Frances Jackson (personality)
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v3614383511899021',36143835,1,189902,1,'tj-jackson-and-frances-jackson');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v3614383511899021">28</v></span><span onClick="contentVote('v361438351189902-1',36143835,1,189902,'-1','tj-jackson-and-frances-jackson');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v361438351189902-1">7</v></span></div></div><h3>1999</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,tj-jackson-and-frances-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/tj-jackson-and-frances-jackson">
+			
+							Frances Jackson (personality) and TJ Jackson ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-kim-kardashian"><a data-ff-gx="View Person,kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/1/v/1vr06nqft35u6rn0.jpg?skj2io4l" alt="Kim Kardashian" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Kim Kardashian
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v333911899021',3339,1,189902,1,'kim-kardashian-and-tj-jackson');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v333911899021">30</v></span><span onClick="contentVote('v33391189902-1',3339,1,189902,'-1','kim-kardashian-and-tj-jackson');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v33391189902-1">14</v></span></div></div><h3>1994 - 1999</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,kim-kardashian-and-tj-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian-and-tj-jackson">
+			
+							TJ Jackson and Kim Kardashian separated in Ma...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/c/3/c3kptrf5j92tpkrt.jpg?skj2io4l')" data-ff-gx="View Person,frances-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/frances-jackson"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="frances-jackson" data-ff-gx="View Person,frances-jackson" data-ff-gx-click>Frances Jackson (personality)</a></h4><h3>
+						1999
+						<small></small></h3><p data-ff-gx="View Couple,tj-jackson-and-frances-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/tj-jackson-and-frances-jackson">
+												
+						Frances Jackson (personality) and TJ Jackson have been married for 14 years. They were dating for 7 years after getting together in Feb 1999. After 1 year of engagement they married on 28th Oct 2007.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">23</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/tj-jackson-and-frances-jackson/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>40%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Age</td><td>52%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">28%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact lots"><i class='icon-child' ></i><i class='icon-child' ></i><br /><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">4 children</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:80%;border-bottom:2px solid green;"></div><div style="float:left;width:20%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v3614383511899021',36143835,1,189902,1,'tj-jackson-and-frances-jackson');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v3614383511899021">28</v></span><span onClick="contentVote('v361438351189902-1',36143835,1,189902,'-1','tj-jackson-and-frances-jackson');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v361438351189902-1">7</v></span></div><a class="button radius small ff-view-button" href="tj-jackson-and-frances-jackson"  data-ff-gx="View Couple,tj-jackson-and-frances-jackson" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/1/v/1vr06nqft35uv103.jpg?skj2io4l')" data-ff-gx="View Person,kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="kim-kardashian" data-ff-gx="View Person,kim-kardashian" data-ff-gx-click>Kim Kardashian</a></h4><h3>
+						1994 - 1999
+						<small></small></h3><p data-ff-gx="View Couple,kim-kardashian-and-tj-jackson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian-and-tj-jackson">
+												
+						TJ Jackson and Kim Kardashian dated from May, 1994 to March, 1999.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">4</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/kim-kardashian-and-tj-jackson/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>20%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>84%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">49%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:68.181818181818%;border-bottom:2px solid green;"></div><div style="float:left;width:31.818181818182%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v333911899021',3339,1,189902,1,'kim-kardashian-and-tj-jackson');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v333911899021">30</v></span><span onClick="contentVote('v33391189902-1',3339,1,189902,'-1','kim-kardashian-and-tj-jackson');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v33391189902-1">14</v></span></div><a class="button radius small ff-view-button" href="kim-kardashian-and-tj-jackson"  data-ff-gx="View Couple,kim-kardashian-and-tj-jackson" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div id="contentad13992"></div><script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "7a4cd0cc-0fb2-497a-81fa-3426f02cfb67",
+            d: "d2hvc2RhdGVkd2hvLmNvbQ==",
+            wid: "13992",
+            cb: (new Date()).getTime()
+        };
+        var qs = Object.keys(params).reduce(function(a, k){ a.push(k + '=' + encodeURIComponent(params[k])); return a},[]).join(String.fromCharCode(38));
+        var s = d.createElement('script'); s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs;
+        d.getElementById("contentad13992").appendChild(s);
+    })(document);
+</script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/tj-jackson">TJ Jackson</a></td><td>44</td><td><i class="icon-46"></i>
+
+Cancer</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/frances-jackson">Frances Jackson (personality)</a></td><td>47</td><td><i class="icon-45"></i>
+
+Gemini</td><td>Spouse</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/kim-kardashian">Kim Kardashian</a></td><td>41</td><td><i class="icon-49"></i>
+
+Libra</td><td>Reality TV</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.children" class="ff-dropitem block-topic-children" data-ff-name="topic.children"><div id="section-children" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Children 
+									
+								</h2></div><div class="ff-block-content " id="ff-children"><table class="ff-table" width="100%"><thead><tr><th>Name</th><th>Gender</th><th>Born</th><th>Age</th><th>Other Parent</th></tr></thead><tbody><tr><td>Royal</td><td>Male</td><td>23rd October, 1999</td><td>22 years old</td><td><a href="frances-jackson">Frances Jackson (personality)</a></td></tr><tr><td>Dee Dee</td><td>Female</td><td>20th March, 2008</td><td>14 years old</td><td><a href="frances-jackson">Frances Jackson (personality)</a></td></tr><tr><td>Jo Jo</td><td></td><td>30th November, 2010</td><td>11 years old</td><td><a href="frances-jackson">Frances Jackson (personality)</a></td></tr><tr><td>Rio</td><td>Male</td><td>10th March, 2015</td><td>7 years old</td><td><a href="frances-jackson">Frances Jackson (personality)</a></td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-189902"
+		data-ff-thumbs-id="gallery-thumbs-189902"
+		data-ff-topic="189902"
+><div id="gallery-display-189902" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/a/j/aj1z2llpyi7u7il.jpg?skj2io4l"><div class="ff-caption">TJ Jackson</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/3/j37dfex53namma5.jpg?skj2io4l"><div class="ff-caption">Kim Kardashian and TJ Jackson</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/t/o/toe964by05xxyb59.jpg?skj2io4l"><div class="ff-caption">Kim Kardashian and TJ Jackson</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/z/f/zflmsm6ktji7tkis.jpg?skj2io4l"><div class="ff-caption">Kim Kardashian and TJ Jackson</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/y/o/yo9hllaovbm6voml.jpg?skj2io4l"><div class="ff-caption">Kim Kardashian and TJ Jackson</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/z/1/z1axp5nio3v91zx3.jpg?skj2io4l"><div class="ff-caption">Kim Kardashian and TJ Jackson</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/k/jkv8uxe9xqgwkj8q.jpg?skj2io4l"><div class="ff-caption">TJ Jackson</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/5/9/597nbxv51mp7xb59.jpg?skj2io4l"><div class="ff-caption">TJ Jackson</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/t/p/tptfjjyhy2jvyjyt.jpg?skj2io4l"><div class="ff-caption">TJ Jackson</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/l/c/lct395pzrpylprl5.jpg?skj2io4l"><div class="ff-caption">TJ Jackson</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/h/g/hgqj0vdcqnww0jdh.jpg?skj2io4l"><div class="ff-caption">TJ Jackson</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/2/y/2yo1cn2i2ar2ra2.jpg?skj2io4l"><div class="ff-caption">TJ Jackson</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-189902" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/a/j/aj1z2llpyi7u7il.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/3/j37dfex53namma5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/t/o/toe964by05xxyb59.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/z/f/zflmsm6ktji7tkis.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/y/o/yo9hllaovbm6voml.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/z/1/z1axp5nio3v91zx3.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/k/jkv8uxe9xqgwkj8q.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/5/9/597nbxv51mp7xb59.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/t/p/tptfjjyhy2jvyjyt.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/l/c/lct395pzrpylprl5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/h/g/hgqj0vdcqnww0jdh.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/2/y/2yo1cn2i2ar2ra2.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Honeybun Runner</td><td>2023</td><td>Honeybun Runner</td><td>Movie</td></tr><tr><td>Women of the Movement</td><td>2022</td><td>Reporter #3</td><td>TV Show</td></tr><tr><td>Bumblebee</td><td>2022</td><td>Timothy</td><td>Movie</td></tr><tr><td>Orville Peck: The Curse of the Blackened Eye</td><td>2022</td><td></td><td>Music Video</td></tr><tr><td>Vacation Friends</td><td>2021</td><td>Band Leader</td><td>Movie</td></tr><tr><td>The Set Up</td><td>2021</td><td>Detective Strobe</td><td>Movie</td></tr><tr><td>P-Valley</td><td>2020</td><td>Birthmark</td><td>TV Show</td></tr><tr><td>Ruthless</td><td>2020</td><td>Josiah</td><td>TV Show</td></tr><tr><td>Davis</td><td>2020</td><td>Davis</td><td>Movie</td></tr><tr><td>55 Seconds</td><td>2019</td><td>Kenton</td><td>Movie</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>Doom Patrol</td><td>2019</td><td>Bartender</td><td>TV Show</td></tr><tr><td>American Soul</td><td>2019</td><td>Recording Studio Manager</td><td>TV Show</td></tr><tr><td>Same Spot</td><td>2019</td><td>El</td><td>Movie</td></tr><tr><td>Exiled from Eden</td><td>2019</td><td>Matthew</td><td>Short Film</td></tr><tr><td>Walton Family Cabin</td><td>2019</td><td>Frank</td><td>Short Film</td></tr><tr><td>Syncopated</td><td>2019</td><td>Rodney Harris</td><td>Short Film</td></tr><tr><td>Spiral</td><td>2019</td><td>Franklin Singleton</td><td>Short Film</td></tr><tr><td>Encounter</td><td>2018</td><td>Agent Lem</td><td>Movie</td></tr><tr><td>Caught Up: A 2 Fold Meaning</td><td>2018</td><td>Fred</td><td>Movie</td></tr><tr><td>You Can't Save Everyone</td><td>2018</td><td>Detective John P. Morris</td><td>Short Film</td></tr><tr><td>The Real Ratchets of Atlanta</td><td>2018</td><td>Bishop Bobby Bling Bling</td><td>TV Show</td></tr><tr><td>Womanizer</td><td>2018</td><td>Mack</td><td>Movie</td></tr><tr><td>Bring Me a Dream</td><td>2017</td><td>RJ Mercer</td><td>Movie</td></tr><tr><td>GRiTZ</td><td>2017</td><td>Walter Walt Wilkerson</td><td>TV Show</td></tr><tr><td>Public Perception</td><td>2017</td><td>Don</td><td>Short Film</td></tr><tr><td>Metropolitan</td><td>2017</td><td>Adé</td><td>TV Show</td></tr><tr><td>Star</td><td>2016</td><td>Director</td><td>TV Show</td></tr><tr><td>Marriage Counselors</td><td>2016</td><td>Mr. Marcel Davis</td><td>Short Film</td></tr><tr><td>Dead Silent</td><td>2016</td><td>Leeroy Rogers</td><td>TV Show</td></tr><tr><td>XXI: O'Day</td><td>2016</td><td>Kristian O'Day</td><td>Movie</td></tr><tr><td>Killer Love</td><td>2016</td><td>Marcus</td><td>Short Film</td></tr><tr><td>Swing</td><td>2016</td><td>Sean, Taylor's husband</td><td>Short Film</td></tr><tr><td>Fatal Attraction</td><td>2014</td><td>Alexander Williams, Brian Wilson, Jr.</td><td>TV Show</td></tr><tr><td>Homicide Hunter: Lt. Joe Kenda</td><td>2011</td><td>Matt Smith</td><td>TV Show</td></tr><tr><td>Head of State</td><td>2003</td><td>Young Man in Crowd (uncredited)</td><td>Movie</td></tr><tr><td>F-Boy Free</td><td></td><td>Trey</td><td>Movie</td></tr><tr><td>The Charisma Killers</td><td></td><td>Officer Thompson</td><td>Movie</td></tr></tbody></table><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-filmography-table-toggle" data-ff-scroll><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Show Less
+		</div></div></div></fieldset>						<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/tj-jackson/forum" title="TJ Jackson discussion board">View all comments (3)</a></small></h3><div data-ffw="content" data-ff-eid="34551296" data-ff-url="" data-ff-tid="6" data-ff-id="31845392" data-ff-title="I think a had a great voice." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/portaup"><span class="ff-img" data-ff-image></span><span data-ff-webname>portaup</span></a><span class="ff-bullet"></span><span data-ff-time="2014-04-03 04:02:41" class="ff-comment-time">Apr 3, 2014</span><p data-ff-auto-image class="ff-comment" data-ff-text>I think a had a great voice.</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="26722920" data-ff-title="This guy hit it before anyone!" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>debbie</span></span><span class="ff-bullet"></span><span data-ff-time="2013-09-16 05:19:32" class="ff-comment-time">Sep 16, 2013</span><p data-ff-auto-image class="ff-comment" data-ff-text>This guy hit it before anyone!</p></div><div data-ffw="content" data-ff-eid="34644875" data-ff-url="" data-ff-tid="6" data-ff-id="19808663" data-ff-title="wow I didn&amp;#39;t know they use to date when younger, and he grown to be very handsome!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Onsweroflove"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/o/e/oen3h12jeobr3o1r.jpg?skj2io4l" alt="Onsweroflove" class=" " /></span><span data-ff-webname>Onsweroflove</span></a><span class="ff-bullet"></span><span data-ff-time="2012-08-17 15:12:09" class="ff-comment-time">Aug 17, 2012</span><p data-ff-auto-image class="ff-comment" data-ff-text>wow I didn&#39;t know they use to date when younger, and he grown to be very handsome!</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/tj-jackson/forum" title="TJ Jackson discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >				<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/kanye-west"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/c/g/cgzmphbpn4g5hnz5.jpg?skj2io4l" alt="Ye" class=" " /><div class="ff-name">Ye</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>65</span></span><span class="ff-rank-change ff-neg"><span>-2</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/50-cent"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/y/4/y45tagd6zgvuzug5.jpg?skj2io4l" alt="50 Cent" class=" " /><div class="ff-name">50 Cent</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>90</span></span><span class="ff-rank-change"><span>+2</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/ray-j"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/d/6/d6v3f16h23q0q6hf.jpg?skj2io4l" alt="Ray J" class=" " /><div class="ff-name">Ray J</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>283</span></span><span class="ff-rank-change"><span>+227</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/reggie-bush"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/q/x/qxti7ukumsn2u2m.jpg?skj2io4l" alt="Reggie Bush" class=" " /><div class="ff-name">Reggie Bush</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>623</span></span><span class="ff-rank-change"><span>+74</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/evan-ross"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/m/2/m28b1wogz2zvgz12.jpg?skj2io4l" alt="Evan Ross" class=" " /><div class="ff-name">Evan Ross</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>3,361</span></span><span class="ff-rank-change ff-neg"><span>-1,175</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-singer-songwriters" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/j/f/jf8w8an1h31b8b81.jpg?skj2io4l" alt="American singer-songwriters" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American singer-songwriters
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/people-from-los-angeles-california" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/a/x/axp67tymgtmkgtm7.jpg?skj2io4l" alt="People from Los Angeles, California" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						People from Los Angeles, California
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1978-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/1/9/196rtk4h7grii7h.jpg?skj2io4l" alt="1978 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1978 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-male-singers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/i/6/i68jf6f4zdgxdfx6.jpg?skj2io4l" alt="American male singers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American male singers
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/participants-in-american-reality-television-series" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/5/p/5pe5aij7gbs9bg.jpg?skj2io4l" alt="Participants in American reality television series" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Participants in American reality television series
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for TJ Jackson</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/tfraser" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/r/g/rgqt7fjji6e9fqjg.jpg?skj2io4l" alt="tfraser" class=" " /></div><div style="float:right">
+					81
+				</div>
+					tfraser
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Nightstar" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/v/u/vufbfyq3orwoqbof.jpg?skj2io4l" alt="Nightstar" class=" " /></div><div style="float:right">
+					61
+				</div>
+					Nightstar
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/kimkim15" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/i/5/i5e4loc29d3eoe25.jpg?skj2io4l" alt="kimkim15" class=" " /></div><div style="float:right">
+					7
+				</div>
+					kimkim15
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/ZiggyStarduxt9282738" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/a/8a8r8vn2qwjg28wr.jpg?skj2io4l" alt="ZiggyStarduxt9282738" class=" " /></div><div style="float:right">
+					6
+				</div>
+					ZiggyStarduxt9282738
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Lovinglife1212" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					5
+				</div>
+					Lovinglife1212
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep TJ Jackson profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with TJ Jackson to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="189902:tj-jackson"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving TJ Jackson</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/104028524">
+			TJ Jackson and Breana Cabral
+		</a></li><li style="clear:both;"><a href="/six-degrees/101589001">
+			Justin Timberlake and Frances Jackson (personality)
+		</a></li><li style="clear:both;"><a href="/six-degrees/95829848">
+			TJ Jackson and Lady Gaga
+		</a></li><li style="clear:both;"><a href="/six-degrees/95060141">
+			TJ Jackson and Paris Jackson
+		</a></li><li style="clear:both;"><a href="/six-degrees/90188656">
+			Rihanna and TJ Jackson
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More TJ Jackson</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/tj-jackson"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/a/j/aj1z2llpyi7uluy.jpg?skj2io4l" alt="TJ Jackson" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/tj-jackson"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/j/3/j37dfex53namxn.jpg?skj2io4l" alt="Kim Kardashian and TJ Jackson" class=" " /></a></div><a href="https://www.famousfix.com/topic/tj-jackson" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																									videos, 
+																									news, 
+																									lists
+													and more from FamousFix.com
+			</a></div></div></fieldset>					</div>
+	</div>
+	
+		
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.511</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<div data-ffw="popover" data-ff-tpl="popover.age_gate" data-ff-show data-ff-close-url="https://www.whosdatedwho.com"></div><script>	
+__trx.agent([1,189902,2,1,"","",3,"%2Fdating%2Ftj-jackson","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

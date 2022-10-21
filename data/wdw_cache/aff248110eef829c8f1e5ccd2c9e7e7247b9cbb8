@@ -1,0 +1,741 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Johnny Simmons dating? Johnny Simmons girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/johnny-simmons" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/johnny-simmons" /><meta name="title" content="Who is Johnny Simmons dating? Johnny Simmons girlfriend, wife" /><meta name="description" content="18 October 2022... Johnny Simmons news, gossip, photos of Johnny Simmons, biography, Johnny Simmons girlfriend list 2022. Relationship history. Johnny Simmons relationship list. Johnny Simmons dating history, 2022, 2021, list of Johnny Simmons relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/johnny-simmons" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Johnny Simmons" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img2.bdbphotos.com/images/orig/9/d/9dii2g00pcxa9aip.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/johnny-simmons",
+  "name": "Johnny Simmons",
+"jobTitle": "Actor",  "url": "https://www.whosdatedwho.com/dating/johnny-simmons",
+"birthDate": "1986-11-28",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 2,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Emma Watson",
+        "url": "https://www.whosdatedwho.com/dating/johnny-simmons#dating-emma-watson",
+		        "image": "//img1.bdbphotos.com/images/orig/r/e/resm5h7lykaiermk.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Leonie Kranzle",
+        "url": "https://www.whosdatedwho.com/dating/johnny-simmons#dating-leonie-kranzle",
+		        "image": "//img2.bdbphotos.com/images/orig/1/u/1urjkroc2zyeeyc.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="johnny-simmons" data-ff-tid="1" data-ff-id="134749" data-ff-title="Johnny Simmons" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="134749"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/johnny-simmons">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-johnny-simmons" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Johnny Simmons 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-johnny-simmons"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/9/d/9dii2g00pcxaipgc.jpg?skj2io4l" alt="Johnny Simmons" class=" " /></div></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Johnny Simmons&nbsp;&nbsp;<span class="ff-smaller">American Actor</span></div><div class="ff-thumbs"><span onClick="contentVote('v134749101',134749,1,0,1,'johnny-simmons');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v134749101">40</v></span><span onClick="contentVote('v13474910-1',134749,1,0,'-1','johnny-simmons');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v13474910-1">16</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/johnny-simmons/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">3183</div><div class="footer"><span class="ff-rank-change "><i class="icon-chart-line"></i><span>70</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">35</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-sagittarius"><i class="icon-sagittarius"></i></a></div><div class="footer">Sagittarius</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">2</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Johnny Simmons dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><p class="ff-auto-status">
+    				    					According to our records, <topic url="johnny-simmons">Johnny Simmons</topic> is possibly single.
+    				    			</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="johnny-simmons">Johnny Simmons</topic> has been in relationships with <a href="/dating/emma-watson">Emma Watson</a><span> (2011)</span> and <a href="/dating/leonie-kranzle">Leonie Kranzle</a><span> (2009)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="johnny-simmons">Johnny Simmons</topic> is a 35 year old American Actor. Born Johnny James Simmons on 28th November, 1986 in Montgomery, Alabama, he is famous for Evan Almighty in a career that spans 2004&#8211;present (on hiatus). His zodiac sign is Sagittarius.</p><div class="ff-person-profile-detail-toggle hide"><p class="ff-auto-about"><topic url="johnny-simmons">Johnny Simmons</topic> has been in 5 on-screen matchups, including <a href="/dating/aubrey-plaza">Aubrey Plaza</a> in <i>The To Do List</i><span> (2013)</span>, <a href="/dating/emma-roberts">Emma Roberts</a> in <i>Hotel for Dogs</i><span> (2009)</span>, <a href="/dating/amanda-seyfried">Amanda Seyfried</a> in <i>Jennifer's Body</i><span> (2009)</span>, <a href="/dating/ezra-miller">Ezra Miller</a> in <i>The Perks of Being a Wallflower</i><span> (2012)</span> and <a href="/dating/megan-fox">Megan Fox</a> in <i>Jennifer's Body</i><span> (2009)</span>.</p><p class="ff-auto-about"><topic url="johnny-simmons">Johnny Simmons</topic> is a member of the following lists: <a href="/lists/american-film-actors">American film actors</a>, <a href="/lists/actors-from-texas">Actors from Texas</a> and <a href="/lists/1986-births">1986 births</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Johnny Simmons dating? Johnny Simmons girlfriend, wife list. Help us build our profile of Johnny Simmons! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/johnny-simmons">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Dating</th><td>2</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Johnny Simmons and Leonie Kranzle">
+								13 years, 4 months
+							</span></td><td>
+													6 years, 11 months
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Emma Watson and Johnny Simmons">
+								5 months, 3 days
+							</span></td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">2</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Johnny Simmons and Leonie Kranzle">
+								13 years, 4 months
+						</span></td><td style="font-style:oblique">
+											6 years, 11 months
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Emma Watson and Johnny Simmons">
+							5 months, 3 days
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Johnny
+													</td></tr><tr><td>Middle Name</td><td>
+															Earl
+													</td></tr><tr><td>Last Name</td><td>
+															Simmons
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Johnny James Simmons
+													</td></tr><tr><td>Alternative Name</td><td>
+															Jonnie Simmons, John, Johnny
+													</td></tr><tr><td>Age</td><td>
+															35 years
+													</td></tr><tr><td>Birthday</td><td>
+															28th November, 1986
+													</td></tr><tr><td>Birthplace</td><td>
+															Montgomery, Alabama
+													</td></tr><tr><td>Height</td><td>
+															5&#039; 10&quot; (178 cm)
+													</td></tr><tr><td>Build</td><td>
+															Slim
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Light
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Sagittarius
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Christian
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>High School</td><td>
+															W.T. White High School
+													</td></tr><tr><td>University</td><td>
+															New York University
+													</td></tr><tr><td>Occupation Text</td><td>
+															Actor
+													</td></tr><tr><td>Occupation</td><td>
+															Actor
+													</td></tr><tr><td>Basketball Position</td><td>
+															Guard
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Evan Almighty
+													</td></tr><tr><td>Year(s) Active</td><td>
+															2004&#8211;present, 2004&#8211;present (on hiatus)
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															William Morris Agency
+													</td></tr><tr><td>Official Websites</td><td>
+															twitter.com/johnnysimmons
+													</td></tr><tr><td>Favorite People</td><td>
+															Johnny Depp, Leonardo DiCaprio,, River Phoenix.
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Johnny Simmons (born November 28, 1986) is an American actor. He is known for his roles as Dylan Baxter in Evan Almighty (2007), Chip Dove in Jennifer's Body (2009), &quot;Young Neil&quot; Nordegraf in Scott Pilgrim vs. the World (2010), Brad Hayes in The Perks of Being a Wallflower (2012), Shane in Girlboss, and Peter Newmans in The Late Bloomer.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Johnny Simmons
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Johnny Simmons
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/johnny-simmons/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,emma-watson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emma-watson">
+				Emma Watson
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Jun 2011
+					</td><td>
+						    Nov 2011
+					</td><td>
+						    			
+    			    			5 months
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,emma-watson-and-johnny-simmons" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emma-watson-and-johnny-simmons"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,leonie-kranzle" data-ff-gx-click href="https://www.whosdatedwho.com/dating/leonie-kranzle">
+				Leonie Kranzle
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    May 2009
+					</td><td>
+						    May 2009
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,johnny-simmons-and-leonie-kranzle" data-ff-gx-click href="https://www.whosdatedwho.com/dating/johnny-simmons-and-leonie-kranzle"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-emma-watson"><a data-ff-gx="View Person,emma-watson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emma-watson"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/r/e/resm5h7lykai5shm.jpg?skj2io4l" alt="Emma Watson" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Emma Watson
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v81011347491',810,1,134749,1,'emma-watson-and-johnny-simmons');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v81011347491">150</v></span><span onClick="contentVote('v8101134749-1',810,1,134749,'-1','emma-watson-and-johnny-simmons');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8101134749-1">45</v></span></div></div><h3>2011</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,emma-watson-and-johnny-simmons" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emma-watson-and-johnny-simmons">
+			
+							Johnny Simmons and Emma Watson separated in N...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-leonie-kranzle"><a data-ff-gx="View Person,leonie-kranzle" data-ff-gx-click href="https://www.whosdatedwho.com/dating/leonie-kranzle"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/1/u/1urjkroc2zye.jpg?skj2io4l" alt="Leonie Kranzle" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Leonie Kranzle
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v595063311347491',5950633,1,134749,1,'johnny-simmons-and-leonie-kranzle');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v595063311347491">28</v></span><span onClick="contentVote('v59506331134749-1',5950633,1,134749,'-1','johnny-simmons-and-leonie-kranzle');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v59506331134749-1">52</v></span></div></div><h3>2009</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,johnny-simmons-and-leonie-kranzle" data-ff-gx-click href="https://www.whosdatedwho.com/dating/johnny-simmons-and-leonie-kranzle">
+			
+							Leonie Kranzle and Johnny Simmons are separat...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/r/e/resm5h7lykaiermk.jpg?skj2io4l')" data-ff-gx="View Person,emma-watson" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emma-watson"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="emma-watson" data-ff-gx="View Person,emma-watson" data-ff-gx-click>Emma Watson</a></h4><h3>
+						2011
+						<small></small></h3><p data-ff-gx="View Couple,emma-watson-and-johnny-simmons" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emma-watson-and-johnny-simmons">
+												
+						Johnny Simmons and Emma Watson dated from June to November, 2011.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">5</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/emma-watson-and-johnny-simmons/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>80%</td></tr><tr><td>Chinese zodiac</td><td>100%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>72%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i></div></div><div class="footer">77%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:76.923076923077%;border-bottom:2px solid green;"></div><div style="float:left;width:23.076923076923%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v81011347491',810,1,134749,1,'emma-watson-and-johnny-simmons');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v81011347491">150</v></span><span onClick="contentVote('v8101134749-1',810,1,134749,'-1','emma-watson-and-johnny-simmons');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8101134749-1">45</v></span></div><a class="button radius small ff-view-button" href="emma-watson-and-johnny-simmons"  data-ff-gx="View Couple,emma-watson-and-johnny-simmons" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/1/u/1urjkroc2zyeeyc.jpg?skj2io4l')" data-ff-gx="View Person,leonie-kranzle" data-ff-gx-click href="https://www.whosdatedwho.com/dating/leonie-kranzle"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="leonie-kranzle" data-ff-gx="View Person,leonie-kranzle" data-ff-gx-click>Leonie Kranzle</a></h4><h3>
+						2009
+						<small></small></h3><p data-ff-gx="View Couple,johnny-simmons-and-leonie-kranzle" data-ff-gx-click href="https://www.whosdatedwho.com/dating/johnny-simmons-and-leonie-kranzle">
+												
+						Leonie Kranzle and Johnny Simmons dated from 9th to May, 2009.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/johnny-simmons-and-leonie-kranzle/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>40%</td></tr><tr><td>Chinese zodiac</td><td>40%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>72%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">52%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:35%;border-bottom:2px solid green;"></div><div style="float:left;width:65%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v595063311347491',5950633,1,134749,1,'johnny-simmons-and-leonie-kranzle');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v595063311347491">28</v></span><span onClick="contentVote('v59506331134749-1',5950633,1,134749,'-1','johnny-simmons-and-leonie-kranzle');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v59506331134749-1">52</v></span></div><a class="button radius small ff-view-button" href="johnny-simmons-and-leonie-kranzle"  data-ff-gx="View Couple,johnny-simmons-and-leonie-kranzle" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/johnny-simmons">Johnny Simmons</a></td><td>35</td><td><i class="icon-51"></i>
+
+Sagittarius</td><td>Actor</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/emma-watson">Emma Watson</a></td><td>32</td><td><i class="icon-43"></i>
+
+Aries</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/leonie-kranzle">Leonie Kranzle</a></td><td>30</td><td><i class="icon-50"></i>
+
+Scorpio</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/de.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />German</td></tr></tbody></table></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-134749"
+		data-ff-thumbs-id="gallery-thumbs-134749"
+		data-ff-topic="134749"
+><div id="gallery-display-134749" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/3/l/3lldjllo8ob4l3do.jpg?skj2io4l"><div class="ff-caption">Scott Pilgrim vs. the World - Johnny Simmons</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/e/9/e94lh6fz69hz6hz9.jpg?skj2io4l"><div class="ff-caption">Scott Pilgrim vs. the World - Johnny Simmons</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/7/p/7pzsingukq2izpi2.jpg?skj2io4l"><div class="ff-caption">The To Do List</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/r/i/rigfj3wijn0p3jii.jpg?skj2io4l"><div class="ff-caption">Emma Watson and Johnny Simmons</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/u/duwkrc5tu061udk0.jpg?skj2io4l"><div class="ff-caption">Emma Watson and Johnny Simmons</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/6/n/6n5gkvcyqg4okgc6.jpg?skj2io4l"><div class="ff-caption">Emma Watson and Johnny Simmons</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/4/h/4hby9tpfh8g5g8p.jpg?skj2io4l"><div class="ff-caption">Emma Watson and Johnny Simmons</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/y/b/yb6108f3ptwpf8p6.jpg?skj2io4l"><div class="ff-caption">Emma Watson grabbed lunch with her boyfriend, Johnny Simmons, today, September 9</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/8/f/8fqmqb2tarmc8cqa.jpg?skj2io4l"><div class="ff-caption">Emma Watson grabbed lunch with her boyfriend, Johnny Simmons, today, September 9</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/9/p/9pet9jq08cf2c82j.jpg?skj2io4l"><div class="ff-caption">Emma Watson grabbed lunch with her boyfriend, Johnny Simmons, today, September 9</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/4/j4i1yyv9yi8riyry.jpg?skj2io4l"><div class="ff-caption">T-Mobile Sidekick iD Launch Party</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/5/6/56ktwbfhqswtwtf5.jpg?skj2io4l"><div class="ff-caption">Hollywood Life Magazine&#039;s 9th Annual Young Hollywood Awards</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-134749" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/3/l/3lldjllo8ob4l3do.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/e/9/e94lh6fz69hz6hz9.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/7/p/7pzsingukq2izpi2.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/r/i/rigfj3wijn0p3jii.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/u/duwkrc5tu061udk0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/6/n/6n5gkvcyqg4okgc6.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/4/h/4hby9tpfh8g5g8p.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/y/b/yb6108f3ptwpf8p6.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/8/f/8fqmqb2tarmc8cqa.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/9/p/9pet9jq08cf2c82j.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/4/j4i1yyv9yi8riyry.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/5/6/56ktwbfhqswtwtf5.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Untitled Kay Oyegun Drama Pilot</td><td>2022</td><td>Clay</td><td>Movie</td></tr><tr><td>Girlboss</td><td>2017</td><td>Shane</td><td>TV Show</td></tr><tr><td>The Late Bloomer</td><td>2016</td><td>Peter Newmans</td><td>Movie</td></tr><tr><td>The Phenom</td><td>2016</td><td>Hopper Gibson</td><td>Movie</td></tr><tr><td>Dreamland</td><td>2016</td><td>Monty</td><td>Movie</td></tr><tr><td>Transpecos</td><td>2016</td><td>Benjamin Davis</td><td>Movie</td></tr><tr><td>The Stanford Prison Experiment</td><td>2015</td><td>1037, Jeff Jansen</td><td>Movie</td></tr><tr><td>Frank and Cindy</td><td>2015</td><td>GJ</td><td>Movie</td></tr><tr><td>Klondike</td><td>2014</td><td>Jack London</td><td>TV Show</td></tr><tr><td>The Baddest Part</td><td>2014</td><td>Bobby</td><td>Short Film</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>The To Do List</td><td>2013</td><td>Cameron</td><td>Movie</td></tr><tr><td>Blink</td><td>2013</td><td>Dodge</td><td>TV Movie</td></tr><tr><td>Whiplash</td><td>2013</td><td>Andrew Neiman</td><td>Movie</td></tr><tr><td>Drake Feat. Majid Jordan: Hold On, We're Going Home</td><td>2013</td><td>Johnny Simmons</td><td>Music Video</td></tr><tr><td>The Perks of Being a Wallflower</td><td>2012</td><td>Brad</td><td>Movie</td></tr><tr><td>21 Jump Street</td><td>2012</td><td>Billiam Willingham</td><td>Movie</td></tr><tr><td>Elementary</td><td>2012</td><td>Adam Kemper</td><td>TV Show</td></tr><tr><td>A Bag of Hammers</td><td>2011</td><td>Kelsey - Age 18</td><td>Movie</td></tr><tr><td>Cinema Verite</td><td>2011</td><td>Kevin Loud</td><td>TV Movie</td></tr><tr><td>Grow Up Already</td><td>2011</td><td>Andy</td><td>Short Film</td></tr><tr><td>Scott Pilgrim vs. the World</td><td>2010</td><td>Young Neil</td><td>Movie</td></tr><tr><td>The Conspirator</td><td>2010</td><td>John Surratt</td><td>Movie</td></tr><tr><td>Brie Larson: Black Sheep</td><td>2010</td><td>Neil Nordegraf</td><td>Music Video</td></tr><tr><td>Hotel for Dogs</td><td>2009</td><td>Dave</td><td>Movie</td></tr><tr><td>Jennifer's Body</td><td>2009</td><td>Chip Dove</td><td>Movie</td></tr><tr><td>The Greatest</td><td>2009</td><td>Ryan Brewer</td><td>Movie</td></tr><tr><td>The Good Wife</td><td>2009</td><td>Erik Barsetto</td><td>TV Show</td></tr><tr><td>The Spirit</td><td>2008</td><td>Young Spirit</td><td>Movie</td></tr><tr><td>Trucker</td><td>2008</td><td>Teenager #1 (as Jonnie Simmons)</td><td>Movie</td></tr><tr><td>Evan Almighty</td><td>2007</td><td>Dylan Baxter</td><td>Movie</td></tr><tr><td>Boogeyman 2</td><td>2007</td><td>Paul</td><td>Movie</td></tr><tr><td>My Ambition</td><td>2006</td><td>Jules Walters</td><td>Short Film</td></tr><tr><td>Numb3rs</td><td>2005</td><td>Matt McCrary</td><td>TV Show</td></tr></tbody></table><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-filmography-table-toggle" data-ff-scroll><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Show Less
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.onscreenMatchupsGrid" class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen" ><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/aubrey-plaza-and-johnny-simmons"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/6/f/6fx8p2svfaxavxpf.jpg?skj2io4l" alt="Aubrey Plaza and Johnny Simmons" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/6/f/6fx8p2svfaxa26vx.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/aubrey-plaza">Aubrey Plaza</a><a href="https://www.whosdatedwho.com/dating/aubrey-plaza-and-johnny-simmons"><ul><li>
+							The To Do List<br />
+							2013
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/emma-roberts-and-johnny-simmons"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/q/g/qgalq4pted2qpdlq.jpg?skj2io4l" alt="Emma Roberts and Johnny Simmons" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/q/g/qgalq4pted2qqqpg.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/emma-roberts">Emma Roberts</a><a href="https://www.whosdatedwho.com/dating/emma-roberts-and-johnny-simmons"><ul><li>
+							Hotel for Dogs<br />
+							2009
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/johnny-simmons-and-amanda-seyfried"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/v/i/vifh4xp53d1c415.jpg?skj2io4l" alt="Johnny Simmons and Amanda Seyfried" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/v/i/vifh4xp53d1ccp3.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/amanda-seyfried">Amanda Seyfried</a><a href="https://www.whosdatedwho.com/dating/johnny-simmons-and-amanda-seyfried"><ul><li>
+							Jennifer's Body<br />
+							2009
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/johnny-simmons-and-ezra-miller"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/8/5/851fqods3afo3oo1.jpg?skj2io4l" alt="Johnny Simmons and Ezra Miller" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/8/5/851fqods3afod53f.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/ezra-miller">Ezra Miller</a><a href="https://www.whosdatedwho.com/dating/johnny-simmons-and-ezra-miller"><ul><li>
+							The Perks of Being a Wallflower<br />
+							2012
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/johnny-simmons-and-megan-fox"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/0/n/0nllyr69wj4294yn.jpg?skj2io4l" alt="Johnny Simmons and Megan Fox" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/0/n/0nllyr69wj42r09l.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/megan-fox">Megan Fox</a><a href="https://www.whosdatedwho.com/dating/johnny-simmons-and-megan-fox"><ul><li>
+							Jennifer's Body<br />
+							2009
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></ul></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/johnny-simmons/forum" title="Johnny Simmons discussion board">View all comments (27)</a></small></h3><div data-ffw="content" data-ff-eid="34744151" data-ff-url="" data-ff-tid="6" data-ff-id="33049262" data-ff-title="here is my email address jina_morgan
+atyahoo.com
+write to me,
+thanks" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/jina4love"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/9/h/9hae7oouxojgoexa.jpg?skj2io4l" alt="jina4love" class=" " /></span><span data-ff-webname>jina4love</span></a><span class="ff-bullet"></span><span data-ff-time="2014-06-07 05:54:26" class="ff-comment-time">Jun 7, 2014</span><p data-ff-auto-image class="ff-comment" data-ff-text>here is my email address jina_morgan
+atyahoo.com
+write to me,
+thanks</p></div><div data-ffw="content" data-ff-eid="34718282" data-ff-url="" data-ff-tid="6" data-ff-id="26772260" data-ff-title="Hello my dear how are you doing
+I love ur profile,
+I Miss zarrina isako
+please contact me
+here in my private
+Email OK,
+
+I&#039;ll be waiting.
+Yours new friend zarrina" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/zarrinalove11"><span class="ff-img" data-ff-image></span><span data-ff-webname>zarrinalove11</span></a><span class="ff-bullet"></span><span data-ff-time="2013-09-24 13:55:41" class="ff-comment-time">Sep 24, 2013</span><p data-ff-auto-image class="ff-comment" data-ff-text>Hello my dear how are you doing
+I love ur profile,
+I Miss zarrina isako
+please contact me
+here in my private
+Email OK,
+
+I'll be waiting.
+Yours new friend zarrina</p></div><div data-ffw="content" data-ff-eid="34649578" data-ff-url="" data-ff-tid="6" data-ff-id="18506128" data-ff-title="I dont like him, he&amp;#39;s thinks he&amp;#39;s the bomb when he is not" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/stephaniiie"><span class="ff-img" data-ff-image></span><span data-ff-webname>stephaniiie</span></a><span class="ff-bullet"></span><span data-ff-time="2012-03-02 02:15:41" class="ff-comment-time">Mar 2, 2012</span><p data-ff-auto-image class="ff-comment" data-ff-text>I dont like him, he&#39;s thinks he&#39;s the bomb when he is not</p></div><div data-ffw="content" data-ff-eid="34627651" data-ff-url="" data-ff-tid="6" data-ff-id="17277038" data-ff-title="Johnny is working on three movies in 2011. 21 Jump Street, Perks of Being a Wallflower, and The To-Do List." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/hadtoleave"><span class="ff-img" data-ff-image></span><span data-ff-webname>hadtoleave</span></a><span class="ff-bullet"></span><span data-ff-time="2011-07-04 12:34:19" class="ff-comment-time">Jul 4, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>Johnny is working on three movies in 2011. 21 Jump Street, Perks of Being a Wallflower, and The To-Do List.</p></div><div data-ffw="content" data-ff-eid="34627651" data-ff-url="" data-ff-tid="6" data-ff-id="17276885" data-ff-title="Johnny dated Zoe Kravitz whom he worked with on the movie &amp;#34;The Greatest&amp;#34;" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/hadtoleave"><span class="ff-img" data-ff-image></span><span data-ff-webname>hadtoleave</span></a><span class="ff-bullet"></span><span data-ff-time="2011-07-04 11:54:49" class="ff-comment-time">Jul 4, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>Johnny dated Zoe Kravitz whom he worked with on the movie &#34;The Greatest&#34;</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16895735" data-ff-title="I saw you in Scott pilgrim, and I thought you were a funny and sweet guy,then I saw you in jennifers body,and I almost cried, :( why must the hot die young.......young neil that is. ;)" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>rebecca</span></span><span class="ff-bullet"></span><span data-ff-time="2011-05-25 21:24:52" class="ff-comment-time">May 25, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>I saw you in Scott pilgrim, and I thought you were a funny and sweet guy,then I saw you in jennifers body,and I almost cried, :( why must the hot die young.......young neil that is. ;)</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16645420" data-ff-title="I LOVE YOU JOHNNY SIMMONS!!!!!!!!!!!!!! you are like my life and yesterday i had a dream that you had your graduation and i was there with you and then you came running after me to tell me &amp;#34;I LOVE YOU!&amp;#34; and then we kissed and then i had to wake up and i swear down that i wasn&amp;#39;t lying i swear down on my entire life . I really want to meet you . When i watched Jennifer&amp;#39;s Body yesterday i was crying like anything and still am :( And you are the cutest and hottest boy I&amp;#39;ve ever seen and ever to see.!!!!!!!!!!!!!!!!!" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Pooja</span></span><span class="ff-bullet"></span><span data-ff-time="2011-03-21 08:54:31" class="ff-comment-time">Mar 21, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>I LOVE YOU JOHNNY SIMMONS!!!!!!!!!!!!!! you are like my life and yesterday i had a dream that you had your graduation and i was there with you and then you came running after me to tell me &#34;I LOVE YOU!&#34; and then we kissed and then i had to wake up and i swear down that i wasn&#39;t lying i swear down on my entire life . I really want to meet you . When i watched Jennifer&#39;s Body yesterday i was crying like anything and still am :( And you are the cutest and hottest boy I&#39;ve ever seen and ever to see.!!!!!!!!!!!!!!!!!</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16600389" data-ff-title="i love johnny is in best actor" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>mariel</span></span><span class="ff-bullet"></span><span data-ff-time="2011-03-05 22:14:17" class="ff-comment-time">Mar 5, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>i love johnny is in best actor</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16429675" data-ff-title="I super love Johnny Simmons! hope God would give me a chance to meet you personally. you&#039;re absolutely handsome! mwuah!" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Will Darasin</span></span><span class="ff-bullet"></span><span data-ff-time="2011-02-01 03:36:34" class="ff-comment-time">Feb 1, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>I super love Johnny Simmons! hope God would give me a chance to meet you personally. you're absolutely handsome! mwuah!</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16390094" data-ff-title="You are sooooo cute~~~ I was also born on November 28th ~~ I want to meet you~~  I cried soooo bad when you died in Jennifers body :(" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Claudia</span></span><span class="ff-bullet"></span><span data-ff-time="2011-01-19 13:27:49" class="ff-comment-time">Jan 19, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>You are sooooo cute~~~ I was also born on November 28th ~~ I want to meet you~~  I cried soooo bad when you died in Jennifers body :(</p></div><div data-ffw="content" data-ff-eid="34604266" data-ff-url="" data-ff-tid="6" data-ff-id="16368856" data-ff-title="i love youu... when you died in jennifers body i cried forever.. your the best actor in the world! and the hottest :)" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/jodis900"><span class="ff-img" data-ff-image></span><span data-ff-webname>jodis900</span></a><span class="ff-bullet"></span><span data-ff-time="2011-01-12 19:50:50" class="ff-comment-time">Jan 12, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>i love youu... when you died in jennifers body i cried forever.. your the best actor in the world! and the hottest :)</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="15947563" data-ff-title="I`m your BIGEST FAN I think your super super hot!" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Chasidee</span></span><span class="ff-bullet"></span><span data-ff-time="2010-09-01 00:30:08" class="ff-comment-time">Sep 1, 2010</span><p data-ff-auto-image class="ff-comment" data-ff-text>I`m your BIGEST FAN I think your super super hot!</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/johnny-simmons/forum" title="Johnny Simmons discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/will-adamowicz"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/r/3/r3icxx0iax1zxza.jpg?skj2io4l" alt="Will Adamowicz" class=" " /><div class="ff-name">Will Adamowicz</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/tom-felton"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/j/8/j8xsr6sa3agjg8ar.jpg?skj2io4l" alt="Tom Felton" class=" " /><div class="ff-name">Tom Felton</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>96</span></span><span class="ff-rank-change"><span>+175</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/josh-hutcherson"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/h/k/hkjesnncob5zsck5.jpg?skj2io4l" alt="Josh Hutcherson" class=" " /><div class="ff-name">Josh Hutcherson</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>150</span></span><span class="ff-rank-change"><span>+87</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/daniel-radcliffe-actor"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/h/r/hrkg3thynofzohhg.jpg?skj2io4l" alt="Daniel Radcliffe" class=" " /><div class="ff-name">Daniel Radcliffe</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>371</span></span><span class="ff-rank-change"><span>+295</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/evan-peters"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/0/t/0t8cl0m6lunrr8l0.jpg?skj2io4l" alt="Evan Peters" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/0/t/0t8cl0m6lunrulrm.jpg?skj2io4l" /><div class="ff-name">Evan Peters</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>2</span></span><span class="ff-rank-change ff-neg"><span>-1</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-film-actors" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/x/8/x8a78izss80f88zx.jpg?skj2io4l" alt="American film actors" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American film actors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/actors-from-texas" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/d/9/d99uaoxj5yjtjjx.jpg?skj2io4l" alt="Actors from Texas" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Actors from Texas
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1986-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/7/p/7pj7yet62p3036t.jpg?skj2io4l" alt="1986 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1986 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/people-from-dallas-texas" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/m/t/mt34rpp4b0s8rtpm.jpg?skj2io4l" alt="People from Dallas, Texas" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						People from Dallas, Texas
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-screen-actor-1980s-birth-stubs" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/6/k/6kp8hlmzztemtmml.jpg?skj2io4l" alt="American screen actor, 1980s birth stubs" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American screen actor, 1980s birth stubs
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Johnny Simmons</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/WhiteRose" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/f/dfgxcz952mo8xdz8.jpg?skj2io4l" alt="WhiteRose" class=" " /></div><div style="float:right">
+					66
+				</div>
+					WhiteRose
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/mfplayboy" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					40
+				</div>
+					mfplayboy
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/cb80" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/w/m/wmhcvuf7uznan7f.jpg?skj2io4l" alt="cb80" class=" " /></div><div style="float:right">
+					22
+				</div>
+					cb80
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Tracker748" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" alt="Tracker748" class=" " /></div><div style="float:right">
+					19
+				</div>
+					Tracker748
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/hadtoleave" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					19
+				</div>
+					hadtoleave
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Johnny Simmons profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Johnny Simmons to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="134749:johnny-simmons"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Johnny Simmons</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/115761330">
+			Taylor Kitsch and Johnny Simmons
+		</a></li><li style="clear:both;"><a href="/six-degrees/109672635">
+			Christina Ricci and Robert Sheehan
+		</a></li><li style="clear:both;"><a href="/six-degrees/109519674">
+			Johnny Simmons and Dylan O'Brien
+		</a></li><li style="clear:both;"><a href="/six-degrees/108257727">
+			Johnny Simmons and Katie Peterson
+		</a></li><li style="clear:both;"><a href="/six-degrees/107934295">
+			Logan Lerman and Robert Sheehan
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Johnny Simmons</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/johnny-simmons"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/3/l/3lldjllo8ob4l8l4.jpg?skj2io4l" alt="Scott Pilgrim vs. the World - Johnny Simmons" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/johnny-simmons"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/e/9/e94lh6fz69hz9efl.jpg?skj2io4l" alt="Scott Pilgrim vs. the World - Johnny Simmons" class=" " /></a></div><a href="https://www.famousfix.com/topic/johnny-simmons" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												trivia, 
+																									photos, 
+																									videos, 
+																									news
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.352</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,134749,2,1,"","",3,"%2Fdating%2Fjohnny-simmons","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

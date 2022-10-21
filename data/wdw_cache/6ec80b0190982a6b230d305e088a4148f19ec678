@@ -1,0 +1,758 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Jessica Craig dating? Jessica Craig boyfriend, husband</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/jessica-craig" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/jessica-craig" /><meta name="title" content="Who is Jessica Craig dating? Jessica Craig boyfriend, husband" /><meta name="description" content="18 October 2022... Jessica Craig news, gossip, photos of Jessica Craig, biography, Jessica Craig boyfriend list 2022. Relationship history. Jessica Craig relationship list. Jessica Craig dating history, 2022, 2021, list of Jessica Craig relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/jessica-craig" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Jessica Craig" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img2.bdbphotos.com/images/orig/5/v/5v5nrmz59k50v5nk.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/jessica-craig",
+  "name": "Jessica Craig",
+"jobTitle": "Socialite",  "url": "https://www.whosdatedwho.com/dating/jessica-craig",
+"birthDate": "1982-04-00",  "spouse": {
+	"@type": "Person",
+  	"name": "Jonathan Baillie",
+	"url": "https://www.whosdatedwho.com/dating/jonathan-baillie"
+  },
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 4,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Person",
+        "name": "Jonathan Baillie",
+        "url": "https://www.whosdatedwho.com/dating/jessica-craig#dating-jonathan-baillie",
+		        "image": "//img5.bdbphotos.com/images/orig/k/h/kh8n5loqxttvxqt5.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Captain Philip Kaye",
+        "url": "https://www.whosdatedwho.com/dating/jessica-craig#dating-captain-philip-kaye",
+		        "image": "//img1.bdbphotos.com/images/orig/h/h/hhpud6n6p21fhfpp.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Hugh Crossley",
+        "url": "https://www.whosdatedwho.com/dating/jessica-craig#dating-hugh-crossley",
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Prince William",
+        "url": "https://www.whosdatedwho.com/dating/jessica-craig#dating-prince-william-royalty",
+		        "image": "//img6.bdbphotos.com/images/orig/d/8/d84xmelmiykiemm8.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="jessica-craig" data-ff-tid="1" data-ff-id="45245" data-ff-title="Jessica Craig" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="45245"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/jessica-craig">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-jessica-craig" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Jessica Craig 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-jessica-craig"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/5/v/5v5nrmz59k50nkz5.jpg?skj2io4l" alt="Jessica Craig" class=" " /></div></div><div class="ff-relationship text-center ff-married" ><span>Married</span></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Jessica Craig&nbsp;&nbsp;<span class="ff-smaller">Kenyan Socialite</span></div><div class="ff-thumbs"><span onClick="contentVote('v45245101',45245,1,0,1,'jessica-craig');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v45245101">7</v></span><span onClick="contentVote('v4524510-1',45245,1,0,'-1','jessica-craig');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v4524510-1">1</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/jessica-craig/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">40</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-capricorn"><i class="icon-capricorn"></i></a></div><div class="footer">Capricorn</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">4</div><div class="footer">total</div></a></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Jessica Craig dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is she
+				dating right now?
+			</b></div><div style="position:relative;width:51%;padding-left:108px;height:130px;margin-bottom:20px;"><div style="position:absolute;left:0;top:0"><img width="100" height="130" style="width:100px;height:130px;" src="//img4.bdbphotos.com/images/120x156/y/7/y7sokq7mt4q7q4.jpg?skj2io4l" alt="Jessica Craig and Jonathan Baillie" class=" " /></div><a href="/dating/jonathan-baillie">Jonathan Baillie</a> and <a href="/dating/jessica-craig">Jessica Craig</a> have been married for 6 years since 16th Mar 2016.
+    				<a class="button radius small" href="jessica-craig-and-jonathan-baillie" style="position:absolute;bottom:0;left:108px;right:0;background-color:#ad0400;margin:0;">view relationship</a></div><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="jessica-craig">Jessica Craig</topic> has been in relationships with <a href="/dating/captain-philip-kaye">Captain Philip Kaye</a><span> (2010 - 2012)</span>, <a href="/dating/hugh-crossley">Hugh Crossley</a><span> (2008)</span> and <a href="/dating/prince-william-royalty">Prince William</a><span> (2001)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="jessica-craig">Jessica Craig</topic> is a 40 year old Kenyan Socialite. Born Jessica Elizabeth Craig in April, 1982 in Taunton, England, UK, she is famous for Prince William&#39;s Ex-Girlfriend. Her zodiac sign is Capricorn.</p><p class="ff-auto-about"><topic url="jessica-craig">Jessica Craig</topic> is a member of the following lists: <a href="/lists/people-from-taunton">People from Taunton</a>, <a href="/lists/kenyan-people">Kenyan people</a> and <a href="/lists/conservationists">Conservationists</a>.</p><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Jessica Craig dating? Jessica Craig boyfriend, husband list. Help us build our profile of Jessica Craig! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/jessica-craig">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Jessica Craig and Jonathan Baillie">
+								7 years, 6 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Dating</th><td>3</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Jecca Craig and Captain Philip Kaye">
+								1 year, 7 months
+							</span></td><td>
+													10 months, 4 days
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Jecca Craig and Hugh Crossley">
+								11 months, 5 days
+							</span></td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">4</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Jessica Craig and Jonathan Baillie">
+								7 years, 6 months
+						</span></td><td style="font-style:oblique">
+											2 years, 6 months
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Jecca Craig and Hugh Crossley">
+							11 months, 5 days
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Jessica
+													</td></tr><tr><td>Last Name</td><td>
+															Craig
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Jessica Elizabeth Craig
+													</td></tr><tr><td>Alternative Name</td><td>
+															Jecca Craig, Jessica &#39;Jecca&#39; Craig
+													</td></tr><tr><td>Age</td><td>
+															40 years
+													</td></tr><tr><td>Birthday</td><td>
+															31st March, 1982
+													</td></tr><tr><td>Birthplace</td><td>
+															Taunton, England, UK
+													</td></tr><tr><td>Build</td><td>
+															Slim
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Light
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Capricorn
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															Kenyan
+													</td></tr><tr><td>University</td><td>
+															University College London
+													</td></tr><tr><td>Occupation</td><td>
+															Socialite
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Prince William&#39;s Ex-Girlfriend
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Jessica Craig, known as Jecca Craig, is an environmental conservationist and doctoral student at University College London. She helped found Panthera, the world’s largest wildcat conservation organization and Stop Ivory, an independent NGO aiming to protect elephant and stop the trade in ivory. She is currently completing a doctorate on the use of remote camera traps and other technology to monitor and manage protected areas.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Jessica Craig
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Jessica Craig
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/jessica-craig/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			4
+		</td><td><a data-ff-gx="View Person,jonathan-baillie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jonathan-baillie">
+				Jonathan Baillie
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Apr 2015
+					</td><td>
+							present
+					</td><td>
+						    			7 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,jessica-craig-and-jonathan-baillie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jessica-craig-and-jonathan-baillie"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,captain-philip-kaye" data-ff-gx-click href="https://www.whosdatedwho.com/dating/captain-philip-kaye">
+				Captain Philip Kaye
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Jun 2010
+					</td><td>
+						    2012
+					</td><td>
+						    			1 year
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,jecca-craig-and-captain-philip-kaye" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jecca-craig-and-captain-philip-kaye"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,hugh-crossley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/hugh-crossley">
+				Hugh Crossley
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Jan 2008
+					</td><td>
+						    Dec 2008
+					</td><td>
+						    			
+    			    			11 months
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,jecca-craig-and-hugh-crossley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jecca-craig-and-hugh-crossley"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,prince-william-royalty" data-ff-gx-click href="https://www.whosdatedwho.com/dating/prince-william-royalty">
+				Prince William
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    2001
+					</td><td>
+						    2001
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,prince-windsor-and-jessica-craig" data-ff-gx-click href="https://www.whosdatedwho.com/dating/prince-windsor-and-jessica-craig"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-jonathan-baillie"><a data-ff-gx="View Person,jonathan-baillie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jonathan-baillie"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/k/h/kh8n5loqxttvvtt.jpg?skj2io4l" alt="Jonathan Baillie" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+							</div><h4 class="ff-title">
+								Jonathan Baillie
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v62737581452451',6273758,1,45245,1,'jessica-craig-and-jonathan-baillie');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v62737581452451">2</v></span><span onClick="contentVote('v6273758145245-1',6273758,1,45245,'-1','jessica-craig-and-jonathan-baillie');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v6273758145245-1">2</v></span></div></div><h3>2015</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,jessica-craig-and-jonathan-baillie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jessica-craig-and-jonathan-baillie">
+			
+							Jonathan Baillie and Jessica Craig have been ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-captain-philip-kaye"><a data-ff-gx="View Person,captain-philip-kaye" data-ff-gx-click href="https://www.whosdatedwho.com/dating/captain-philip-kaye"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/h/h/hhpud6n6p21fuhdp.jpg?skj2io4l" alt="Captain Philip Kaye" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Captain Philip Kaye
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v88935761452451',8893576,1,45245,1,'jecca-craig-and-captain-philip-kaye');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v88935761452451">2</v></span><span onClick="contentVote('v8893576145245-1',8893576,1,45245,'-1','jecca-craig-and-captain-philip-kaye');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8893576145245-1">4</v></span></div></div><h3>2010 - 2012</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,jecca-craig-and-captain-philip-kaye" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jecca-craig-and-captain-philip-kaye">
+			
+							Captain Philip Kaye and Jessica Craig are sep...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-hugh-crossley"><a data-ff-gx="View Person,hugh-crossley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/hugh-crossley"><div class="ff-img"><div class="ff-placeholder sz-medium " style="width:198px;height:259px;"><i class="icon-celebrity" style="font-size:148.5px;line-height:194.25px;overflow:hidden"></i></div><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Hugh Crossley
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v64629731452451',6462973,1,45245,1,'jecca-craig-and-hugh-crossley');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v64629731452451">1</v></span><span onClick="contentVote('v6462973145245-1',6462973,1,45245,'-1','jecca-craig-and-hugh-crossley');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v6462973145245-1">2</v></span></div></div><h3>2008</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,jecca-craig-and-hugh-crossley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jecca-craig-and-hugh-crossley">
+			
+							Hugh Crossley and Jessica Craig are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-prince-william-royalty"><a data-ff-gx="View Person,prince-william-royalty" data-ff-gx-click href="https://www.whosdatedwho.com/dating/prince-william-royalty"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/d/8/d84xmelmiykiilym.jpg?skj2io4l" alt="Prince William" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Prince William
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v25441452451',2544,1,45245,1,'prince-windsor-and-jessica-craig');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v25441452451">16</v></span><span onClick="contentVote('v2544145245-1',2544,1,45245,'-1','prince-windsor-and-jessica-craig');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2544145245-1">2</v></span></div></div><h3>2001</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,prince-windsor-and-jessica-craig" data-ff-gx-click href="https://www.whosdatedwho.com/dating/prince-windsor-and-jessica-craig">
+			
+							Jessica Craig and Prince William are separate...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-ad-fill"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_Gallery_Filler_336x280 --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="2266760956"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/k/h/kh8n5loqxttvxqt5.jpg?skj2io4l')" data-ff-gx="View Person,jonathan-baillie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jonathan-baillie"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+				</div><div class="ff-details"><h4 class="ff-title"><a href="jonathan-baillie" data-ff-gx="View Person,jonathan-baillie" data-ff-gx-click>Jonathan Baillie</a></h4><h3>
+						2015
+						<small></small></h3><p data-ff-gx="View Couple,jessica-craig-and-jonathan-baillie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jessica-craig-and-jonathan-baillie">
+												
+						Jonathan Baillie and Jessica Craig have been married for 6 years. After 11 months of engagement they were married on 16th Mar 2016.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">7</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/jessica-craig-and-jonathan-baillie/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Age</td><td>52%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">43%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:50%;border-bottom:2px solid green;"></div><div style="float:left;width:50%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v62737581452451',6273758,1,45245,1,'jessica-craig-and-jonathan-baillie');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v62737581452451">2</v></span><span onClick="contentVote('v6273758145245-1',6273758,1,45245,'-1','jessica-craig-and-jonathan-baillie');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v6273758145245-1">2</v></span></div><a class="button radius small ff-view-button" href="jessica-craig-and-jonathan-baillie"  data-ff-gx="View Couple,jessica-craig-and-jonathan-baillie" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/h/h/hhpud6n6p21fhfpp.jpg?skj2io4l')" data-ff-gx="View Person,captain-philip-kaye" data-ff-gx-click href="https://www.whosdatedwho.com/dating/captain-philip-kaye"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="captain-philip-kaye" data-ff-gx="View Person,captain-philip-kaye" data-ff-gx-click>Captain Philip Kaye</a></h4><h3>
+						2010 - 2012
+						<small></small></h3><p data-ff-gx="View Couple,jecca-craig-and-captain-philip-kaye" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jecca-craig-and-captain-philip-kaye">
+												
+						Captain Philip Kaye and Jessica Craig had a relationship from Jun 2010 to 2012.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">1</div><div class="footer">years</div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/jecca-craig-and-captain-philip-kaye/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:33.333333333333%;border-bottom:2px solid green;"></div><div style="float:left;width:66.666666666667%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v88935761452451',8893576,1,45245,1,'jecca-craig-and-captain-philip-kaye');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v88935761452451">2</v></span><span onClick="contentVote('v8893576145245-1',8893576,1,45245,'-1','jecca-craig-and-captain-philip-kaye');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8893576145245-1">4</v></span></div><a class="button radius small ff-view-button" href="jecca-craig-and-captain-philip-kaye"  data-ff-gx="View Couple,jecca-craig-and-captain-philip-kaye" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('')" data-ff-gx="View Person,hugh-crossley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/hugh-crossley"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="hugh-crossley" data-ff-gx="View Person,hugh-crossley" data-ff-gx-click>Hugh Crossley</a></h4><h3>
+						2008
+						<small></small></h3><p data-ff-gx="View Couple,jecca-craig-and-hugh-crossley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jecca-craig-and-hugh-crossley">
+												
+						Hugh Crossley and Jessica Craig had a relationship from Jan 2008 to Dec 2008.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">11</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/jecca-craig-and-hugh-crossley/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Age</td><td>44%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">16%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:33.333333333333%;border-bottom:2px solid green;"></div><div style="float:left;width:66.666666666667%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v64629731452451',6462973,1,45245,1,'jecca-craig-and-hugh-crossley');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v64629731452451">1</v></span><span onClick="contentVote('v6462973145245-1',6462973,1,45245,'-1','jecca-craig-and-hugh-crossley');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v6462973145245-1">2</v></span></div><a class="button radius small ff-view-button" href="jecca-craig-and-hugh-crossley"  data-ff-gx="View Couple,jecca-craig-and-hugh-crossley" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/d/8/d84xmelmiykiemm8.jpg?skj2io4l')" data-ff-gx="View Person,prince-william-royalty" data-ff-gx-click href="https://www.whosdatedwho.com/dating/prince-william-royalty"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="prince-william-royalty" data-ff-gx="View Person,prince-william-royalty" data-ff-gx-click>Prince William</a></h4><h3>
+						2001
+						<small></small></h3><p data-ff-gx="View Couple,prince-windsor-and-jessica-craig" data-ff-gx-click href="https://www.whosdatedwho.com/dating/prince-windsor-and-jessica-craig">
+												
+						Jessica Craig and Prince William dated in 2001.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/prince-windsor-and-jessica-craig/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>20%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">35%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:88.888888888889%;border-bottom:2px solid green;"></div><div style="float:left;width:11.111111111111%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v25441452451',2544,1,45245,1,'prince-windsor-and-jessica-craig');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v25441452451">16</v></span><span onClick="contentVote('v2544145245-1',2544,1,45245,'-1','prince-windsor-and-jessica-craig');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2544145245-1">2</v></span></div><a class="button radius small ff-view-button" href="prince-windsor-and-jessica-craig"  data-ff-gx="View Couple,prince-windsor-and-jessica-craig" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/jessica-craig">Jessica Craig</a></td><td>40</td><td><i class="icon-40"></i>
+
+Capricorn</td><td>Socialite</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ke.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Kenyan</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/jonathan-baillie">Jonathan Baillie</a></td><td>37</td><td><i class="icon-48"></i>
+
+Virgo</td><td>Educator</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ca.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Canadian</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/captain-philip-kaye">Captain Philip Kaye</a></td><td>-</td><td><i class="icon-"></i></td><td></td><td><br /></td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/hugh-crossley">Hugh Crossley</a></td><td>51</td><td><i class="icon-"></i></td><td>Politician</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/prince-william-royalty">Prince William</a></td><td>40</td><td><i class="icon-45"></i>
+
+Gemini</td><td>Royalty</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.children" class="ff-dropitem block-topic-children" data-ff-name="topic.children"><div id="section-children" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Children 
+									
+								</h2></div><div class="ff-block-content " id="ff-children"><table class="ff-table" width="100%"><thead><tr><th>Name</th><th>Gender</th><th>Born</th><th>Age</th><th>Other Parent</th></tr></thead><tbody><tr><td>Wolf</td><td>Male</td><td>2015</td><td>7 years old</td><td><a href="jonathan-baillie">Jonathan Baillie</a></td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-45245"
+		data-ff-thumbs-id="gallery-thumbs-45245"
+		data-ff-topic="45245"
+><div id="gallery-display-45245" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/i/j/ij04jrhef83hrjej.jpg?skj2io4l"><div class="ff-caption">Prince Windsor and Jessica Craig</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/e/4/e4yzcvxawvizivx.jpg?skj2io4l"><div class="ff-caption">Prince Windsor and Jessica Craig</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/q/u/quyzj9m7mt1ctmc9.jpg?skj2io4l"><div class="ff-caption">Prince Windsor and Jessica Craig</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/h/i/hi3vhm7xxswxhv7h.jpg?skj2io4l"><div class="ff-caption">Clay Walker, Jessica Craig</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/8/u/8u15gazxhdb1811h.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/z/8/z88eg064k3v8z88k.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/z/8/z854esy335scse38.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/r/2/r2jhrk7aenithjkt.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/1/5/15xj5adjbzj7zb7a.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/5/t/5tj4gikttgt9tgk.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/5/l/5lwh3oasfo79hwo9.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/v/a/vacm20eqdziw02qa.jpg?skj2io4l"><div class="ff-caption">Jessica Craig</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-45245" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/i/j/ij04jrhef83hrjej.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/e/4/e4yzcvxawvizivx.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/q/u/quyzj9m7mt1ctmc9.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/h/i/hi3vhm7xxswxhv7h.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/8/u/8u15gazxhdb1811h.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/z/8/z88eg064k3v8z88k.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/z/8/z854esy335scse38.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/r/2/r2jhrk7aenithjkt.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/1/5/15xj5adjbzj7zb7a.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/5/t/5tj4gikttgt9tgk.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/5/l/5lwh3oasfo79hwo9.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/v/a/vacm20eqdziw02qa.jpg?skj2io4l)"></div></div></div></div></div></fieldset>								<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Have your say</h3><a href="https://www.famousfix.com/topic/jessica-craig/forum" title="Jessica Craig discussion board">Be the first to make a comment >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/catherine-duchess-of-cambridge"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/6/m/6mosifz3bywqsyz.jpg?skj2io4l" alt="Catherine Duchess of Cambridge" class=" " /><div class="ff-name">Catherine Duchess of Cambridge</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,483</span></span><span class="ff-rank-change ff-neg"><span>-578</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/olivia-hunt"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/h/4/h4rdvgf0t6sovs0.jpg?skj2io4l" alt="Olivia Hunt" class=" " /><div class="ff-name">Olivia Hunt</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/natasha-hamilton"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/h/8/h8m0wvigmva4v4m.jpg?skj2io4l" alt="Natasha Hamilton" class=" " /><div class="ff-name">Natasha Hamilton</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/isabella-calthorpe"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/y/a/yab2p348epa1p8aa.jpg?skj2io4l" alt="Isabella Calthorpe" class=" " /><div class="ff-name">Isabella Calthorpe</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/prince-harry-windsor"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/5/m/5md3u45etnpcn553.jpg?skj2io4l" alt="Prince Harry" class=" " /><div class="ff-name">Prince Harry</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>425</span></span><span class="ff-rank-change ff-neg"><span>-108</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/davina-duckworth"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/t/v/tvwxw28vn2rkwrv.jpg?skj2io4l" alt="Davina Duckworth" class=" " /><div class="ff-name">Davina Duckworth</div><div class="ff-rank"></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/people-from-taunton" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/i/c/ic6clr3wacuzc3zr.jpg?skj2io4l" alt="People from Taunton" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						People from Taunton
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/kenyan-people" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/i/j/ijcta0any4on4an0.jpg?skj2io4l" alt="Kenyan people" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Kenyan people
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/conservationists" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/g/z/gztvdjlxh7jwlvht.jpg?skj2io4l" alt="Conservationists" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Conservationists
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/environmentalists" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/g/1/g1kzwx2b31ucxkb1.jpg?skj2io4l" alt="Environmentalists" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Environmentalists
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/kenyan-conservationists" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/o/9/o9iapxxaxbj2xaxi.jpg?skj2io4l" alt="Kenyan conservationists" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Kenyan conservationists
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Jessica Craig</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Blondie_87" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/o/do9b2acrkxmrombx.jpg?skj2io4l" alt="Blondie_87" class=" " /></div><div style="float:right">
+					60
+				</div>
+					Blondie_87
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/stevens08" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/d/dd9j5z4ml3nbblm.jpg?skj2io4l" alt="stevens08" class=" " /></div><div style="float:right">
+					21
+				</div>
+					stevens08
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/SheillaY" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/p/8/p81hcifk60zv0fvi.jpg?skj2io4l" alt="SheillaY" class=" " /></div><div style="float:right">
+					18
+				</div>
+					SheillaY
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/summersbasket" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/1/1/11mbhhy448hn1hb8.jpg?skj2io4l" alt="summersbasket" class=" " /></div><div style="float:right">
+					14
+				</div>
+					summersbasket
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Jeeh" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/k/dkk9z2swhuduzksd.jpg?skj2io4l" alt="Jeeh" class=" " /></div><div style="float:right">
+					10
+				</div>
+					Jeeh
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Jessica Craig profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Jessica Craig to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="45245:jessica-craig"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Jessica Craig</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/70096696">
+			Natalie Portman and Jonathan Baillie
+		</a></li><li style="clear:both;"><a href="/six-degrees/68222891">
+			Prince Harry Windsor and Captain Philip Kaye
+		</a></li><li style="clear:both;"><a href="/six-degrees/67721858">
+			Jessica Craig and Anthony Jeselnik
+		</a></li><li style="clear:both;"><a href="/six-degrees/67721854">
+			Pauly Shore and Jessica Craig
+		</a></li><li style="clear:both;"><a href="/six-degrees/67721852">
+			John Malkovich and Jessica Craig
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Jessica Craig</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/jessica-craig"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/i/j/ij04jrhef83h8ih4.jpg?skj2io4l" alt="Prince Windsor and Jessica Craig" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/jessica-craig"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/e/4/e4yzcvxawvizvzw.jpg?skj2io4l" alt="Prince Windsor and Jessica Craig" class=" " /></a></div><a href="https://www.famousfix.com/topic/jessica-craig" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																									videos, 
+																									news, 
+																									lists
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+		
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.300</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,45245,2,1,"","",3,"%2Fdating%2Fjessica-craig","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

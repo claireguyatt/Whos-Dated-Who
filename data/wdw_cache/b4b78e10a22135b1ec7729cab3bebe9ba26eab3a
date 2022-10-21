@@ -1,0 +1,735 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Emily Scott dating? Emily Scott boyfriend, husband</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/emily-scott" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/emily-scott" /><meta name="title" content="Who is Emily Scott dating? Emily Scott boyfriend, husband" /><meta name="description" content="18 October 2022... Emily Scott news, gossip, photos of Emily Scott, biography, Emily Scott boyfriend list 2022. Relationship history. Emily Scott relationship list. Emily Scott dating history, 2022, 2021, list of Emily Scott relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/emily-scott" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Emily Scott" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img6.bdbphotos.com/images/orig/3/b/3bd0wh0edned3ddd.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/emily-scott",
+  "name": "Emily Scott",
+"jobTitle": "Model (Adult/Glamour)",  "url": "https://www.whosdatedwho.com/dating/emily-scott",
+"birthDate": "1983-06-03",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Mark Wright",
+        "url": "https://www.whosdatedwho.com/dating/emily-scott#dating-mark-wright",
+		        "image": "//img5.bdbphotos.com/images/orig/w/z/wz2v0ivwlfal2z0a.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Ritchie Neville",
+        "url": "https://www.whosdatedwho.com/dating/emily-scott#dating-ritchie-neville",
+		        "image": "//img5.bdbphotos.com/images/orig/c/b/cbehwcbfhzr2rzb.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "David Walliams",
+        "url": "https://www.whosdatedwho.com/dating/emily-scott#dating-david-walliams",
+		        "image": "//img5.bdbphotos.com/images/orig/c/0/c0ye6g0x99xjy06x.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="emily-scott" data-ff-tid="1" data-ff-id="44943" data-ff-title="Emily Scott" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="44943"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/emily-scott">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">			</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-emily-scott" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Emily Scott 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-emily-scott"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/3/b/3bd0wh0ednedddhn.jpg?skj2io4l" alt="Emily Scott" class=" " /></div></div><div class="ff-relationship text-center ff-single" ><span>Single</span></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Emily Scott&nbsp;&nbsp;<span class="ff-smaller">Australian Model (Adult/Glamour)</span></div><div class="ff-thumbs"><span onClick="contentVote('v44943101',44943,1,0,1,'emily-scott');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v44943101">20</v></span><span onClick="contentVote('v4494310-1',44943,1,0,'-1','emily-scott');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v4494310-1">4</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/emily-scott/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">39</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-gemini"><i class="icon-gemini"></i></a></div><div class="footer">Gemini</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">3</div><div class="footer">total</div></a></div></div></div><h1 style="font-size: 1.2rem;">Emily Scott dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is she
+				dating right now?
+			</b></div><p class="ff-auto-status"><topic url="emily-scott">Emily Scott</topic> is currently single.
+    				    			</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="emily-scott">Emily Scott</topic> was previously married to <a href="/dating/ritchie-neville">Ritchie Neville</a><span> (2008 - 2010)</span>.</p><p><topic url="emily-scott">Emily Scott</topic> has been in a relationship with <a href="/dating/david-walliams">David Walliams</a><span> (2006)</span>.</p><div class="ff-person-profile-detail-toggle hide"><p><topic url="emily-scott">Emily Scott</topic> is rumoured to have hooked up with <a href="/dating/mark-wright">Mark Wright</a><span> (2011)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="emily-scott">Emily Scott</topic> is a 39 year old Australian Model (Adult/Glamour). Born on 3rd June, 1983 in Canberra, Australian Capital Territory, Australia, she is famous for having appeared in several shows such as I&#8217;m a Celebrity, Get Me Out of Here!, I&#8217;m a Celebrity, Get Me Out of Here! NOW!, Dancing with the Stars, Cirque De Celebrite, Celebrity Love Island, and This Morning. Her zodiac sign is Gemini.</p><p class="ff-auto-about"><topic url="emily-scott">Emily Scott</topic> is a member of the following lists: <a href="/lists/1983-births">1983 births</a>, <a href="/lists/australian-female-models">Australian female models</a> and <a href="/lists/people-from-canberra">People from Canberra</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Emily Scott dating? Emily Scott boyfriend, husband list. Help us build our profile of Emily Scott! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/emily-scott">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Richard Neville and Emily Scott">
+								2 years, 3 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Dating</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="David Walliams and Emily Scott">
+								4 months, 2 days
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Rumoured</th><td>1</td><td>
+													-
+											</td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Richard Neville and Emily Scott">
+								2 years, 3 months
+						</span></td><td style="font-style:oblique">
+											10 months, 15 days
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="David Walliams and Emily Scott">
+							4 months, 2 days
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Emily
+													</td></tr><tr><td>Last Name</td><td>
+															Scott
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Emily Scott
+													</td></tr><tr><td>Alternative Name</td><td>
+															Emily
+													</td></tr><tr><td>Age</td><td>
+															39 years
+													</td></tr><tr><td>Birthday</td><td>
+															3rd June, 1983
+													</td></tr><tr><td>Birthplace</td><td>
+															Canberra, Australian Capital Territory, Australia
+													</td></tr><tr><td>Height</td><td>
+															5&#039; 9&quot; (175 cm)
+													</td></tr><tr><td>Weight</td><td>
+															119lbs (54 kg)
+													</td></tr><tr><td>Build</td><td>
+															Slim
+													</td></tr><tr><td>Eye Color</td><td>
+															Blue
+													</td></tr><tr><td>Hair Color</td><td>
+															Blonde
+													</td></tr><tr><td>Distinctive Feature</td><td>
+															A Koi fish tattoo on her right arm, Toned body, Pouty lips, Deep-set eyes, Pierced ears
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Gemini
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															Australian
+													</td></tr><tr><td>University</td><td>
+															University of Queensland
+													</td></tr><tr><td>Occupation Text</td><td>
+															Model, DJ, Record Producer, Television Personality, Dancer
+													</td></tr><tr><td>Occupation</td><td>
+															Model (Adult/Glamour)
+													</td></tr><tr><td>Claim to Fame</td><td>
+															having appeared in several shows such as I&#8217;m a Celebrity, Get Me Out of Here!, I&#8217;m a Celebrity, Get Me Out of Here! NOW!, Dancing with the Stars, Cirque De Celebrite, Celebrity Love Island, and This Morning
+													</td></tr><tr><td>Music Genre (Text)</td><td>
+															Pop, Dance, House
+													</td></tr><tr><td>Instrument (text)</td><td>
+															Turntables
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															Boss Model Management - Manchester, One Hit Agency
+													</td></tr><tr><td>Brand Endorsement</td><td>
+															New Penny, Lipton Ice Tea
+													</td></tr><tr><td>Bust (inches)</td><td>
+															34
+													</td></tr><tr><td>Cup Size</td><td>
+															B
+													</td></tr><tr><td>Waist (inches)</td><td>
+															26
+													</td></tr><tr><td>Hips (inches)</td><td>
+															35
+													</td></tr><tr><td>Clothes Size</td><td>
+															8
+													</td></tr><tr><td>Shoe Size</td><td>
+															8.5
+													</td></tr><tr><td>Official Websites</td><td>
+															www.bossmodelmanagement.co.uk/models/new-faces/women/emily-scott.htm, www.fashionmodeldirectory.com/models/Emily_Scott/, www.facebook.com/EmilyScottOfficial, www.emilyscotthq.com/, www.twitter.com/emilyscottofficial, instagram.com/emilyscottofficial
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Emily Scott (born 1983) is an Australian model, DJ, record producer, and television personality.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Emily Scott
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Emily Scott
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/emily-scott/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,mark-wright" data-ff-gx-click href="https://www.whosdatedwho.com/dating/mark-wright">
+				Mark Wright
+			</a></td><td>
+			Encounter
+		</td><td style="text-align:center"><a title="Rumor" style="color:#ad0400;font-weight:bold">R</a></td><td>
+						    2011
+					</td><td>
+						    2011
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,emily-scott-and-mark-wright" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emily-scott-and-mark-wright"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,ritchie-neville" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ritchie-neville">
+				Ritchie Neville
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Oct 2007
+					</td><td>
+						    2010
+					</td><td>
+						    			2 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,richard-neville-and-emily-scott" data-ff-gx-click href="https://www.whosdatedwho.com/dating/richard-neville-and-emily-scott"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,david-walliams" data-ff-gx-click href="https://www.whosdatedwho.com/dating/david-walliams">
+				David Walliams
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Aug 2006
+					</td><td>
+						    Dec 2006
+					</td><td>
+						    			
+    			    			4 months
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,david-walliams-and-emily-scott" data-ff-gx-click href="https://www.whosdatedwho.com/dating/david-walliams-and-emily-scott"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-mark-wright"><a data-ff-gx="View Person,mark-wright" data-ff-gx-click href="https://www.whosdatedwho.com/dating/mark-wright"><div class="ff-img"><img width="193.25384615385" height="259" style="width:193.25384615385px;height:259px;" src="//img5.bdbphotos.com/images/orig/w/z/wz2v0ivwlfal2z0a.jpg?skj2io4l" alt="Mark Wright" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><div class="ff-rumour" style=""><span>Rumor</span></div><h4 class="ff-title">
+								Mark Wright
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v28938221449431',2893822,1,44943,1,'emily-scott-and-mark-wright');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v28938221449431">1</v></span><span onClick="contentVote('v2893822144943-1',2893822,1,44943,'-1','emily-scott-and-mark-wright');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2893822144943-1">1</v></span></div></div><h3>2011</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,emily-scott-and-mark-wright" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emily-scott-and-mark-wright">
+			
+							Mark Wright and Emily Scott are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-ritchie-neville"><a data-ff-gx="View Person,ritchie-neville" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ritchie-neville"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/c/b/cbehwcbfhzr22.jpg?skj2io4l" alt="Ritchie Neville" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Ritchie Neville
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v408321449431',40832,1,44943,1,'richard-neville-and-emily-scott');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v408321449431">11</v></span><span onClick="contentVote('v40832144943-1',40832,1,44943,'-1','richard-neville-and-emily-scott');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v40832144943-1">2</v></span></div></div><h3>2007 - 2010</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,richard-neville-and-emily-scott" data-ff-gx-click href="https://www.whosdatedwho.com/dating/richard-neville-and-emily-scott">
+			
+							Emily Scott and Ritchie Neville were divorced...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-david-walliams"><a data-ff-gx="View Person,david-walliams" data-ff-gx-click href="https://www.whosdatedwho.com/dating/david-walliams"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/c/0/c0ye6g0x99xjge06.jpg?skj2io4l" alt="David Walliams" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								David Walliams
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v449371449431',44937,1,44943,1,'david-walliams-and-emily-scott');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v449371449431">2</v></span><span onClick="contentVote('v44937144943-1',44937,1,44943,'-1','david-walliams-and-emily-scott');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v44937144943-1">1</v></span></div></div><h3>2006</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,david-walliams-and-emily-scott" data-ff-gx-click href="https://www.whosdatedwho.com/dating/david-walliams-and-emily-scott">
+			
+							Emily Scott and David Walliams are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/w/z/wz2v0ivwlfal2z0a.jpg?skj2io4l')" data-ff-gx="View Person,mark-wright" data-ff-gx-click href="https://www.whosdatedwho.com/dating/mark-wright"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="mark-wright" data-ff-gx="View Person,mark-wright" data-ff-gx-click>Mark Wright</a></h4><h3>
+						2011
+						<small>
+													(Rumor)
+												</small></h3><p data-ff-gx="View Couple,emily-scott-and-mark-wright" data-ff-gx-click href="https://www.whosdatedwho.com/dating/emily-scott-and-mark-wright">
+												
+						Mark Wright is rumored to have hooked up with Emily Scott in 2011.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/emily-scott-and-mark-wright/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>20%</td></tr><tr><td>Chinese zodiac</td><td>100%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>33%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">52%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:50%;border-bottom:2px solid green;"></div><div style="float:left;width:50%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v28938221449431',2893822,1,44943,1,'emily-scott-and-mark-wright');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v28938221449431">1</v></span><span onClick="contentVote('v2893822144943-1',2893822,1,44943,'-1','emily-scott-and-mark-wright');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2893822144943-1">1</v></span></div><a class="button radius small ff-view-button" href="emily-scott-and-mark-wright"  data-ff-gx="View Couple,emily-scott-and-mark-wright" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/c/b/cbehwcbfhzr2rzb.jpg?skj2io4l')" data-ff-gx="View Person,ritchie-neville" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ritchie-neville"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="ritchie-neville" data-ff-gx="View Person,ritchie-neville" data-ff-gx-click>Ritchie Neville</a></h4><h3>
+						2007 - 2010
+						<small></small></h3><p data-ff-gx="View Couple,richard-neville-and-emily-scott" data-ff-gx-click href="https://www.whosdatedwho.com/dating/richard-neville-and-emily-scott">
+												
+						Emily Scott and Ritchie Neville were married for 1 year. They dated for 1 year after getting together in Oct 2007 and married on 23rd Oct 2008. 1 year later they divorced in 2010.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">2</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/richard-neville-and-emily-scott/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>1%</td></tr><tr><td>Chinese zodiac</td><td>100%</td></tr><tr><td>Height</td><td>37%</td></tr><tr><td>Age</td><td>72%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">53%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:84.615384615385%;border-bottom:2px solid green;"></div><div style="float:left;width:15.384615384615%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v408321449431',40832,1,44943,1,'richard-neville-and-emily-scott');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v408321449431">11</v></span><span onClick="contentVote('v40832144943-1',40832,1,44943,'-1','richard-neville-and-emily-scott');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v40832144943-1">2</v></span></div><a class="button radius small ff-view-button" href="richard-neville-and-emily-scott"  data-ff-gx="View Couple,richard-neville-and-emily-scott" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/c/0/c0ye6g0x99xjy06x.jpg?skj2io4l')" data-ff-gx="View Person,david-walliams" data-ff-gx-click href="https://www.whosdatedwho.com/dating/david-walliams"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="david-walliams" data-ff-gx="View Person,david-walliams" data-ff-gx-click>David Walliams</a></h4><h3>
+						2006
+						<small></small></h3><p data-ff-gx="View Couple,david-walliams-and-emily-scott" data-ff-gx-click href="https://www.whosdatedwho.com/dating/david-walliams-and-emily-scott">
+												
+						Emily Scott and David Walliams had a relationship from Aug 2006 to Dec 2006.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">4</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/david-walliams-and-emily-scott/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>1%</td></tr><tr><td>Chinese zodiac</td><td>40%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>44%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">40%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:66.666666666667%;border-bottom:2px solid green;"></div><div style="float:left;width:33.333333333333%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v449371449431',44937,1,44943,1,'david-walliams-and-emily-scott');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v449371449431">2</v></span><span onClick="contentVote('v44937144943-1',44937,1,44943,'-1','david-walliams-and-emily-scott');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v44937144943-1">1</v></span></div><a class="button radius small ff-view-button" href="david-walliams-and-emily-scott"  data-ff-gx="View Couple,david-walliams-and-emily-scott" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div id="contentad13992"></div><script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "7a4cd0cc-0fb2-497a-81fa-3426f02cfb67",
+            d: "d2hvc2RhdGVkd2hvLmNvbQ==",
+            wid: "13992",
+            cb: (new Date()).getTime()
+        };
+        var qs = Object.keys(params).reduce(function(a, k){ a.push(k + '=' + encodeURIComponent(params[k])); return a},[]).join(String.fromCharCode(38));
+        var s = d.createElement('script'); s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs;
+        d.getElementById("contentad13992").appendChild(s);
+    })(document);
+</script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/emily-scott">Emily Scott</a></td><td>39</td><td><i class="icon-45"></i>
+
+Gemini</td><td>Model (Adult/Glamour)</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/au.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Australian</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/mark-wright">Mark Wright</a></td><td>35</td><td><i class="icon-40"></i>
+
+Capricorn</td><td>Reality TV</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/ritchie-neville">Ritchie Neville</a></td><td>43</td><td><i class="icon-47"></i>
+
+Leo</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/david-walliams">David Walliams</a></td><td>51</td><td><i class="icon-47"></i>
+
+Leo</td><td>Comic</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr></tbody></table></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-44943"
+		data-ff-thumbs-id="gallery-thumbs-44943"
+		data-ff-topic="44943"
+><div id="gallery-display-44943" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/7/v/7vuw0ibr72s5wui5.jpg?skj2io4l"><div class="ff-caption">Emily Scott</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/c/jcn27m1eo3i9e132.jpg?skj2io4l"><div class="ff-caption">Emily Scott - FHM Magazine Pictorial [Turkey] (November 2013)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/q/s/qsa9ilvf51jnlifs.jpg?skj2io4l"><div class="ff-caption">Emily Scott</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/c/s/cs6vlqgo5j2l2jg.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/b/b/bbtghe9jddj22jj.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/8/k/8k5c10vu9tzct9c0.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/b/1/b1o7rv48itjivr81.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/2/g/2gsveblst1un2nst.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/m/t/mtpjjgm4vrcitmjr.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/z/t/ztdzzap35f7uaz3t.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/c/t/ctex1926tbtvet1t.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/w/r/wre595v9mccncmn5.jpg?skj2io4l"><div class="ff-caption">Emily Scott - Ralph</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-44943" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/7/v/7vuw0ibr72s5wui5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/c/jcn27m1eo3i9e132.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/q/s/qsa9ilvf51jnlifs.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/c/s/cs6vlqgo5j2l2jg.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/b/b/bbtghe9jddj22jj.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/8/k/8k5c10vu9tzct9c0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/b/1/b1o7rv48itjivr81.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/2/g/2gsveblst1un2nst.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/m/t/mtpjjgm4vrcitmjr.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/z/t/ztdzzap35f7uaz3t.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/c/t/ctex1926tbtvet1t.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/w/r/wre595v9mccncmn5.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Max &amp; Ruby</td><td>2002</td><td>Mrs. Huffington</td><td>TV Show</td></tr></tbody></table></div></fieldset>						<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/emily-scott/forum" title="Emily Scott discussion board">View all comments (5)</a></small></h3><div data-ffw="content" data-ff-eid="55007594" data-ff-url="" data-ff-tid="6" data-ff-id="90189119" data-ff-title="shared a link: https://www.imdb.com/name/nm2349779/" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/mato4162"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/j/p/jpp1y48l0n19n894.jpg?skj2io4l" alt="mato4162" class=" " /></span><span data-ff-webname>mato4162</span></a><span class="ff-bullet"></span><span data-ff-time="2018-10-20 15:07:51" class="ff-comment-time">Oct 20, 2018</span><p data-ff-auto-image class="ff-comment" data-ff-text>shared a link: https://www.imdb.com/name/nm2349779/</p></div><div data-ffw="content" data-ff-eid="34642876" data-ff-url="" data-ff-tid="6" data-ff-id="18193769" data-ff-title="Mark Wright and Emily Scotts jungle relationship screechs to a halt! For more info see celebrityknowledge&amp;#39;s blog!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/celebrityknowledge"><span class="ff-img" data-ff-image></span><span data-ff-webname>celebrityknowledge</span></a><span class="ff-bullet"></span><span data-ff-time="2011-12-08 14:48:44" class="ff-comment-time">Dec 8, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>Mark Wright and Emily Scotts jungle relationship screechs to a halt! For more info see celebrityknowledge&#39;s blog!</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="10756713" data-ff-title="hi emily you r hot to say do u have a boy friend how old r u i would like to met u someday" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>matthew</span></span><span class="ff-bullet"></span><span data-ff-time="2008-11-22 02:49:06" class="ff-comment-time">Nov 22, 2008</span><p data-ff-auto-image class="ff-comment" data-ff-text>hi emily you r hot to say do u have a boy friend how old r u i would like to met u someday</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/emily-scott/forum" title="Emily Scott discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >				<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/emily-vancamp"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/m/u/mu0bvhvwbfpghgb.jpg?skj2io4l" alt="Emily VanCamp" class=" " /><div class="ff-name">Emily VanCamp</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,248</span></span><span class="ff-rank-change"><span>+230</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/billie-piper"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/o/3/o3ljwez3x3ljz3jo.jpg?skj2io4l" alt="Billie Piper" class=" " /><div class="ff-name">Billie Piper</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>523</span></span><span class="ff-rank-change"><span>+9</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/geri-horner"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/w/x/wxw3tlh9n7nwt9xn.jpg?skj2io4l" alt="Geri Horner" class=" " /><div class="ff-name">Geri Horner</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,093</span></span><span class="ff-rank-change"><span>+24</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/miranda-kerr"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/s/c/scswx0l47ds4sc4x.jpg?skj2io4l" alt="Miranda Kerr" class=" " /><div class="ff-name">Miranda Kerr</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>431</span></span><span class="ff-rank-change ff-neg"><span>-71</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/evan-peters"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/0/t/0t8cl0m6lunrr8l0.jpg?skj2io4l" alt="Evan Peters" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/0/t/0t8cl0m6lunrulrm.jpg?skj2io4l" /><div class="ff-name">Evan Peters</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>2</span></span><span class="ff-rank-change ff-neg"><span>-1</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1983-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/i/g/ign1b1itf2a21i12.jpg?skj2io4l" alt="1983 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1983 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/australian-female-models" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/5/d/5dhjsgf71pfgdfjp.jpg?skj2io4l" alt="Australian female models" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Australian female models
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/people-from-canberra" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/l/z/lzugpk8m6dk28g6u.jpg?skj2io4l" alt="People from Canberra" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						People from Canberra
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1984-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/m/k/mkt7hzlfzlraztfk.jpg?skj2io4l" alt="1984 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1984 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/australian-djs" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/v/t/vtqie7ut14ma4ua7.jpg?skj2io4l" alt="Australian DJs" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Australian DJs
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Emily Scott</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Alexandria89" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/w/b/wbhl5al60dkwd0.jpg?skj2io4l" alt="Alexandria89" class=" " /></div><div style="float:right">
+					450
+				</div>
+					Alexandria89
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Tracker748" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" alt="Tracker748" class=" " /></div><div style="float:right">
+					89
+				</div>
+					Tracker748
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Rock1984" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					82
+				</div>
+					Rock1984
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/CindyCelebs" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/k/y/kyzzgba5b9r5azbz.jpg?skj2io4l" alt="CindyCelebs" class=" " /></div><div style="float:right">
+					40
+				</div>
+					CindyCelebs
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Queenoftab" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/v/s/vs9e14razq4o4ar.jpg?skj2io4l" alt="Queenoftab" class=" " /></div><div style="float:right">
+					40
+				</div>
+					Queenoftab
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Emily Scott profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Emily Scott to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="44943:emily-scott"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Emily Scott</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/108552938">
+			Catherine Duchess of Cambridge and Vic Sotto
+		</a></li><li style="clear:both;"><a href="/six-degrees/108552936">
+			Catherine Duchess of Cambridge and Sherwin Gatchalian
+		</a></li><li style="clear:both;"><a href="/six-degrees/104541227">
+			Charlotte Mears and Mark Wright
+		</a></li><li style="clear:both;"><a href="/six-degrees/104150031">
+			Katherine Bailess and Sam Faiers
+		</a></li><li style="clear:both;"><a href="/six-degrees/104150016">
+			Paul Johansson and Mark Wright
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Emily Scott</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/emily-scott"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/7/v/7vuw0ibr72s5rs0v.jpg?skj2io4l" alt="Emily Scott" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/emily-scott"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/j/c/jcn27m1eo3i99nom.jpg?skj2io4l" alt="Emily Scott - FHM Magazine Pictorial [Turkey] (November 2013)" class=" " /></a></div><a href="https://www.famousfix.com/topic/emily-scott" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																									videos, 
+																									news, 
+																									magazines
+													and more from FamousFix.com
+			</a></div></div></fieldset>					</div>
+	</div>
+	
+		
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.394</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<div data-ffw="popover" data-ff-tpl="popover.age_gate" data-ff-show data-ff-close-url="https://www.whosdatedwho.com"></div><script>	
+__trx.agent([1,44943,2,1,"","",3,"%2Fdating%2Femily-scott","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

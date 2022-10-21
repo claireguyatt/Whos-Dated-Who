@@ -1,0 +1,715 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is River Viiperi dating? River Viiperi girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/river-viiperi" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/river-viiperi" /><meta name="title" content="Who is River Viiperi dating? River Viiperi girlfriend, wife" /><meta name="description" content="18 October 2022... River Viiperi news, gossip, photos of River Viiperi, biography, River Viiperi girlfriend list 2022. Relationship history. River Viiperi relationship list. River Viiperi dating history, 2022, 2021, list of River Viiperi relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/river-viiperi" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="River Viiperi" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img6.bdbphotos.com/images/orig/j/3/j3gdq3u04ra93jdr.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/river-viiperi",
+  "name": "River Viiperi",
+"jobTitle": "Model",  "url": "https://www.whosdatedwho.com/dating/river-viiperi",
+"birthDate": "1991-08-04",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Nicole Banner",
+        "url": "https://www.whosdatedwho.com/dating/river-viiperi#dating-nicole-banner",
+		        "image": "//img1.bdbphotos.com/images/orig/0/a/0a3g6gnl2z1fa0gz.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Paris Hilton",
+        "url": "https://www.whosdatedwho.com/dating/river-viiperi#dating-paris-hilton",
+		        "image": "//img2.bdbphotos.com/images/orig/l/7/l7a0s62jshlza7sl.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Sara Sampaio",
+        "url": "https://www.whosdatedwho.com/dating/river-viiperi#dating-sara-sampaio",
+		        "image": "//img1.bdbphotos.com/images/orig/i/6/i60vk2vuo0jbib0o.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="river-viiperi" data-ff-tid="1" data-ff-id="6668233" data-ff-title="River Viiperi" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="6668233"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/river-viiperi">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-river-viiperi" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										River Viiperi 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-river-viiperi"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/j/3/j3gdq3u04ra9drua.jpg?skj2io4l" alt="River Viiperi" class=" " /></div></div><div class="ff-name text-left ff-banner-gradient">
+		
+		River Viiperi&nbsp;&nbsp;<span class="ff-smaller">Spanish Model</span></div><div class="ff-thumbs"><span onClick="contentVote('v6668233101',6668233,1,0,1,'river-viiperi');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v6668233101">9</v></span><span onClick="contentVote('v666823310-1',6668233,1,0,'-1','river-viiperi');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v666823310-1">5</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/river-viiperi/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">31</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-leo"><i class="icon-leo"></i></a></div><div class="footer">Leo</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">3</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">River Viiperi dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><p class="ff-auto-status">
+    				    					According to our records, <topic url="river-viiperi">River Viiperi</topic> is possibly single.
+    				    			</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="river-viiperi">River Viiperi</topic> has been in relationships with <a href="/dating/nicole-banner">Nicole Banner</a><span> (2014 - 2017)</span>, <a href="/dating/paris-hilton">Paris Hilton</a><span> (2012 - 2014)</span> and <a href="/dating/sara-sampaio">Sara Sampaio</a><span> (2011 - 2012)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="river-viiperi">River Viiperi</topic> is a 31 year old Spanish Model. Born River Delfín Canomanuel Viiperi on 4th August, 1991 in Ibiza, Spain, he is famous for Top 50 Male Models (Ranked # 32). His zodiac sign is Leo.</p><div class="ff-person-profile-detail-toggle hide"><p class="ff-auto-about"><topic url="river-viiperi">River Viiperi</topic> is a member of the following lists: <a href="/lists/1981-births">1981 births</a>, <a href="/lists/1991-births">1991 births</a> and <a href="/lists/model-stubs">Model stubs</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is River Viiperi dating? River Viiperi girlfriend, wife list. Help us build our profile of River Viiperi! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/river-viiperi">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Dating</th><td>3</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="River Viiperi and Nicole Banner">
+								3 years
+							</span></td><td>
+													2 years, 1 month
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Sara Sampaio and River Viiperi">
+								1 year, 6 months
+							</span></td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="River Viiperi and Nicole Banner">
+								3 years
+						</span></td><td style="font-style:oblique">
+											2 years, 1 month
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Sara Sampaio and River Viiperi">
+							1 year, 6 months
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															River
+													</td></tr><tr><td>Middle Name</td><td>
+															Delfin
+													</td></tr><tr><td>Last Name</td><td>
+															Canomanuel
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															River Delfín Canomanuel Viiperi
+													</td></tr><tr><td>Alternative Name</td><td>
+															River Delfin, River Viiperi
+													</td></tr><tr><td>Age</td><td>
+															31 years
+													</td></tr><tr><td>Birthday</td><td>
+															4th August, 1991
+													</td></tr><tr><td>Birthplace</td><td>
+															Ibiza, Spain
+													</td></tr><tr><td>Height</td><td>
+															6&#039; 2&quot; (188 cm)
+													</td></tr><tr><td>Build</td><td>
+															Athletic
+													</td></tr><tr><td>Eye Color</td><td>
+															Blue
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Light
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Leo
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															Spanish
+													</td></tr><tr><td>Occupation Text</td><td>
+															Male Top Model
+													</td></tr><tr><td>Occupation</td><td>
+															Model
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Top 50 Male Models (Ranked # 32)
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															Soul Artist Management - New York, Dulcedo Model Management - Montreal, 2pm Model Management - Copenhagen, Paparazzi Model Management - Helsinki, Success Models - Paris, Elite Model Management - Barcelona, London, Milan, IMM Bruxelles - Brussels
+													</td></tr><tr><td>Shoe Size</td><td>
+															8
+													</td></tr><tr><td>Official Websites</td><td>
+															models.com/models/River-Viiperi, www.soulartistmanagement.com/men/riverviiperi/all.php, www.dulcedo.ca/en/model?river, www.2pm.dk/men/model/river_/cok_del/, www.paparazzi.fi/model_men?model=11247488&amp;name=RIVER, nymag.com/fashion/models/rviiperi/riverviiperi/, www.elitemodellondon.co.uk/details.aspx?modelid=499524&amp;nav=2&amp;subid=5574&amp;mainsubid=5574&amp;indx=0&amp;from=, men.successmodels.com/details_large.aspx?nav=2&amp;sexid=1&amp;ltr=r&amp;subid=9361&amp;modelid=511599&amp;indx=0&amp;a=1&amp;n=8&amp;from=9361, www.elitemodel.it/details.aspx?modelid=563255&amp;subid=2856&amp;mainsubid=2856&amp;lang=&amp;nav=1&amp;modl=&amp;indx=0&amp;sexid=1&amp;letter=&amp;show=&amp;catid=12, www.elitemodel.es/details.aspx?modelid=517623&amp;subid=3002&amp;mainsubid=3002&amp;lang=&amp;nav=3&amp;modl=&amp;indx=0&amp;sexid=1&amp;letter=R&amp;show=&amp;catid=&amp;areaID=6, www.immbruxelles.com/details.aspx?modelID=495731&amp;ltr=&amp;nav=2&amp;subid=9050&amp;photoID=9050&amp;mainsubid=1856&amp;sexid=&amp;ha=&amp;st=&amp;mu=&amp;sm=&amp;sf=&amp;nm=&amp;nf=&amp;fn=&amp;li=&amp;sb=&amp;mnf=&amp;srch=&amp;a=501, http://riverviiperiofficial.com, Modeling information
+													</td></tr><tr><td>Mother</td><td>
+															Ritta Viiperi
+													</td></tr><tr><td>Friend</td><td>
+															Joan Pedrola (model), Sebastian Sauve, Tayane Leao, Lais Ribeiro, Simon Nessman, David Agbodji, Terron Wood, Jae Yoo, Francisco Lachowski, Adrian Cardoso (model)
+													</td></tr></table></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about River Viiperi
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about River Viiperi
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/river-viiperi/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,nicole-banner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nicole-banner">
+				Nicole Banner
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    2014
+					</td><td>
+						    2017
+					</td><td>
+						    			3 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,river-viiperi-and-nicole-banner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/river-viiperi-and-nicole-banner"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,paris-hilton" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton">
+				Paris Hilton
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Sep 2012
+					</td><td>
+						    Jul 2014
+					</td><td>
+						    			1 year
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,paris-hilton-and-river-viiperi" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton-and-river-viiperi"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,sara-sampaio" data-ff-gx-click href="https://www.whosdatedwho.com/dating/sara-sampaio">
+				Sara Sampaio
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Mar 2011
+					</td><td>
+						    Sep 2012
+					</td><td>
+						    			1 year
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,sara-sampaio-and-river-viiperi" data-ff-gx-click href="https://www.whosdatedwho.com/dating/sara-sampaio-and-river-viiperi"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-nicole-banner"><a data-ff-gx="View Person,nicole-banner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nicole-banner"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/0/a/0a3g6gnl2z1f63gg.jpg?skj2io4l" alt="Nicole Banner" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Nicole Banner
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v86679790166682331',86679790,1,6668233,1,'river-viiperi-and-nicole-banner');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v86679790166682331">10</v></span><span onClick="contentVote('v8667979016668233-1',86679790,1,6668233,'-1','river-viiperi-and-nicole-banner');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8667979016668233-1">7</v></span></div></div><h3>2014 - 2017</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,river-viiperi-and-nicole-banner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/river-viiperi-and-nicole-banner">
+			
+							Nicole Banner and River Viiperi separated in ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-paris-hilton"><a data-ff-gx="View Person,paris-hilton" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/l/7/l7a0s62jshlz602s.jpg?skj2io4l" alt="Paris Hilton" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Paris Hilton
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v108166682331',108,1,6668233,1,'paris-hilton-and-river-viiperi');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v108166682331">20</v></span><span onClick="contentVote('v10816668233-1',108,1,6668233,'-1','paris-hilton-and-river-viiperi');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v10816668233-1">22</v></span></div></div><h3>2012 - 2014</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,paris-hilton-and-river-viiperi" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton-and-river-viiperi">
+			
+							River Viiperi and Paris Hilton separated in J...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-sara-sampaio"><a data-ff-gx="View Person,sara-sampaio" data-ff-gx-click href="https://www.whosdatedwho.com/dating/sara-sampaio"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/i/6/i60vk2vuo0jbv6k0.jpg?skj2io4l" alt="Sara Sampaio" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Sara Sampaio
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v5594871166682331',5594871,1,6668233,1,'sara-sampaio-and-river-viiperi');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5594871166682331">25</v></span><span onClick="contentVote('v559487116668233-1',5594871,1,6668233,'-1','sara-sampaio-and-river-viiperi');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v559487116668233-1">14</v></span></div></div><h3>2011 - 2012</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,sara-sampaio-and-river-viiperi" data-ff-gx-click href="https://www.whosdatedwho.com/dating/sara-sampaio-and-river-viiperi">
+			
+							River Viiperi and Sara Sampaio separated in S...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/0/a/0a3g6gnl2z1fa0gz.jpg?skj2io4l')" data-ff-gx="View Person,nicole-banner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nicole-banner"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="nicole-banner" data-ff-gx="View Person,nicole-banner" data-ff-gx-click>Nicole Banner</a></h4><h3>
+						2014 - 2017
+						<small></small></h3><p data-ff-gx="View Couple,river-viiperi-and-nicole-banner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/river-viiperi-and-nicole-banner">
+												
+						Nicole Banner and River Viiperi dated from 2014 to 2017.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">3</div><div class="footer">years</div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/river-viiperi-and-nicole-banner/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:58.823529411765%;border-bottom:2px solid green;"></div><div style="float:left;width:41.176470588235%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v86679790166682331',86679790,1,6668233,1,'river-viiperi-and-nicole-banner');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v86679790166682331">10</v></span><span onClick="contentVote('v8667979016668233-1',86679790,1,6668233,'-1','river-viiperi-and-nicole-banner');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8667979016668233-1">7</v></span></div><a class="button radius small ff-view-button" href="river-viiperi-and-nicole-banner"  data-ff-gx="View Couple,river-viiperi-and-nicole-banner" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/l/7/l7a0s62jshlza7sl.jpg?skj2io4l')" data-ff-gx="View Person,paris-hilton" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="paris-hilton" data-ff-gx="View Person,paris-hilton" data-ff-gx-click>Paris Hilton</a></h4><h3>
+						2012 - 2014
+						<small></small></h3><p data-ff-gx="View Couple,paris-hilton-and-river-viiperi" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton-and-river-viiperi">
+												
+						River Viiperi and Paris Hilton dated from September, 2012 to July, 2014.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">1</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/paris-hilton-and-river-viiperi/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>80%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>1%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">44%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:47.619047619048%;border-bottom:2px solid green;"></div><div style="float:left;width:52.380952380952%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v108166682331',108,1,6668233,1,'paris-hilton-and-river-viiperi');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v108166682331">20</v></span><span onClick="contentVote('v10816668233-1',108,1,6668233,'-1','paris-hilton-and-river-viiperi');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v10816668233-1">22</v></span></div><a class="button radius small ff-view-button" href="paris-hilton-and-river-viiperi"  data-ff-gx="View Couple,paris-hilton-and-river-viiperi" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/i/6/i60vk2vuo0jbib0o.jpg?skj2io4l')" data-ff-gx="View Person,sara-sampaio" data-ff-gx-click href="https://www.whosdatedwho.com/dating/sara-sampaio"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="sara-sampaio" data-ff-gx="View Person,sara-sampaio" data-ff-gx-click>Sara Sampaio</a></h4><h3>
+						2011 - 2012
+						<small></small></h3><p data-ff-gx="View Couple,sara-sampaio-and-river-viiperi" data-ff-gx-click href="https://www.whosdatedwho.com/dating/sara-sampaio-and-river-viiperi">
+												
+						River Viiperi and Sara Sampaio dated from March, 2011 to September, 2012.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">1</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/sara-sampaio-and-river-viiperi/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>60%</td></tr><tr><td>Chinese zodiac</td><td>80%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i></div></div><div class="footer">78%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:64.102564102564%;border-bottom:2px solid green;"></div><div style="float:left;width:35.897435897436%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v5594871166682331',5594871,1,6668233,1,'sara-sampaio-and-river-viiperi');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5594871166682331">25</v></span><span onClick="contentVote('v559487116668233-1',5594871,1,6668233,'-1','sara-sampaio-and-river-viiperi');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v559487116668233-1">14</v></span></div><a class="button radius small ff-view-button" href="sara-sampaio-and-river-viiperi"  data-ff-gx="View Couple,sara-sampaio-and-river-viiperi" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/river-viiperi">River Viiperi</a></td><td>31</td><td><i class="icon-47"></i>
+
+Leo</td><td>Model</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/es.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Spanish</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/nicole-banner">Nicole Banner</a></td><td>-</td><td><i class="icon-"></i></td><td>Model</td><td><br /></td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/paris-hilton">Paris Hilton</a></td><td>41</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Socialite</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/sara-sampaio">Sara Sampaio</a></td><td>31</td><td><i class="icon-46"></i>
+
+Cancer</td><td>Model</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/pt.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Portuguese</td></tr></tbody></table></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-6668233"
+		data-ff-thumbs-id="gallery-thumbs-6668233"
+		data-ff-topic="6668233"
+><div id="gallery-display-6668233" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/9/2/92btjqyzrt8l29tt.jpg?skj2io4l"><div class="ff-caption">Sara Sampaio&amp;River Viiperi</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/d/udc38a0xi04y0aic.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/z/s/zsuq4wllif1kw4ls.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/5/4/54tia0nbhs3rbnsi.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/k/m/kmbpvz0gbhcrbgcv.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/x/q/xqhsjwmicq9pxphc.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/0/j/0jubm8q0ixth0hui.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/w/dwhz1evchk4hzheh.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/e/6/e6dbyiqbih4wqiid.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/i/t/itkpajsav5gxtip5.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/y/i/yij5m75aer70re07.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/3/u38vo1sf7rs44sf.jpg?skj2io4l"><div class="ff-caption">Paris Hilton and River Viiperi - 2013 MANGO - Backstage</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-6668233" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/9/2/92btjqyzrt8l29tt.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/d/udc38a0xi04y0aic.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/z/s/zsuq4wllif1kw4ls.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/5/4/54tia0nbhs3rbnsi.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/k/m/kmbpvz0gbhcrbgcv.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/x/q/xqhsjwmicq9pxphc.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/0/j/0jubm8q0ixth0hui.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/w/dwhz1evchk4hzheh.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/e/6/e6dbyiqbih4wqiid.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/i/t/itkpajsav5gxtip5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/y/i/yij5m75aer70re07.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/3/u38vo1sf7rs44sf.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Class Reunion 3</td><td>2021</td><td>Allaspoika</td><td>Movie</td></tr></tbody></table></div></fieldset>						<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/river-viiperi/forum" title="River Viiperi discussion board">View all comments (3)</a></small></h3><div data-ffw="content" data-ff-eid="102241508" data-ff-url="" data-ff-tid="6" data-ff-id="111143915" data-ff-title="Hoje 04/08 é o aniversário de River Viiperi!  Today 04/08 is the birthday of River Viiperi!  Feliz Aniversário! Muita paz, saúde, realizações, sucesso e bênçãos!  Abraços!  Happy Birthday! Peace, health, achievements, success and blessings! Hugs!  Eu te amo, River Viiperi!  I love you, River Viiperi!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Aparecido"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/w/r/wrcwvduwqohmmqw.jpg?skj2io4l" alt="Aparecido" class=" " /></span><span data-ff-webname>Aparecido</span></a><span class="ff-bullet"></span><span data-ff-time="2022-08-04 10:05:33" class="ff-comment-time">Aug 4</span><p data-ff-auto-image class="ff-comment" data-ff-text>Hoje 04/08 é o aniversário de River Viiperi!  Today 04/08 is the birthday of River Viiperi!  Feliz Aniversário! Muita paz, saúde, realizações, sucesso e bênçãos!  Abraços!  Happy Birthday! Peace, health, achievements, success and blessings! Hugs!  Eu te amo, River Viiperi!  I love you, River Viiperi!</p></div><div data-ffw="content" data-ff-eid="54300610" data-ff-url="" data-ff-tid="6" data-ff-id="75566770" data-ff-title="http://www.thefashionisto.com/wp-content/uploads/2015/04/River-Viiperi-Digital-Pictures-2015-001.jpg" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/facetime"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/z/p/zp0gsvzw7cclczlv.jpg?skj2io4l" alt="facetime" class=" " /></span><span data-ff-webname>facetime</span></a><span class="ff-bullet"></span><span data-ff-time="2017-11-15 20:21:20" class="ff-comment-time">Nov 15, 2017</span><p data-ff-auto-image class="ff-comment" data-ff-text>http://www.thefashionisto.com/wp-content/uploads/2015/04/River-Viiperi-Digital-Pictures-2015-001.jpg</p></div><div data-ffw="content" data-ff-eid="34714911" data-ff-url="" data-ff-tid="6" data-ff-id="26633433" data-ff-title="He could do so much better" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/SandraJF"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/t/6/t6da1wan2qevqavw.jpg?skj2io4l" alt="SandraJF" class=" " /></span><span data-ff-webname>SandraJF</span></a><span class="ff-bullet"></span><span data-ff-time="2013-08-26 14:11:37" class="ff-comment-time">Aug 26, 2013</span><p data-ff-auto-image class="ff-comment" data-ff-text>He could do so much better</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/river-viiperi/forum" title="River Viiperi discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/david-guillod"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/s/2/s2rznqs72d3uzds.jpg?skj2io4l" alt="David Guillod" class=" " /><div class="ff-name">David Guillod</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/dylan-sprouse"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/2/h/2htnpxsyylj00tyx.jpg?skj2io4l" alt="Dylan Sprouse" class=" " /><div class="ff-name">Dylan Sprouse</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>474</span></span><span class="ff-rank-change ff-neg"><span>-42</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/sebastian-sauve"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/0/e/0ewwgdmhd2uum2.jpg?skj2io4l" alt="Sebastian Sauvé" class=" " /><div class="ff-name">Sebastian Sauvé</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/dawn-beattie"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/t/i/ti7ib5c1y48h4tci.jpg?skj2io4l" alt="Dawn Beattie" class=" " /><div class="ff-name">Dawn Beattie</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/caitlin-beadles"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/u/l/ulaih4wejhqtqleh.jpg?skj2io4l" alt="Caitlin Beadles" class=" " /><div class="ff-name">Caitlin Beadles</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>5,335</span></span><span class="ff-rank-change"><span>0</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/sean-o-pry"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/v/o/vovvzerkg4o0r4.jpg?skj2io4l" alt="Sean O'Pry" class=" " /><div class="ff-name">Sean O'Pry</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>3,027</span></span><span class="ff-rank-change ff-neg"><span>-259</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1981-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/1/2/12be5nuey3273u7n.jpg?skj2io4l" alt="1981 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1981 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1991-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/c/p/cp97ykf63oeeypfc.jpg?skj2io4l" alt="1991 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1991 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/model-stubs" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/8/g/8gc5grshpuoccph.jpg?skj2io4l" alt="Model stubs" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Model stubs
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/people-from-ibiza" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/p/1/p1ie977e81u07e8i.jpg?skj2io4l" alt="People from Ibiza" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						People from Ibiza
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/spanish-people-stubs" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/3/r/3r9zryzh4zs3zz49.jpg?skj2io4l" alt="Spanish people stubs" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Spanish people stubs
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for River Viiperi</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/marcosalexandre" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/9/a/9awtvfdixl9fwfv9.jpg?skj2io4l" alt="marcosalexandre" class=" " /></div><div style="float:right">
+					118
+				</div>
+					marcosalexandre
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/kitty1119" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/7/4/742z1sbbk47az7sa.jpg?skj2io4l" alt="kitty1119" class=" " /></div><div style="float:right">
+					114
+				</div>
+					kitty1119
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/anen87" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/e/q/eqy05n70ikduui0.jpg?skj2io4l" alt="anen87" class=" " /></div><div style="float:right">
+					56
+				</div>
+					anen87
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Queenoftab" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/v/s/vs9e14razq4o4ar.jpg?skj2io4l" alt="Queenoftab" class=" " /></div><div style="float:right">
+					32
+				</div>
+					Queenoftab
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Tracker748" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" alt="Tracker748" class=" " /></div><div style="float:right">
+					10
+				</div>
+					Tracker748
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep River Viiperi profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with River Viiperi to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="6668233:river-viiperi"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving River Viiperi</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/114733757">
+			Stella Maxwell and Josephine Skriver
+		</a></li><li style="clear:both;"><a href="/six-degrees/114718212">
+			Josephine Skriver and Jacob Elordi
+		</a></li><li style="clear:both;"><a href="/six-degrees/113263943">
+			Alexandra Daddario and Sara Sampaio
+		</a></li><li style="clear:both;"><a href="/six-degrees/113263936">
+			Bar Refaeli and Sara Sampaio
+		</a></li><li style="clear:both;"><a href="/six-degrees/108626903">
+			Louis Tomlinson and Nicole Banner
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More River Viiperi</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/river-viiperi"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/9/2/92btjqyzrt8lqrbl.jpg?skj2io4l" alt="Sara Sampaio&amp;River Viiperi" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/river-viiperi"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/u/d/udc38a0xi04y4dx8.jpg?skj2io4l" alt="Paris Hilton and River Viiperi arrive at LAX (Los Angeles International Airport)" class=" " /></a></div><a href="https://www.famousfix.com/topic/river-viiperi" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												quotes, 
+																									photos, 
+																									videos, 
+																									news
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+		
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.355</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,6668233,2,1,"","",3,"%2Fdating%2Friver-viiperi","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

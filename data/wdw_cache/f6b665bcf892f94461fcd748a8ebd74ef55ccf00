@@ -1,0 +1,687 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Andre Lyon dating? Andre Lyon girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/andre-lyon" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/andre-lyon" /><meta name="title" content="Who is Andre Lyon dating? Andre Lyon girlfriend, wife" /><meta name="description" content="18 October 2022... Andre Lyon news, gossip, photos of Andre Lyon, biography, Andre Lyon girlfriend list 2022. Relationship history. Andre Lyon relationship list. Andre Lyon dating history, 2022, 2021, list of Andre Lyon relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/andre-lyon" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Andre Lyon" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img5.bdbphotos.com/images/orig/c/0/c0zbv8m8qjgi8v80.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/andre-lyon",
+  "name": "Andre Lyon",
+"jobTitle": "Rapper",  "url": "https://www.whosdatedwho.com/dating/andre-lyon",
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Christina Milian",
+        "url": "https://www.whosdatedwho.com/dating/andre-lyon#dating-christina-milian",
+		        "image": "//img5.bdbphotos.com/images/orig/4/j/4jynisiss6nt4tys.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Julissa Bermudez",
+        "url": "https://www.whosdatedwho.com/dating/andre-lyon#dating-julissa-bermudez",
+		        "image": "//img5.bdbphotos.com/images/orig/c/f/cfxjf7nr72om7frf.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Necole Bitchie",
+        "url": "https://www.whosdatedwho.com/dating/andre-lyon#dating-necole-bitchie",
+		        "image": "//img1.bdbphotos.com/images/orig/s/y/syeu9zydcudxyzce.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="andre-lyon" data-ff-tid="1" data-ff-id="45015" data-ff-title="Andre Lyon" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="45015"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/andre-lyon">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='width:970px; min-height:90px; margin-top:10px; margin-bottom:10px;'><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_Navigation --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4166127396088587"
+     data-ad-slot="8347209403"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-andre-lyon" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Andre Lyon 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-andre-lyon"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="max-width:100%;max-height:350px;"><div class="ff-banner ff-small ff-override text-center" style="width:100%;padding-bottom:50%;"><div><img width="454" height="681" style="width:454px;height:681px;" src="//img6.bdbphotos.com/images/orig/o/v/ovm6nwioia16mvn1.jpg?skj2io4l" alt="Andre Lyon" class=" " /></div></div></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Andre Lyon&nbsp;&nbsp;<span class="ff-smaller">American Rapper</span></div><div class="ff-thumbs"><span onClick="contentVote('v45015101',45015,1,0,1,'andre-lyon');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v45015101">6</v></span><span onClick="contentVote('v4501510-1',45015,1,0,'-1','andre-lyon');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v4501510-1">4</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/andre-lyon/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">3</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Andre Lyon dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><p class="ff-auto-status">
+    				    					According to our records, <topic url="andre-lyon">Andre Lyon</topic> is possibly single.
+    				    			</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="andre-lyon">Andre Lyon</topic> has been in relationships with <a href="/dating/christina-milian">Christina Milian</a><span> (2006 - 2008)</span> and <a href="/dating/julissa-bermudez">Julissa Bermudez</a>.</p><p><topic url="andre-lyon">Andre Lyon</topic> is rumoured to have hooked up with <a href="/dating/necole-bitchie">Necole Bitchie</a>.</p><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="andre-lyon">Andre Lyon</topic> is an American Rapper. He is famous for Half of Cool and Dre/Fat Joe`s Terror Squad.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Andre Lyon dating? Andre Lyon girlfriend, wife list. Help us build our profile of Andre Lyon! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/andre-lyon">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Dating</th><td>2</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Christina Milian and Dre (from cool and dre)">
+								2 years, 11 months
+							</span></td><td>
+													1 year, 5 months
+											</td><td>
+													-
+											</td></tr><tr><th>Rumoured</th><td>1</td><td>
+													-
+											</td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Christina Milian and Dre (from cool and dre)">
+								2 years, 11 months
+						</span></td><td style="font-style:oblique">
+											11 months, 25 days
+									</td><td style="font-style:oblique">
+											-
+									</td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Andre
+													</td></tr><tr><td>Last Name</td><td>
+															Lyon
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Andre Christopher Lyon
+													</td></tr><tr><td>Birthplace</td><td>
+															New York
+													</td></tr><tr><td>Build</td><td>
+															Average
+													</td></tr><tr><td>Eye Color</td><td>
+															Black
+													</td></tr><tr><td>Hair Color</td><td>
+															Black
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Ethnicity</td><td>
+															Multiracial
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>High School</td><td>
+															North Miami High School
+													</td></tr><tr><td>Occupation</td><td>
+															Rapper
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Half of Cool and Dre/Fat Joe`s Terror Squad
+													</td></tr><tr><td>Official Websites</td><td>
+															www.dremusiconline.com/
+													</td></tr></table></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Andre Lyon
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Andre Lyon
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/andre-lyon/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,christina-milian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/christina-milian">
+				Christina Milian
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Jan 2006
+					</td><td>
+						    Dec 2008
+					</td><td>
+						    			2 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,christina-milian-and-dre-from-cool-and-dre" data-ff-gx-click href="https://www.whosdatedwho.com/dating/christina-milian-and-dre-from-cool-and-dre"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,julissa-bermudez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julissa-bermudez">
+				Julissa Bermudez
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"><a title="Rumor" style="color:#ad0400;font-weight:bold">R</a></td><td><a href="//members.whosdatedwho.com#/topic/julissa-bermudez-and-andre-lyon/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td><a href="//members.whosdatedwho.com#/topic/julissa-bermudez-and-andre-lyon/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,julissa-bermudez-and-andre-lyon" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julissa-bermudez-and-andre-lyon"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,necole-bitchie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/necole-bitchie">
+				Necole Bitchie
+			</a></td><td>
+			Encounter
+		</td><td style="text-align:center"><a title="Rumor" style="color:#ad0400;font-weight:bold">R</a></td><td><a href="//members.whosdatedwho.com#/topic/andre-lyon-and-necole-bitchie/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td><a href="//members.whosdatedwho.com#/topic/andre-lyon-and-necole-bitchie/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,andre-lyon-and-necole-bitchie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/andre-lyon-and-necole-bitchie"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-christina-milian"><a data-ff-gx="View Person,christina-milian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/christina-milian"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/4/j/4jynisiss6ntnjiy.jpg?skj2io4l" alt="Christina Milian" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Christina Milian
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v5151450151',515,1,45015,1,'christina-milian-and-dre-from-cool-and-dre');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5151450151">48</v></span><span onClick="contentVote('v515145015-1',515,1,45015,'-1','christina-milian-and-dre-from-cool-and-dre');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v515145015-1">6</v></span></div></div><h3>2006 - 2008</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,christina-milian-and-dre-from-cool-and-dre" data-ff-gx-click href="https://www.whosdatedwho.com/dating/christina-milian-and-dre-from-cool-and-dre">
+			
+							Andre Lyon and Christina Milian separated in ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-julissa-bermudez"><a data-ff-gx="View Person,julissa-bermudez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julissa-bermudez"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/c/f/cfxjf7nr72om7n2r.jpg?skj2io4l" alt="Julissa Bermudez" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><div class="ff-rumour" style=""><span>Rumor</span></div><h4 class="ff-title">
+								Julissa Bermudez
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v537911450151',53791,1,45015,1,'julissa-bermudez-and-andre-lyon');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v537911450151">2</v></span><span onClick="contentVote('v53791145015-1',53791,1,45015,'-1','julissa-bermudez-and-andre-lyon');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v53791145015-1">4</v></span></div></div><h3></h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,julissa-bermudez-and-andre-lyon" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julissa-bermudez-and-andre-lyon">
+			
+							Julissa Bermudez and Andre Lyon are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-necole-bitchie"><a data-ff-gx="View Person,necole-bitchie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/necole-bitchie"><div class="ff-img"><img width="185.61666666667" height="259" style="width:185.61666666667px;height:259px;" src="//img1.bdbphotos.com/images/orig/s/y/syeu9zydcudxyzce.jpg?skj2io4l" alt="Necole Bitchie" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><div class="ff-rumour" style=""><span>Rumor</span></div><h4 class="ff-title">
+								Necole Bitchie
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v249318001450151',24931800,1,45015,1,'andre-lyon-and-necole-bitchie');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v249318001450151">2</v></span><span onClick="contentVote('v24931800145015-1',24931800,1,45015,'-1','andre-lyon-and-necole-bitchie');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v24931800145015-1">4</v></span></div></div><h3></h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,andre-lyon-and-necole-bitchie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/andre-lyon-and-necole-bitchie">
+			
+							Necole Bitchie and Andre Lyon are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/4/j/4jynisiss6nt4tys.jpg?skj2io4l')" data-ff-gx="View Person,christina-milian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/christina-milian"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="christina-milian" data-ff-gx="View Person,christina-milian" data-ff-gx-click>Christina Milian</a></h4><h3>
+						2006 - 2008
+						<small></small></h3><p data-ff-gx="View Couple,christina-milian-and-dre-from-cool-and-dre" data-ff-gx-click href="https://www.whosdatedwho.com/dating/christina-milian-and-dre-from-cool-and-dre">
+												
+						Andre Lyon and Christina Milian dated from January, 2006 to December, 2008.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">2</div><div class="footer">years</div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/christina-milian-and-dre-from-cool-and-dre/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:88.888888888889%;border-bottom:2px solid green;"></div><div style="float:left;width:11.111111111111%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v5151450151',515,1,45015,1,'christina-milian-and-dre-from-cool-and-dre');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5151450151">48</v></span><span onClick="contentVote('v515145015-1',515,1,45015,'-1','christina-milian-and-dre-from-cool-and-dre');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v515145015-1">6</v></span></div><a class="button radius small ff-view-button" href="christina-milian-and-dre-from-cool-and-dre"  data-ff-gx="View Couple,christina-milian-and-dre-from-cool-and-dre" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/c/f/cfxjf7nr72om7frf.jpg?skj2io4l')" data-ff-gx="View Person,julissa-bermudez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julissa-bermudez"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="julissa-bermudez" data-ff-gx="View Person,julissa-bermudez" data-ff-gx-click>Julissa Bermudez</a></h4><h3><small>
+													(Rumor)
+												</small></h3><p data-ff-gx="View Couple,julissa-bermudez-and-andre-lyon" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julissa-bermudez-and-andre-lyon">
+												
+						Julissa Bermudez is rumored to have hooked up with Andre Lyon.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:100%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/julissa-bermudez-and-andre-lyon/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:33.333333333333%;border-bottom:2px solid green;"></div><div style="float:left;width:66.666666666667%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v537911450151',53791,1,45015,1,'julissa-bermudez-and-andre-lyon');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v537911450151">2</v></span><span onClick="contentVote('v53791145015-1',53791,1,45015,'-1','julissa-bermudez-and-andre-lyon');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v53791145015-1">4</v></span></div><a class="button radius small ff-view-button" href="julissa-bermudez-and-andre-lyon"  data-ff-gx="View Couple,julissa-bermudez-and-andre-lyon" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/s/y/syeu9zydcudxyzce.jpg?skj2io4l')" data-ff-gx="View Person,necole-bitchie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/necole-bitchie"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="necole-bitchie" data-ff-gx="View Person,necole-bitchie" data-ff-gx-click>Necole Bitchie</a></h4><h3><small>
+													(Rumor)
+												</small></h3><p data-ff-gx="View Couple,andre-lyon-and-necole-bitchie" data-ff-gx-click href="https://www.whosdatedwho.com/dating/andre-lyon-and-necole-bitchie">
+												
+						Necole Bitchie is rumored to have hooked up with Andre Lyon.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:100%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/andre-lyon-and-necole-bitchie/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:33.333333333333%;border-bottom:2px solid green;"></div><div style="float:left;width:66.666666666667%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v249318001450151',24931800,1,45015,1,'andre-lyon-and-necole-bitchie');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v249318001450151">2</v></span><span onClick="contentVote('v24931800145015-1',24931800,1,45015,'-1','andre-lyon-and-necole-bitchie');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v24931800145015-1">4</v></span></div><a class="button radius small ff-view-button" href="andre-lyon-and-necole-bitchie"  data-ff-gx="View Couple,andre-lyon-and-necole-bitchie" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/andre-lyon">Andre Lyon</a></td><td>-</td><td><i class="icon-"></i></td><td>Rapper</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/christina-milian">Christina Milian</a></td><td>41</td><td><i class="icon-49"></i>
+
+Libra</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/julissa-bermudez">Julissa Bermudez</a></td><td>39</td><td><i class="icon-49"></i>
+
+Libra</td><td>TV Personality</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/dm.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Dominican</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/necole-bitchie">Necole Bitchie</a></td><td>33</td><td><i class="icon-45"></i>
+
+Gemini</td><td></td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-45015"
+		data-ff-thumbs-id="gallery-thumbs-45015"
+		data-ff-topic="45015"
+><div id="gallery-display-45015" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/o/v/ovm6nwioia16mvn1.jpg?skj2io4l"><div class="ff-caption">Christina Milian in miscellaneous photoshoots</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/h/b/hbq13i269emsme2.jpg?skj2io4l"><div class="ff-caption">Dre and Christina Milian</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/8/u8ux6s8hkh4v6x8u.jpg?skj2io4l"><div class="ff-caption">Dre and Christina Milian</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/9/2/929pn172t8eu71t9.jpg?skj2io4l"><div class="ff-caption">Dre and Christina Milian</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/i/1/i1507cr23suv517u.jpg?skj2io4l"><div class="ff-caption">Dre and Christina Milian</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/h/2/h244f2r1xbfqfbr.jpg?skj2io4l"><div class="ff-caption">Dre and Christina Milian</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/m/1/m1k8lx2spypbxls1.jpg?skj2io4l"><div class="ff-caption">Dre and Christina Milian</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/b/w/bw2zzscl9akaz2sa.jpg?skj2io4l"><div class="ff-caption">Dre and Christina Milian</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/c/uc8qbdykx1zocuq1.jpg?skj2io4l"><div class="ff-caption">Christina Milian - Christina And Dre Out And About</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/0/k/0kle4eua5272ele2.jpg?skj2io4l"><div class="ff-caption">Christina Milian - Having Dinner At Cafe Martorano, June 2008</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/c/4/c4h7pkzq39x6h4px.jpg?skj2io4l"><div class="ff-caption">Christina Milian - Having Dinner At Cafe Martorano, June 2008</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/e/o/eouw428pzlq2p8lw.jpg?skj2io4l"><div class="ff-caption">Christina Milian - BMI Pre-grammy Party</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-45015" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/o/v/ovm6nwioia16mvn1.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/h/b/hbq13i269emsme2.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/8/u8ux6s8hkh4v6x8u.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/9/2/929pn172t8eu71t9.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/i/1/i1507cr23suv517u.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/h/2/h244f2r1xbfqfbr.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/m/1/m1k8lx2spypbxls1.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/b/w/bw2zzscl9akaz2sa.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/c/uc8qbdykx1zocuq1.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/0/k/0kle4eua5272ele2.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/c/4/c4h7pkzq39x6h4px.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/e/o/eouw428pzlq2p8lw.jpg?skj2io4l)"></div></div></div></div></div></fieldset>								<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/andre-lyon/forum" title="Andre Lyon discussion board">View all comments (7)</a></small></h3><div data-ffw="content" data-ff-eid="34644875" data-ff-url="" data-ff-tid="6" data-ff-id="19809821" data-ff-title="I seen him and he is supper tall.. Nick and her was cute couple. But Nick is married now to someone he loves. She should go out with lil wayne.." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Onsweroflove"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/o/e/oen3h12jeobr3o1r.jpg?skj2io4l" alt="Onsweroflove" class=" " /></span><span data-ff-webname>Onsweroflove</span></a><span class="ff-bullet"></span><span data-ff-time="2012-08-17 17:46:39" class="ff-comment-time">Aug 17, 2012</span><p data-ff-auto-image class="ff-comment" data-ff-text>I seen him and he is supper tall.. Nick and her was cute couple. But Nick is married now to someone he loves. She should go out with lil wayne..</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="12801903" data-ff-title="i rather her wid nick cannon" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>yaahhh</span></span><span class="ff-bullet"></span><span data-ff-time="2009-05-06 22:42:42" class="ff-comment-time">May 6, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>i rather her wid nick cannon</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="10757912" data-ff-title="i think christina milian should date me all da ladies like me so much cos i know how to treat a lady right milian anytime u have a relationship problem holla at me baby i will always be there for u cos ur da bum i wana leave ma email but not sure if u will get bac to me anyway am workin hard to be a bad boy footballer wen i get dey i will holla at u girl i love u so much even tho i dont know u i think ur da cutest girl ever damn only if u had ma child i would have been so happy u need to see me girl cos every girl think am really cute ur da best milian" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>romeo kassim</span></span><span class="ff-bullet"></span><span data-ff-time="2008-11-26 11:36:20" class="ff-comment-time">Nov 26, 2008</span><p data-ff-auto-image class="ff-comment" data-ff-text>i think christina milian should date me all da ladies like me so much cos i know how to treat a lady right milian anytime u have a relationship problem holla at me baby i will always be there for u cos ur da bum i wana leave ma email but not sure if u will get bac to me anyway am workin hard to be a bad boy footballer wen i get dey i will holla at u girl i love u so much even tho i dont know u i think ur da cutest girl ever damn only if u had ma child i would have been so happy u need to see me girl cos every girl think am really cute ur da best milian</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="10728773" data-ff-title="Dre used to Date Julissa Bermudez before he dumped her for Christina. Too bad they made a cute couple...too cute for words." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Lili</span></span><span class="ff-bullet"></span><span data-ff-time="2008-08-20 17:17:00" class="ff-comment-time">Aug 20, 2008</span><p data-ff-auto-image class="ff-comment" data-ff-text>Dre used to Date Julissa Bermudez before he dumped her for Christina. Too bad they made a cute couple...too cute for words.</p></div><div data-ffw="content" data-ff-eid="33986053" data-ff-url="" data-ff-tid="6" data-ff-id="10697479" data-ff-title="they look amazing!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/NONYA"><span class="ff-img" data-ff-image></span><span data-ff-webname>NONYA</span></a><span class="ff-bullet"></span><span data-ff-time="2008-05-07 20:44:25" class="ff-comment-time">May 7, 2008</span><p data-ff-auto-image class="ff-comment" data-ff-text>they look amazing!</p></div><div data-ffw="content" data-ff-eid="33891359" data-ff-url="" data-ff-tid="6" data-ff-id="10668511" data-ff-title="i just love dre from cool and dre and i think that him and christina make a hot couple!their my favorite dream couple!they rock!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/janetlbrooks"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/d/a/dalnpevf5j9fndef.jpg?skj2io4l" alt="janetlbrooks" class=" " /></span><span data-ff-webname>janetlbrooks</span></a><span class="ff-bullet"></span><span data-ff-time="2007-12-01 06:46:23" class="ff-comment-time">Dec 1, 2007</span><p data-ff-auto-image class="ff-comment" data-ff-text>i just love dre from cool and dre and i think that him and christina make a hot couple!their my favorite dream couple!they rock!</p></div><div data-ffw="content" data-ff-eid="33891359" data-ff-url="" data-ff-tid="6" data-ff-id="10666721" data-ff-title="hey i think that u r good for christina,and i glad that she has u.someone who`s gonna do her right,and love her no matter what.u rock,man!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/janetlbrooks"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/d/a/dalnpevf5j9fndef.jpg?skj2io4l" alt="janetlbrooks" class=" " /></span><span data-ff-webname>janetlbrooks</span></a><span class="ff-bullet"></span><span data-ff-time="2007-11-10 05:45:03" class="ff-comment-time">Nov 10, 2007</span><p data-ff-auto-image class="ff-comment" data-ff-text>hey i think that u r good for christina,and i glad that she has u.someone who`s gonna do her right,and love her no matter what.u rock,man!</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/andre-lyon/forum" title="Andre Lyon discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/nick-cannon"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/v/f/vfacdpzyjrhedyfh.jpg?skj2io4l" alt="Nick Cannon" class=" " /><div class="ff-name">Nick Cannon</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>266</span></span><span class="ff-rank-change ff-neg"><span>-145</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/lil-wayne"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/t/q/tqqa1ef8657pe6qp.jpg?skj2io4l" alt="Lil' Wayne" class=" " /><div class="ff-name">Lil' Wayne</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>230</span></span><span class="ff-rank-change ff-neg"><span>-12</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/paul-walker"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/t/r/trf7mqpleehueuqf.jpg?skj2io4l" alt="Paul Walker" class=" " /><div class="ff-name">Paul Walker</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>515</span></span><span class="ff-rank-change"><span>+115</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/andre-benjamin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/w/o/wosoh2305zfczw3o.jpg?skj2io4l" alt="André 3000" class=" " /><div class="ff-name">André 3000</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,799</span></span><span class="ff-rank-change"><span>+409</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/the-dream"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/p/4/p4zkyzlauaokzuzk.jpg?skj2io4l" alt="The-Dream" class=" " /><div class="ff-name">The-Dream</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>4,834</span></span><span class="ff-rank-change"><span>+507</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li></ul></div></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Andre Lyon</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/tracy1372" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/a/dacehz0ym3swwmy.jpg?skj2io4l" alt="tracy1372" class=" " /></div><div style="float:right">
+					21
+				</div>
+					tracy1372
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/kimkim15" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/i/5/i5e4loc29d3eoe25.jpg?skj2io4l" alt="kimkim15" class=" " /></div><div style="float:right">
+					15
+				</div>
+					kimkim15
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Mrs_Chris_Brown" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/c/dc1kczdmj33gz1mc.jpg?skj2io4l" alt="Mrs_Chris_Brown" class=" " /></div><div style="float:right">
+					10
+				</div>
+					Mrs_Chris_Brown
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/xXAbercrombieGirlXx" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/c/dcab6hv6w50zzw6.jpg?skj2io4l" alt="xXAbercrombieGirlXx" class=" " /></div><div style="float:right">
+					7
+				</div>
+					xXAbercrombieGirlXx
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/swlatina21" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/9/d9mlf4xyrh7xxry.jpg?skj2io4l" alt="swlatina21" class=" " /></div><div style="float:right">
+					7
+				</div>
+					swlatina21
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Andre Lyon profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Andre Lyon to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="45015:andre-lyon"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Andre Lyon</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/103072168">
+			Andre Lyon and Porschla Coleman
+		</a></li><li style="clear:both;"><a href="/six-degrees/102977458">
+			Kit Cope and Necole Bitchie
+		</a></li><li style="clear:both;"><a href="/six-degrees/102977435">
+			Andre Lyon and Gina Carano
+		</a></li><li style="clear:both;"><a href="/six-degrees/95079317">
+			Julissa Bermudez and Jai Manselle
+		</a></li><li style="clear:both;"><a href="/six-degrees/87526229">
+			Shemar Moore and Michelle Thomas
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Andre Lyon</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/andre-lyon"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/o/v/ovm6nwioia16ia6o.jpg?skj2io4l" alt="Christina Milian in miscellaneous photoshoots" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/andre-lyon"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/h/b/hbq13i269emsis9.jpg?skj2io4l" alt="Dre and Christina Milian" class=" " /></a></div><a href="https://www.famousfix.com/topic/andre-lyon" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																									videos, 
+																									news, 
+																											and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.464</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,45015,2,1,"","",3,"%2Fdating%2Fandre-lyon","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

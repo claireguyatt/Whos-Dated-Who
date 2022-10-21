@@ -1,0 +1,755 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Dan Gilroy dating? Dan Gilroy girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/dan-gilroy" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/dan-gilroy" /><meta name="title" content="Who is Dan Gilroy dating? Dan Gilroy girlfriend, wife" /><meta name="description" content="18 October 2022... Dan Gilroy news, gossip, photos of Dan Gilroy, biography, Dan Gilroy girlfriend list 2022. Relationship history. Dan Gilroy relationship list. Dan Gilroy dating history, 2022, 2021, list of Dan Gilroy relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/dan-gilroy" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Dan Gilroy" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img6.bdbphotos.com/images/orig/3/r/3rf81iti9l8fr38l.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/dan-gilroy",
+  "name": "Dan Gilroy",
+"jobTitle": "Screenwriter",  "url": "https://www.whosdatedwho.com/dating/dan-gilroy",
+"birthDate": "1959-06-24",  "spouse": {
+	"@type": "Person",
+  	"name": "Rene Russo",
+	"url": "https://www.whosdatedwho.com/dating/rene-russo"
+  },
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Rene Russo",
+        "url": "https://www.whosdatedwho.com/dating/dan-gilroy#dating-rene-russo",
+		        "image": "//img1.bdbphotos.com/images/orig/i/6/i6w6zfl2zv4l4vl.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Shelley Duvall",
+        "url": "https://www.whosdatedwho.com/dating/dan-gilroy#dating-shelley-duvall",
+		        "image": "//img2.bdbphotos.com/images/orig/g/l/glv78ilpqz0zliqv.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Madonna",
+        "url": "https://www.whosdatedwho.com/dating/dan-gilroy#dating-madonna",
+		        "image": "//img6.bdbphotos.com/images/orig/d/7/d72d3o0l7awl0o72.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="dan-gilroy" data-ff-tid="1" data-ff-id="11089" data-ff-title="Dan Gilroy" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="11089"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/dan-gilroy">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-dan-gilroy" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Dan Gilroy 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-dan-gilroy"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/3/r/3rf81iti9l8f8lt8.jpg?skj2io4l" alt="Dan Gilroy" class=" " /></div></div><div class="ff-relationship text-center ff-married" ><span>Married</span></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Dan Gilroy&nbsp;&nbsp;<span class="ff-smaller">American Screenwriter</span></div><div class="ff-thumbs"><span onClick="contentVote('v11089101',11089,1,0,1,'dan-gilroy');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v11089101">1</v></span><span onClick="contentVote('v1108910-1',11089,1,0,'-1','dan-gilroy');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v1108910-1">4</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/dan-gilroy/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">63</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-cancer"><i class="icon-cancer"></i></a></div><div class="footer">Cancer</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">3</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Dan Gilroy dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><div style="position:relative;width:51%;padding-left:108px;height:130px;margin-bottom:20px;"><div style="position:absolute;left:0;top:0"><img width="100" height="130" style="width:100px;height:130px;" src="//img4.bdbphotos.com/images/120x156/d/4/d451vn55ug474575.jpg?skj2io4l" alt="Rene Russo and Dan Gilroy" class=" " /></div><a href="/dating/rene-russo">Rene Russo</a> and <a href="/dating/dan-gilroy">Dan Gilroy</a> have been married for 30 years since 14th Dec 1991.
+    				<a class="button radius small" href="rene-russo-and-dan-gilroy" style="position:absolute;bottom:0;left:108px;right:0;background-color:#ad0400;margin:0;">view relationship</a></div><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="dan-gilroy">Dan Gilroy</topic> has been in relationships with <a href="/dating/shelley-duvall">Shelley Duvall</a> and <a href="/dating/madonna">Madonna</a>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="dan-gilroy">Dan Gilroy</topic> is a 63 year old American Screenwriter. Born Daniel Christopher Gilroy on 24th June, 1959 in Santa Monica, California, USA, he is famous for Freejack in a career that spans 1997&#8211;present and 1992&#8211;present. His zodiac sign is Cancer.</p><p class="ff-auto-about"><topic url="dan-gilroy">Dan Gilroy</topic> has been in an on-screen matchup with <a href="/dating/shelley-duvall">Shelley Duvall</a> in <i>Mother Goose Rock 'n' Rhyme</i><span> (1990)</span>.</p><div class="ff-person-profile-detail-toggle hide"><p class="ff-auto-about"><topic url="dan-gilroy">Dan Gilroy</topic> is a member of the following lists: <a href="/lists/1959-births">1959 births</a>, <a href="/lists/american-film-directors">American film directors</a> and <a href="/lists/american-screenwriters">American screenwriters</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Dan Gilroy dating? Dan Gilroy girlfriend, wife list. Help us build our profile of Dan Gilroy! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/dan-gilroy">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Rene Russo and Dan Gilroy">
+								30 years, 8 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Dating</th><td>2</td><td>
+													-
+											</td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Rene Russo and Dan Gilroy">
+								30 years, 8 months
+						</span></td><td style="font-style:oblique">
+											10 years, 2 months
+									</td><td style="font-style:oblique">
+											-
+									</td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Daniel
+													</td></tr><tr><td>Middle Name</td><td>
+															Christopher
+													</td></tr><tr><td>Last Name</td><td>
+															Gilroy
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Daniel Christopher Gilroy
+													</td></tr><tr><td>Alternative Name</td><td>
+															Dan Gilroy, Daniel Christopher Gilroy
+													</td></tr><tr><td>Age</td><td>
+															63 years
+													</td></tr><tr><td>Birthday</td><td>
+															24th June, 1959
+													</td></tr><tr><td>Birthplace</td><td>
+															Santa Monica, California, USA
+													</td></tr><tr><td>Height</td><td>
+															5&#039; 11&quot; (180 cm)
+													</td></tr><tr><td>Weight</td><td>
+															150lbs (68 kg)
+													</td></tr><tr><td>Build</td><td>
+															Slim
+													</td></tr><tr><td>Eye Color</td><td>
+															Blue
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Light
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Cancer
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Other
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>High School</td><td>
+															Darmouth College, Hanover, New Hampshire, USA
+													</td></tr><tr><td>Occupation Text</td><td>
+															Screenwriter, Producer, Actor, Musician
+													</td></tr><tr><td>Occupation</td><td>
+															Screenwriter
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Freejack
+													</td></tr><tr><td>Year(s) Active</td><td>
+															1997-present, 1997&#8211;present, 1992&#8211;present
+													</td></tr><tr><td>Clothes Size</td><td>
+															8
+													</td></tr><tr><td>Shoe Size</td><td>
+															11
+													</td></tr><tr><td>Official Websites</td><td>
+															www.rottentomatoes.com/celebrity/dan_gilroy, www.facebook.com/DanGilroy, twitter.com/dangilroy, www.allmovie.com/artist/dan-gilroy-p27009
+													</td></tr><tr><td>Father</td><td>
+															Frank D. Gilroy
+													</td></tr><tr><td>Mother</td><td>
+															Ruth Dorothy Gaydos
+													</td></tr><tr><td>Brother</td><td>
+															John Gilroy (film editor), Tony Gilroy (screenwriter, director)
+													</td></tr><tr><td>Family Member</td><td>
+															Sam Gilroy (nephew), Carolyn Gilroy (niece), Rose Gilroy (daughter)
+													</td></tr><tr><td>Pets</td><td>
+															Dogs
+													</td></tr><tr><td>Favorite Bands</td><td>
+															Rolling Stones
+													</td></tr><tr><td>Favorite Places</td><td>
+															Santa Monica, Los Angeles, San Francisco, Paris, New York, London
+													</td></tr><tr><td>Favorite Colors</td><td>
+															Black, White, Green, Blue, Grey, Yellow, Brown
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Daniel Christopher Gilroy (born June 24, 1959) is an American screenwriter and film director. He is best known for writing and directing Nightcrawler (2014), for which he won Best Screenplay at the 30th Independent Spirit Awards, and was nominated for Best Original Screenplay at the 87th Academy Awards. Before becoming both a writer and director, Gilroy worked mostly as a screenwriter. His screenwriting credits include Freejack (1992), Two for the Money (2005), The Fall (2006), Real Steel (2011), and The Bourne Legacy (2012)—the last in collaboration with his brother Tony Gilroy. His wife, Rene Russo, has also been his frequent collaborator since the two met in 1992 and married later that year.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Dan Gilroy
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Dan Gilroy
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/dan-gilroy/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,rene-russo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/rene-russo">
+				Rene Russo
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    1992
+					</td><td>
+							present
+					</td><td>
+						    			30 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,rene-russo-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/rene-russo-and-dan-gilroy"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,shelley-duvall" data-ff-gx-click href="https://www.whosdatedwho.com/dating/shelley-duvall">
+				Shelley Duvall
+			</a></td><td>
+			Unknown
+		</td><td style="text-align:center"></td><td><a href="//members.whosdatedwho.com#/topic/shelley-duvall-and-dan-gilroy/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td><a href="//members.whosdatedwho.com#/topic/shelley-duvall-and-dan-gilroy/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,shelley-duvall-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/shelley-duvall-and-dan-gilroy"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna">
+				Madonna
+			</a></td><td>
+			Unknown
+		</td><td style="text-align:center"></td><td><a href="//members.whosdatedwho.com#/topic/madonna-and-dan-gilroy/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td><a href="//members.whosdatedwho.com#/topic/madonna-and-dan-gilroy/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,madonna-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna-and-dan-gilroy"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-rene-russo"><a data-ff-gx="View Person,rene-russo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/rene-russo"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/i/6/i6w6zfl2zv4ll.jpg?skj2io4l" alt="Rene Russo" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Rene Russo
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v258071110891',25807,1,11089,1,'rene-russo-and-dan-gilroy');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v258071110891">26</v></span><span onClick="contentVote('v25807111089-1',25807,1,11089,'-1','rene-russo-and-dan-gilroy');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v25807111089-1">2</v></span></div></div><h3>1992</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,rene-russo-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/rene-russo-and-dan-gilroy">
+			
+							Rene Russo and Dan Gilroy have been married f...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-shelley-duvall"><a data-ff-gx="View Person,shelley-duvall" data-ff-gx-click href="https://www.whosdatedwho.com/dating/shelley-duvall"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/g/l/glv78ilpqz0zzp0q.jpg?skj2io4l" alt="Shelley Duvall" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Shelley Duvall
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v326101110891',32610,1,11089,1,'shelley-duvall-and-dan-gilroy');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v326101110891">4</v></span><span onClick="contentVote('v32610111089-1',32610,1,11089,'-1','shelley-duvall-and-dan-gilroy');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v32610111089-1">5</v></span></div></div><h3></h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,shelley-duvall-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/shelley-duvall-and-dan-gilroy">
+			
+							Shelley Duvall and Dan Gilroy were in a relat...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-madonna"><a data-ff-gx="View Person,madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/d/7/d72d3o0l7awlalw7.jpg?skj2io4l" alt="Madonna" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Madonna
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v15911110891',1591,1,11089,1,'madonna-and-dan-gilroy');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v15911110891">17</v></span><span onClick="contentVote('v1591111089-1',1591,1,11089,'-1','madonna-and-dan-gilroy');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v1591111089-1">2</v></span></div></div><h3></h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,madonna-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna-and-dan-gilroy">
+			
+							Dan Gilroy and Madonna were in a relationship...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/i/6/i6w6zfl2zv4l4vl.jpg?skj2io4l')" data-ff-gx="View Person,rene-russo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/rene-russo"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="rene-russo" data-ff-gx="View Person,rene-russo" data-ff-gx-click>Rene Russo</a></h4><h3>
+						1992
+						<small></small></h3><p data-ff-gx="View Couple,rene-russo-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/rene-russo-and-dan-gilroy">
+												
+						Rene Russo and Dan Gilroy have been married for 30 years.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">30</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/rene-russo-and-dan-gilroy/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>60%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>33%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">37%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:92.857142857143%;border-bottom:2px solid green;"></div><div style="float:left;width:7.1428571428571%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v258071110891',25807,1,11089,1,'rene-russo-and-dan-gilroy');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v258071110891">26</v></span><span onClick="contentVote('v25807111089-1',25807,1,11089,'-1','rene-russo-and-dan-gilroy');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v25807111089-1">2</v></span></div><a class="button radius small ff-view-button" href="rene-russo-and-dan-gilroy"  data-ff-gx="View Couple,rene-russo-and-dan-gilroy" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/g/l/glv78ilpqz0zliqv.jpg?skj2io4l')" data-ff-gx="View Person,shelley-duvall" data-ff-gx-click href="https://www.whosdatedwho.com/dating/shelley-duvall"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="shelley-duvall" data-ff-gx="View Person,shelley-duvall" data-ff-gx-click>Shelley Duvall</a></h4><h3><small></small></h3><p data-ff-gx="View Couple,shelley-duvall-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/shelley-duvall-and-dan-gilroy">
+												
+						Shelley Duvall and Dan Gilroy had a relationship.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/shelley-duvall-and-dan-gilroy/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>80%</td></tr><tr><td>Chinese zodiac</td><td>60%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>1%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">49%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:44.444444444444%;border-bottom:2px solid green;"></div><div style="float:left;width:55.555555555556%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v326101110891',32610,1,11089,1,'shelley-duvall-and-dan-gilroy');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v326101110891">4</v></span><span onClick="contentVote('v32610111089-1',32610,1,11089,'-1','shelley-duvall-and-dan-gilroy');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v32610111089-1">5</v></span></div><a class="button radius small ff-view-button" href="shelley-duvall-and-dan-gilroy"  data-ff-gx="View Couple,shelley-duvall-and-dan-gilroy" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/d/7/d72d3o0l7awl0o72.jpg?skj2io4l')" data-ff-gx="View Person,madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="madonna" data-ff-gx="View Person,madonna" data-ff-gx-click>Madonna</a></h4><h3><small></small></h3><p data-ff-gx="View Couple,madonna-and-dan-gilroy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna-and-dan-gilroy">
+												
+						Dan Gilroy and Madonna had a relationship.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/madonna-and-dan-gilroy/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>60%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">58%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:89.473684210526%;border-bottom:2px solid green;"></div><div style="float:left;width:10.526315789474%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v15911110891',1591,1,11089,1,'madonna-and-dan-gilroy');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v15911110891">17</v></span><span onClick="contentVote('v1591111089-1',1591,1,11089,'-1','madonna-and-dan-gilroy');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v1591111089-1">2</v></span></div><a class="button radius small ff-view-button" href="madonna-and-dan-gilroy"  data-ff-gx="View Couple,madonna-and-dan-gilroy" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/dan-gilroy">Dan Gilroy</a></td><td>63</td><td><i class="icon-46"></i>
+
+Cancer</td><td>Screenwriter</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/rene-russo">Rene Russo</a></td><td>68</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/shelley-duvall">Shelley Duvall</a></td><td>73</td><td><i class="icon-46"></i>
+
+Cancer</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/madonna">Madonna</a></td><td>64</td><td><i class="icon-47"></i>
+
+Leo</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-11089"
+		data-ff-thumbs-id="gallery-thumbs-11089"
+		data-ff-topic="11089"
+><div id="gallery-display-11089" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/0/7/072jasqhdnm327am.jpg?skj2io4l"><div class="ff-caption">Velvet Buzzsaw (2019)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/w/0/w0uykoe6h6at6hto.jpg?skj2io4l"><div class="ff-caption">Velvet Buzzsaw (2019)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/6/s/6sih39n3ynog6giy.jpg?skj2io4l"><div class="ff-caption">Velvet Buzzsaw (2019)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/n/r/nrml1hortzn0lmh0.jpg?skj2io4l"><div class="ff-caption">Velvet Buzzsaw (2019)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/3/7/37ljp8uioi9epju3.jpg?skj2io4l"><div class="ff-caption">Premieres - 2014 Toronto International Film Festival</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/4/a/4a105d3n72967n95.jpg?skj2io4l"><div class="ff-caption">&#039;Nightcrawler&#039; New York Premiere</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/t/r/treskgskglvovls.jpg?skj2io4l"><div class="ff-caption">&#039;Nightcrawler&#039; New York Premiere</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/o/d/odpn2wjkb51spd21.jpg?skj2io4l"><div class="ff-caption">Dan Gilroy</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/w/z/wz4nfwejafv5zwnf.jpg?skj2io4l"><div class="ff-caption">Dan Gilroy</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/h/w/hwl5e53nws1h35wl.jpg?skj2io4l"><div class="ff-caption">Dan Gilroy</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/v/d/vdbuyjpsubi3ibp.jpg?skj2io4l"><div class="ff-caption">Dan Gilroy</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/m/b/mbr20ral45pa4lp0.jpg?skj2io4l"><div class="ff-caption">Dan Gilroy</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-11089" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/0/7/072jasqhdnm327am.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/w/0/w0uykoe6h6at6hto.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/6/s/6sih39n3ynog6giy.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/n/r/nrml1hortzn0lmh0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/3/7/37ljp8uioi9epju3.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/4/a/4a105d3n72967n95.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/t/r/treskgskglvovls.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/o/d/odpn2wjkb51spd21.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/w/z/wz4nfwejafv5zwnf.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/h/w/hwl5e53nws1h35wl.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/v/d/vdbuyjpsubi3ibp.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/m/b/mbr20ral45pa4lp0.jpg?skj2io4l)"></div></div></div></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.onscreenMatchupsGrid" class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen" ><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/shelley-duvall-and-dan-gilroy"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/f/o/foawbgak7dpcbkop.jpg?skj2io4l" alt="Shelley Duvall and Dan Gilroy" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/f/o/foawbgak7dpcadbc.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/shelley-duvall">Shelley Duvall</a><a href="https://www.whosdatedwho.com/dating/shelley-duvall-and-dan-gilroy"><ul><li>
+							Mother Goose Rock 'n' Rhyme<br />
+							1990
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></ul></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/dan-gilroy/forum" title="Dan Gilroy discussion board">View all comments (6)</a></small></h3><div data-ffw="content" data-ff-eid="102241508" data-ff-url="" data-ff-tid="6" data-ff-id="109627807" data-ff-title="Hoje 24/06 é o aniversário de Dan Gilroy!  Today 24/06 is the birthday of Dan Gilroy!  Feliz Aniversário! Muita paz, saúde, realizações, sucesso e bênçãos!  Abraços!  Happy Birthday! Peace, health, achievements, success and blessings! Hugs!  Eu te amo, Dan Gilroy!  I love you, Dan Gilroy!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Aparecido"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/w/r/wrcwvduwqohmmqw.jpg?skj2io4l" alt="Aparecido" class=" " /></span><span data-ff-webname>Aparecido</span></a><span class="ff-bullet"></span><span data-ff-time="2022-06-24 08:04:43" class="ff-comment-time">Jun 24</span><p data-ff-auto-image class="ff-comment" data-ff-text>Hoje 24/06 é o aniversário de Dan Gilroy!  Today 24/06 is the birthday of Dan Gilroy!  Feliz Aniversário! Muita paz, saúde, realizações, sucesso e bênçãos!  Abraços!  Happy Birthday! Peace, health, achievements, success and blessings! Hugs!  Eu te amo, Dan Gilroy!  I love you, Dan Gilroy!</p></div><div data-ffw="content" data-ff-eid="102241508" data-ff-url="" data-ff-tid="6" data-ff-id="106489564" data-ff-title="Hoje 24/06 é o aniversário de Dan Gilroy!  Today 24/06 is the birthday of Dan Gilroy!  Feliz Aniversário! Muita paz, saúde, realizações, sucesso e bênçãos! Abraços!  Happy Birthday! Peace, health, achievements, success and blessings! Hugs!  Eu te amo, Dan Gilroy!  I love you, Dan Gilroy!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Aparecido"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/w/r/wrcwvduwqohmmqw.jpg?skj2io4l" alt="Aparecido" class=" " /></span><span data-ff-webname>Aparecido</span></a><span class="ff-bullet"></span><span data-ff-time="2021-06-24 08:57:54" class="ff-comment-time">Jun 24, 2021</span><p data-ff-auto-image class="ff-comment" data-ff-text>Hoje 24/06 é o aniversário de Dan Gilroy!  Today 24/06 is the birthday of Dan Gilroy!  Feliz Aniversário! Muita paz, saúde, realizações, sucesso e bênçãos! Abraços!  Happy Birthday! Peace, health, achievements, success and blessings! Hugs!  Eu te amo, Dan Gilroy!  I love you, Dan Gilroy!</p></div><div data-ffw="content" data-ff-eid="43032372" data-ff-url="" data-ff-tid="6" data-ff-id="102579374" data-ff-title="shared a link: https://www.allmovie.com/artist/dan-gilroy-p27009" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/halfgoofy"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/o/u/ougm1yuins6uygiu.jpg?skj2io4l" alt="halfgoofy" class=" " /></span><span data-ff-webname>halfgoofy</span></a><span class="ff-bullet"></span><span data-ff-time="2020-07-01 09:02:24" class="ff-comment-time">Jul 1, 2020</span><p data-ff-auto-image class="ff-comment" data-ff-text>shared a link: https://www.allmovie.com/artist/dan-gilroy-p27009</p></div><div data-ffw="content" data-ff-eid="43032372" data-ff-url="" data-ff-tid="6" data-ff-id="102579373" data-ff-title="shared a link: https://www.rottentomatoes.com/celebrity/dan_gilroy" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/halfgoofy"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/o/u/ougm1yuins6uygiu.jpg?skj2io4l" alt="halfgoofy" class=" " /></span><span data-ff-webname>halfgoofy</span></a><span class="ff-bullet"></span><span data-ff-time="2020-07-01 09:02:13" class="ff-comment-time">Jul 1, 2020</span><p data-ff-auto-image class="ff-comment" data-ff-text>shared a link: https://www.rottentomatoes.com/celebrity/dan_gilroy</p></div><div data-ffw="content" data-ff-eid="33935559" data-ff-url="" data-ff-tid="6" data-ff-id="10738518" data-ff-title="24 June 1959" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Lilith7"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/d/c/dcnrefqwvikfweir.jpg?skj2io4l" alt="Lilith7" class=" " /></span><span data-ff-webname>Lilith7</span></a><span class="ff-bullet"></span><span data-ff-time="2008-09-23 19:12:36" class="ff-comment-time">Sep 23, 2008</span><p data-ff-auto-image class="ff-comment" data-ff-text>24 June 1959</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/dan-gilroy/forum" title="Dan Gilroy discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/guy-ritchie"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/w/6/w6lunuriw5g1w1ul.jpg?skj2io4l" alt="Guy Ritchie" class=" " /><div class="ff-name">Guy Ritchie</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,878</span></span><span class="ff-rank-change ff-neg"><span>-84</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/jellybean-benitez"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/m/v/mvs9r6dfy7dp7md9.jpg?skj2io4l" alt="Jellybean Benítez" class=" " /><div class="ff-name">Jellybean Benítez</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/jean-michel-basquiat"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/i/q/iq17czo4bevpp1bz.jpg?skj2io4l" alt="Jean Michel Basquiat" class=" " /><div class="ff-name">Jean Michel Basquiat</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,959</span></span><span class="ff-rank-change"><span>+1,089</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/evan-peters"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/0/t/0t8cl0m6lunrr8l0.jpg?skj2io4l" alt="Evan Peters" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/0/t/0t8cl0m6lunrulrm.jpg?skj2io4l" /><div class="ff-name">Evan Peters</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>2</span></span><span class="ff-rank-change ff-neg"><span>-1</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/selena-gomez"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/e/k/ekzj91ef9qgpeqje.jpg?skj2io4l" alt="Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/e/k/ekzj91ef9qgp9pek.jpg?skj2io4l" /><div class="ff-name">Selena Gomez</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>3</span></span><span class="ff-rank-change ff-neg"><span>-1</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1959-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/w/k/wkkd7mb8uklssu8.jpg?skj2io4l" alt="1959 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1959 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-film-directors" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/k/b/kbla7uedckgscug7.jpg?skj2io4l" alt="American film directors" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American film directors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-screenwriters" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/n/u/nunablmbwk56lnbu.jpg?skj2io4l" alt="American screenwriters" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American screenwriters
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/english-language-film-directors" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/6/1/61eff2qauz6fu26f.jpg?skj2io4l" alt="English-language film directors" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						English-language film directors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-screenwriter-stubs" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/t/m/tmgt88u8rorc8mut.jpg?skj2io4l" alt="American screenwriter stubs" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American screenwriter stubs
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Dan Gilroy</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Anamaly" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/x/8xjtp2sgjmywygs.jpg?skj2io4l" alt="Anamaly" class=" " /></div><div style="float:right">
+					142
+				</div>
+					Anamaly
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/halfgoofy" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/o/u/ougm1yuins6uygiu.jpg?skj2io4l" alt="halfgoofy" class=" " /></div><div style="float:right">
+					20
+				</div>
+					halfgoofy
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/sweetangel666" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/q/dqrph641qi3u6r1q.jpg?skj2io4l" alt="sweetangel666" class=" " /></div><div style="float:right">
+					20
+				</div>
+					sweetangel666
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Tracker748" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" alt="Tracker748" class=" " /></div><div style="float:right">
+					11
+				</div>
+					Tracker748
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Lorelei8430" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/g/dg5r3y96lbqvvl6.jpg?skj2io4l" alt="Lorelei8430" class=" " /></div><div style="float:right">
+					11
+				</div>
+					Lorelei8430
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Dan Gilroy profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Dan Gilroy to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="11089:dan-gilroy"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Dan Gilroy</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/114816140">
+			Paul Simon and Heather Christie
+		</a></li><li style="clear:both;"><a href="/six-degrees/113810416">
+			Rene Russo and Louis Tomlinson
+		</a></li><li style="clear:both;"><a href="/six-degrees/108924517">
+			Drake Bell and Rene Russo
+		</a></li><li style="clear:both;"><a href="/six-degrees/95437356">
+			Henry Rollins and Ringo Starr
+		</a></li><li style="clear:both;"><a href="/six-degrees/89402964">
+			Paul Simon and Robert Sean Leonard
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Dan Gilroy</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/dan-gilroy"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/0/7/072jasqhdnm3qnj0.jpg?skj2io4l" alt="Velvet Buzzsaw (2019)" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/dan-gilroy"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/w/0/w0uykoe6h6atka6.jpg?skj2io4l" alt="Velvet Buzzsaw (2019)" class=" " /></a></div><a href="https://www.famousfix.com/topic/dan-gilroy" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																									videos, 
+																									news, 
+																									lists
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.371</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,11089,2,1,"","",3,"%2Fdating%2Fdan-gilroy","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

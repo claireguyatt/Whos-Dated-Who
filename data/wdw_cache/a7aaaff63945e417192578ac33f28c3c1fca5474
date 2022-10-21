@@ -1,0 +1,658 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Roger Federer dating? Roger Federer girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/roger-federer" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/roger-federer" /><meta name="title" content="Who is Roger Federer dating? Roger Federer girlfriend, wife" /><meta name="description" content="18 October 2022... Roger Federer news, gossip, photos of Roger Federer, biography, Roger Federer girlfriend list 2022. Relationship history. Roger Federer relationship list. Roger Federer dating history, 2022, 2021, list of Roger Federer relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/roger-federer" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Roger Federer" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img5.bdbphotos.com/images/orig/p/h/phbpclq3i9k3hpp9.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/roger-federer",
+  "name": "Roger Federer",
+"jobTitle": "Tennis",  "url": "https://www.whosdatedwho.com/dating/roger-federer",
+"birthDate": "1981-08-08",  "spouse": {
+	"@type": "Person",
+  	"name": "Mirka Federer",
+	"url": "https://www.whosdatedwho.com/dating/miroslava-vavrinec-tennis"
+  },
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 1,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Mirka Federer",
+        "url": "https://www.whosdatedwho.com/dating/roger-federer#dating-miroslava-vavrinec-tennis",
+		        "image": "//img5.bdbphotos.com/images/orig/c/4/c4guxgzqks4ll4q.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="roger-federer" data-ff-tid="1" data-ff-id="3754" data-ff-title="Roger Federer" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="3754"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/roger-federer">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-roger-federer" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Roger Federer 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-roger-federer"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/p/h/phbpclq3i9k3p9qk.jpg?skj2io4l" alt="Roger Federer" class=" " /></div></div><div class="ff-relationship text-center ff-married" ><span>Married</span></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Roger Federer&nbsp;&nbsp;<span class="ff-smaller">Swiss Tennis</span></div><div class="ff-thumbs"><span onClick="contentVote('v3754101',3754,1,0,1,'roger-federer');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v3754101">151</v></span><span onClick="contentVote('v375410-1',3754,1,0,'-1','roger-federer');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v375410-1">14</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/roger-federer/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">6397</div><div class="footer"><span class="ff-rank-change ff-neg"><i class="icon-chart-line"></i><span>-1668</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">41</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-leo"><i class="icon-leo"></i></a></div><div class="footer">Leo</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">1</div><div class="footer">total</div></a></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact lots"><i class='icon-child' ></i><i class='icon-child' ></i><br /><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">4 children</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Roger Federer dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><div style="position:relative;width:51%;padding-left:108px;height:130px;margin-bottom:20px;"><div style="position:absolute;left:0;top:0"><img width="100" height="130" style="width:100px;height:130px;" src="//img4.bdbphotos.com/images/120x156/c/w/cwz0t7k5e0ji0z.jpg?skj2io4l" alt="Roger Federer and Miroslava Vavrinec" class=" " /></div><a href="/dating/miroslava-vavrinec-tennis">Mirka Federer</a> and <a href="/dating/roger-federer">Roger Federer</a> have been married for 13 years since 11th Apr 2009.
+    				<a class="button radius small" href="roger-federer-and-miroslava-vavrinec" style="position:absolute;bottom:0;left:108px;right:0;background-color:#ad0400;margin:0;">view relationship</a></div><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="roger-federer">Roger Federer</topic> has had no other relationships that we know of.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="roger-federer">Roger Federer</topic> is a 41 year old Swiss Tennis Player. Born on 8th August, 1981 in Basel, Switzerland, he is famous for 951&#8211;220 (81.21% in ATP World Tour and Grand Slam main draw matches, and in Davis Cup). His zodiac sign is Leo.</p><p class="ff-auto-about"><topic url="roger-federer">Roger Federer</topic> is a member of the following lists: <a href="/lists/1981-births">1981 births</a>, <a href="/lists/tennis-players-at-the-2004-summer-olympics">Tennis players at the 2004 Summer Olympics</a> and <a href="/lists/world-number-1-ranked-tennis-players">World number 1 ranked tennis players</a>.</p><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Roger Federer dating? Roger Federer girlfriend, wife list. Help us build our profile of Roger Federer! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/roger-federer">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Roger Federer and Miroslava Vavrinec">
+								22 years, 1 month
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">1</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Roger Federer and Miroslava Vavrinec">
+								22 years, 1 month
+						</span></td><td style="font-style:oblique">
+											-
+									</td><td style="font-style:oblique">
+											-
+									</td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Roger
+													</td></tr><tr><td>Last Name</td><td>
+															Federer
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Roger Federer
+													</td></tr><tr><td>Alternative Name</td><td>
+															Mestro, King Roger, El reloj suizo, Federer Express, Der Künstler
+													</td></tr><tr><td>Age</td><td>
+															41 years
+													</td></tr><tr><td>Birthday</td><td>
+															8th August, 1981
+													</td></tr><tr><td>Birthplace</td><td>
+															Basel, Switzerland
+													</td></tr><tr><td>Height</td><td>
+															6&#039; 1¼&quot; (186 cm)
+													</td></tr><tr><td>Weight</td><td>
+															187lbs (85 kg)
+													</td></tr><tr><td>Build</td><td>
+															Athletic
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Leo
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Roman Catholic
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															Swiss
+													</td></tr><tr><td>Occupation Text</td><td>
+															Pro Tennis Player
+													</td></tr><tr><td>Occupation</td><td>
+															Tennis
+													</td></tr><tr><td>Claim to Fame</td><td>
+															951&#8211;220 (81.21% in ATP World Tour and Grand Slam main draw matches, and in Davis Cup)
+													</td></tr><tr><td>Brand Endorsement</td><td>
+															Print ads for Gillette shavers (2007)., (2008, 2010), 2013) Print ads for Rolex watches, TV commercials for Gillettes Fusion Power razorblades, 2008) Print ads for Wilson&#39;s (K) Factor (K) Six One tennis racquet., (2012-13) Print ads for Mercedes-Benz&#39; 7-passenger, GL class Sport Utility Vehicle., (August-September 2012) TV Commercial for Lindor Truffles Chocolates., (2013) Print ads&#39;s for Wilson&#39;s Pro Staff racquet.
+													</td></tr><tr><td>Shoe Size</td><td>
+															12
+													</td></tr><tr><td>Official Websites</td><td>
+															www.rogerfederer.com/en/index.cfm, members.home.nl/rogerfederer/profiel.html, twitter.com/rogerfederer
+													</td></tr><tr><td>Friend</td><td>
+															Stanislas Wawrinka
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Roger Federer (born 8 August 1981) is a Swiss professional tennis player who is ranked world No. 3 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 20 Grand Slam singles titles—the most in history by a male player—and has held the world No. 1 spot in the ATP rankings for a record total of 310 weeks (including a record 237 consecutive weeks) and was the year-end No. 1 five times, including four consecutive. Federer, who turned professional in 1998, was continuously ranked in the top ten from October 2002 to November 2016.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Roger Federer
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Roger Federer
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/roger-federer/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,miroslava-vavrinec-tennis" data-ff-gx-click href="https://www.whosdatedwho.com/dating/miroslava-vavrinec-tennis">
+				Mirka Federer
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Sep 2000
+					</td><td>
+							present
+					</td><td>
+						    			22 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,roger-federer-and-miroslava-vavrinec" data-ff-gx-click href="https://www.whosdatedwho.com/dating/roger-federer-and-miroslava-vavrinec"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-miroslava-vavrinec-tennis"><a data-ff-gx="View Person,miroslava-vavrinec-tennis" data-ff-gx-click href="https://www.whosdatedwho.com/dating/miroslava-vavrinec-tennis"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/c/4/c4guxgzqks4l.jpg?skj2io4l" alt="Mirka Federer" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Mirka Federer
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v5590137541',5590,1,3754,1,'roger-federer-and-miroslava-vavrinec');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5590137541">166</v></span><span onClick="contentVote('v559013754-1',5590,1,3754,'-1','roger-federer-and-miroslava-vavrinec');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v559013754-1">12</v></span></div></div><h3>2000</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,roger-federer-and-miroslava-vavrinec" data-ff-gx-click href="https://www.whosdatedwho.com/dating/roger-federer-and-miroslava-vavrinec">
+			
+							Mirka Federer and Roger Federer have been mar...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-ad-fill"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_Gallery_Filler_300x250 --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="2127160158"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/c/4/c4guxgzqks4ll4q.jpg?skj2io4l')" data-ff-gx="View Person,miroslava-vavrinec-tennis" data-ff-gx-click href="https://www.whosdatedwho.com/dating/miroslava-vavrinec-tennis"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="miroslava-vavrinec-tennis" data-ff-gx="View Person,miroslava-vavrinec-tennis" data-ff-gx-click>Mirka Federer</a></h4><h3>
+						2000
+						<small></small></h3><p data-ff-gx="View Couple,roger-federer-and-miroslava-vavrinec" data-ff-gx-click href="https://www.whosdatedwho.com/dating/roger-federer-and-miroslava-vavrinec">
+												
+						Mirka Federer and Roger Federer have been married for 13 years. They were dating for 8 years after getting together in Sep 2000 and were married on 11th Apr 2009.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">22</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/roger-federer-and-miroslava-vavrinec/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><circle cx="50" cy="50" r="45" stroke="green" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:green;stroke:none;">3</text></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>52%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">57%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact lots"><i class='icon-child' ></i><i class='icon-child' ></i><br /><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">4 children</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:93.258426966292%;border-bottom:2px solid green;"></div><div style="float:left;width:6.7415730337079%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v5590137541',5590,1,3754,1,'roger-federer-and-miroslava-vavrinec');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5590137541">166</v></span><span onClick="contentVote('v559013754-1',5590,1,3754,'-1','roger-federer-and-miroslava-vavrinec');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v559013754-1">12</v></span></div><a class="button radius small ff-view-button" href="roger-federer-and-miroslava-vavrinec"  data-ff-gx="View Couple,roger-federer-and-miroslava-vavrinec" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/roger-federer">Roger Federer</a></td><td>41</td><td><i class="icon-47"></i>
+
+Leo</td><td>Tennis</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ch.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Swiss</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/miroslava-vavrinec-tennis">Mirka Federer</a></td><td>44</td><td><i class="icon-43"></i>
+
+Aries</td><td>Tennis</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ch.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Swiss</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.children" class="ff-dropitem block-topic-children" data-ff-name="topic.children"><div id="section-children" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Children 
+									
+								</h2></div><div class="ff-block-content " id="ff-children"><table class="ff-table" width="100%"><thead><tr><th>Name</th><th>Gender</th><th>Born</th><th>Age</th><th>Other Parent</th></tr></thead><tbody><tr><td>Myla  Rose</td><td>Female</td><td>23rd June, 2009</td><td>13 years old</td><td><a href="miroslava-vavrinec-tennis">Mirka Federer</a></td></tr><tr><td>Charlene  Riva</td><td>Female</td><td>23rd June, 2009</td><td>13 years old</td><td><a href="miroslava-vavrinec-tennis">Mirka Federer</a></td></tr><tr><td>Leo</td><td>Male</td><td>6th May, 2014</td><td>8 years old</td><td><a href="miroslava-vavrinec-tennis">Mirka Federer</a></td></tr><tr><td>Lennart</td><td>Male</td><td>6th May, 2014</td><td>8 years old</td><td><a href="miroslava-vavrinec-tennis">Mirka Federer</a></td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-3754"
+		data-ff-thumbs-id="gallery-thumbs-3754"
+		data-ff-topic="3754"
+><div id="gallery-display-3754" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/k/dkv0pmwabbxokd0b.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/g/ug125ayyxmt321a3.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/m/z/mz7rrkf27kq6qkf.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/n/4/n4fbl3mkc2d2lbmn.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/r/u/ru47p7e6j7j7j7e.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/4/6/46ulfva5cmezfla4.jpg?skj2io4l"><div class="ff-caption">Roger Federer and Miroslava Vavrinec</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/6/n/6n9r8xds6nwg6sw8.jpg?skj2io4l"><div class="ff-caption">Isabelle Forrer, Roger Federer and Anouk Verge-Depre</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/e/5/e5g25p0hjagdga0.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/9/m/9m00pb1wsn3t9t0s.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/2/j2mkc2sze980j0me.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/k/1/k18dcy7h54fqd8yq.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/x/jx9fu3nmn2kddkm.jpg?skj2io4l"><div class="ff-caption">Roger Federer</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-3754" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/k/dkv0pmwabbxokd0b.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/g/ug125ayyxmt321a3.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/m/z/mz7rrkf27kq6qkf.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/n/4/n4fbl3mkc2d2lbmn.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/r/u/ru47p7e6j7j7j7e.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/4/6/46ulfva5cmezfla4.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/6/n/6n9r8xds6nwg6sw8.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/e/5/e5g25p0hjagdga0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/9/m/9m00pb1wsn3t9t0s.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/2/j2mkc2sze980j0me.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/k/1/k18dcy7h54fqd8yq.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/x/jx9fu3nmn2kddkm.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Vengeance: Episode 4 - Wet Dreams</td><td>2012</td><td>Lobster</td><td>Short Film</td></tr><tr><td>Vengeance: Episode 7 - The Daily Standard</td><td>2012</td><td>Lobster</td><td>Short Film</td></tr><tr><td>Breath</td><td>2008</td><td></td><td>Short Film</td></tr></tbody></table></div></fieldset>						<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/roger-federer/forum" title="Roger Federer discussion board">View all comments (203)</a></small></h3><div data-ffw="content" data-ff-eid="33955094" data-ff-url="" data-ff-tid="6" data-ff-id="88884828" data-ff-title="shared a link: https://www.imdb.com/name/nm1716574/" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/angel_angel"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/d/d/ddj4fwgj0c3zwjjd.jpg?skj2io4l" alt="angel_angel" class=" " /></span><span data-ff-webname>angel_angel</span></a><span class="ff-bullet"></span><span data-ff-time="2018-05-31 04:48:14" class="ff-comment-time">May 31, 2018</span><p data-ff-auto-image class="ff-comment" data-ff-text>shared a link: https://www.imdb.com/name/nm1716574/</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="41158367" data-ff-title="I think Mirka is u g l y fat and pathetic and has an u g l y name, everyone says he owes her everything, when in reality he&#039;s given her everything and she would be nothing without him, her only virtue is codependency. She has no life and no personality or talent. Any other woman could love him and pack the bags take care of the kids and support him just as well, she is overrated and poor Roger is very innocent and inexperienced. And what is it with him? he&#039;s young and he seems full of life, doesn’t he has blood running through his veins, doesn’t he wants to feel the waist of a beautiful woman? Poor guy. Low self esteem. When he gets older he&#039;ll regret not having more fun and living life, when his tennis life excitement ends he&#039;s going to feel it and see many things." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Low self esteem</span></span><span class="ff-bullet"></span><span data-ff-time="2015-01-24 20:32:02" class="ff-comment-time">Jan 24, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>I think Mirka is u g l y fat and pathetic and has an u g l y name, everyone says he owes her everything, when in reality he's given her everything and she would be nothing without him, her only virtue is codependency. She has no life and no personality or talent. Any other woman could love him and pack the bags take care of the kids and support him just as well, she is overrated and poor Roger is very innocent and inexperienced. And what is it with him? he's young and he seems full of life, doesn’t he has blood running through his veins, doesn’t he wants to feel the waist of a beautiful woman? Poor guy. Low self esteem. When he gets older he'll regret not having more fun and living life, when his tennis life excitement ends he's going to feel it and see many things.</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="32170341" data-ff-title="he&#039;s equally lucky to have her did you see 2009 wimbledon final she set through that epic match even though she&#039;s almost nine month pregnant . i respect her more since then . plus she pregnant now again . finger cross for another resurrection like in 2009 ." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>nitesh</span></span><span class="ff-bullet"></span><span data-ff-time="2014-04-19 11:57:51" class="ff-comment-time">Apr 19, 2014</span><p data-ff-auto-image class="ff-comment" data-ff-text>he's equally lucky to have her did you see 2009 wimbledon final she set through that epic match even though she's almost nine month pregnant . i respect her more since then . plus she pregnant now again . finger cross for another resurrection like in 2009 .</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="19735914" data-ff-title="miroslava is THE luckiest woman on planet earth if i was his wife i would go to watch every single last one of rogers federer&amp;#39;s&lt;br /&gt;matches but then again..i already do" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Chelas</span></span><span class="ff-bullet"></span><span data-ff-time="2012-08-07 02:40:02" class="ff-comment-time">Aug 7, 2012</span><p data-ff-auto-image class="ff-comment" data-ff-text>miroslava is THE luckiest woman on planet earth if i was his wife i would go to watch every single last one of rogers federer&#39;s<br />matches but then again..i already do</p></div><div data-ffw="content" data-ff-eid="34588175" data-ff-url="" data-ff-tid="6" data-ff-id="17673279" data-ff-title="The greatest player of all time!! a great man and sportman!!! Love you Roger!!" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Krily266"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/d/7/d7fd14b3woasbdwf.jpg?skj2io4l" alt="Krily266" class=" " /></span><span data-ff-webname>Krily266</span></a><span class="ff-bullet"></span><span data-ff-time="2011-09-14 17:19:22" class="ff-comment-time">Sep 14, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>The greatest player of all time!! a great man and sportman!!! Love you Roger!!</p></div><div data-ffw="content" data-ff-eid="34634576" data-ff-url="" data-ff-tid="6" data-ff-id="17650832" data-ff-title="He is a legend. Love his play. The best tennis player ever." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Livenchy"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/o/m/omq5zipb8qaibzq5.jpg?skj2io4l" alt="Livenchy" class=" " /></span><span data-ff-webname>Livenchy</span></a><span class="ff-bullet"></span><span data-ff-time="2011-09-10 07:17:02" class="ff-comment-time">Sep 10, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>He is a legend. Love his play. The best tennis player ever.</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16696166" data-ff-title="Roger,for me u are still the best. Seeing u play is watching poetry in motion." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Pushpaiyer</span></span><span class="ff-bullet"></span><span data-ff-time="2011-04-04 21:37:34" class="ff-comment-time">Apr 4, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>Roger,for me u are still the best. Seeing u play is watching poetry in motion.</p></div><div data-ffw="content" data-ff-eid="34564089" data-ff-url="" data-ff-tid="6" data-ff-id="16533016" data-ff-title="legend best male player ever" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/omarsclub"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/w/b/wb3ysrmvvc7vcv.jpg?skj2io4l" alt="omarsclub" class=" " /></span><span data-ff-webname>omarsclub</span></a><span class="ff-bullet"></span><span data-ff-time="2011-02-17 06:41:44" class="ff-comment-time">Feb 17, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>legend best male player ever</p></div><div data-ffw="content" data-ff-eid="34609312" data-ff-url="" data-ff-tid="6" data-ff-id="16499736" data-ff-title="hi!!!!!!!!!!!!!!! roger, how r u?" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/anupsingh"><span class="ff-img" data-ff-image></span><span data-ff-webname>anupsingh</span></a><span class="ff-bullet"></span><span data-ff-time="2011-02-07 05:41:46" class="ff-comment-time">Feb 7, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>hi!!!!!!!!!!!!!!! roger, how r u?</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16429596" data-ff-title="rcger is the best tennis player" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>suhud</span></span><span class="ff-bullet"></span><span data-ff-time="2011-02-01 02:51:11" class="ff-comment-time">Feb 1, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>rcger is the best tennis player</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="15973608" data-ff-title="Roger is the best tennis player ever. He is a great champion and ha the heart of a lion. Nadal seemed to have gotten the better of Roger over the last couple of years coz he (Nadal) was playing with his life and will burn out very very soon. Roger will outlast him. Vamos Roger!!!" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Elaine Chew</span></span><span class="ff-bullet"></span><span data-ff-time="2010-09-08 12:25:23" class="ff-comment-time">Sep 8, 2010</span><p data-ff-auto-image class="ff-comment" data-ff-text>Roger is the best tennis player ever. He is a great champion and ha the heart of a lion. Nadal seemed to have gotten the better of Roger over the last couple of years coz he (Nadal) was playing with his life and will burn out very very soon. Roger will outlast him. Vamos Roger!!!</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="15938400" data-ff-title="aaaaa...roger.. we have to be proud that such of a person exists on the EARTH... opssesed with him .." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Vjera</span></span><span class="ff-bullet"></span><span data-ff-time="2010-08-30 08:57:58" class="ff-comment-time">Aug 30, 2010</span><p data-ff-auto-image class="ff-comment" data-ff-text>aaaaa...roger.. we have to be proud that such of a person exists on the EARTH... opssesed with him ..</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/roger-federer/forum" title="Roger Federer discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/rafael-nadal"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/o/8/o8ikylfcufbgfofk.jpg?skj2io4l" alt="Rafael Nadal" class=" " /><div class="ff-name">Rafael Nadal</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>5,233</span></span><span class="ff-rank-change ff-neg"><span>-2,344</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/novak-djokovic"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/g/d/gd4adrnkxnwfrfx.jpg?skj2io4l" alt="Novak Djokovic" class=" " /><div class="ff-name">Novak Djokovic</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>4,856</span></span><span class="ff-rank-change"><span>+412</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/maria-sharapova"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/h/d/hd15fxwm294lm4fd.jpg?skj2io4l" alt="Maria Sharapova" class=" " /><div class="ff-name">Maria Sharapova</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>793</span></span><span class="ff-rank-change"><span>+221</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/andy-murray"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/f/j/fjlg305xck025k.jpg?skj2io4l" alt="Andy Murray" class=" " /><div class="ff-name">Andy Murray</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/andy-roddick"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/t/s/tsz0vhvqjc70h0j.jpg?skj2io4l" alt="Andy Roddick" class=" " /><div class="ff-name">Andy Roddick</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>4,122</span></span><span class="ff-rank-change ff-neg"><span>-184</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1981-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/1/2/12be5nuey3273u7n.jpg?skj2io4l" alt="1981 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1981 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/tennis-players-at-the-2004-summer-olympics" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/9/f/9fe173qdgjo0fo1j.jpg?skj2io4l" alt="Tennis players at the 2004 Summer Olympics" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Tennis players at the 2004 Summer Olympics
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/world-number-1-ranked-tennis-players" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/4/a/4aizsa1rkldkdr1.jpg?skj2io4l" alt="World number 1 ranked tennis players" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						World number 1 ranked tennis players
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/australian-open-tennis-champions" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/e/h/ehrz24qez43iz432.jpg?skj2io4l" alt="Australian Open (tennis) champions" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Australian Open (tennis) champions
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/laureus-world-sports-awards-winners" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/y/t/ytju3bignjlktluj.jpg?skj2io4l" alt="Laureus World Sports Awards winners" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Laureus World Sports Awards winners
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Roger Federer</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/anna1992" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/c/dcjfzxs95lwpjpzw.jpg?skj2io4l" alt="anna1992" class=" " /></div><div style="float:right">
+					1330
+				</div>
+					anna1992
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Molly0630" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/w/3/w30rjev5flr1j3vw.jpg?skj2io4l" alt="Molly0630" class=" " /></div><div style="float:right">
+					170
+				</div>
+					Molly0630
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/miss_ena" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/c/dcm6cjn8b55q8c56.jpg?skj2io4l" alt="miss_ena" class=" " /></div><div style="float:right">
+					120
+				</div>
+					miss_ena
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/NewsHound" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/b/dbxjsg31xuktjdgt.jpg?skj2io4l" alt="NewsHound" class=" " /></div><div style="float:right">
+					110
+				</div>
+					NewsHound
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Ameli" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/e/v/evuapvm6kyc3vu6v.jpg?skj2io4l" alt="Ameli" class=" " /></div><div style="float:right">
+					94
+				</div>
+					Ameli
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Roger Federer profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Roger Federer to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="3754:roger-federer"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Roger Federer</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/97312163">
+			Roger Federer and Mirka Federer
+		</a></li><li style="clear:both;"><a href="/six-degrees/89390322">
+			Miroslava Vavrinec and Mirka Federer
+		</a></li><li style="clear:both;"><a href="/six-degrees/89377372">
+			Roger Federer and Roger Federer
+		</a></li><li style="clear:both;"><a href="/six-degrees/32711992">
+			Roger Federer and Miroslava Vavrinec
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Roger Federer</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/roger-federer"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/d/k/dkv0pmwabbxombvo.jpg?skj2io4l" alt="Roger Federer" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/roger-federer"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/u/g/ug125ayyxmt3yt5g.jpg?skj2io4l" alt="Roger Federer" class=" " /></a></div><a href="https://www.famousfix.com/topic/roger-federer" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												trivia, 
+																									photos, 
+																									videos, 
+																									news
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.387</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,3754,2,1,"","",3,"%2Fdating%2Froger-federer","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

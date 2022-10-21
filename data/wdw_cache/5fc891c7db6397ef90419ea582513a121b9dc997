@@ -1,0 +1,736 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Afrojack dating? Afrojack girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/afrojack" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/afrojack" /><meta name="title" content="Who is Afrojack dating? Afrojack girlfriend, wife" /><meta name="description" content="18 October 2022... Afrojack news, gossip, photos of Afrojack, biography, Afrojack girlfriend list 2022. Relationship history. Afrojack relationship list. Afrojack dating history, 2022, 2021, list of Afrojack relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/afrojack" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Afrojack" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img2.bdbphotos.com/images/orig/5/d/5djllss767tpsl7d.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/afrojack",
+  "name": "Afrojack",
+"jobTitle": "Music Producer",  "url": "https://www.whosdatedwho.com/dating/afrojack",
+"birthDate": "1987-09-09",  "spouse": {
+	"@type": "Person",
+  	"name": "Elettra Lamborghini",
+	"url": "https://www.whosdatedwho.com/dating/elettra-lamborghini"
+  },
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Elettra Lamborghini",
+        "url": "https://www.whosdatedwho.com/dating/afrojack#dating-elettra-lamborghini",
+		        "image": "//img2.bdbphotos.com/images/orig/1/z/1z2kh7xfkzczfxzk.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Paris Hilton",
+        "url": "https://www.whosdatedwho.com/dating/afrojack#dating-paris-hilton",
+		        "image": "//img2.bdbphotos.com/images/orig/l/7/l7a0s62jshlza7sl.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Amanda Balk",
+        "url": "https://www.whosdatedwho.com/dating/afrojack#dating-amanda-balk",
+		        "image": "//img5.bdbphotos.com/images/orig/f/w/fw1grbxf5cmn1wrm.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="afrojack" data-ff-tid="1" data-ff-id="6705269" data-ff-title="Afrojack" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="6705269"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/afrojack">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-afrojack" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Afrojack 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-afrojack"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/5/d/5djllss767tp7dtj.jpg?skj2io4l" alt="Afrojack" class=" " /></div></div><div class="ff-relationship text-center ff-married" ><span>Married</span></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Afrojack&nbsp;&nbsp;<span class="ff-smaller">Dutch Music Producer</span></div><div class="ff-thumbs"><span onClick="contentVote('v6705269101',6705269,1,0,1,'afrojack');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v6705269101">15</v></span><span onClick="contentVote('v670526910-1',6705269,1,0,'-1','afrojack');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v670526910-1">5</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/afrojack/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">35</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-virgo"><i class="icon-virgo"></i></a></div><div class="footer">Virgo</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">3</div><div class="footer">total</div></a></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Afrojack dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><div style="position:relative;width:51%;padding-left:108px;height:130px;margin-bottom:20px;"><div style="position:absolute;left:0;top:0"><img width="100" height="130" style="width:100px;height:130px;" src="//img4.bdbphotos.com/images/120x156/y/s/yskmfqplw0evwq0f.jpg?skj2io4l" alt="Afrojack and Elettra Lamborghini" class=" " /></div><a href="/dating/elettra-lamborghini">Elettra Lamborghini</a> and <a href="/dating/afrojack">Afrojack</a> have been married for 1 year since 26th Sep 2020.
+    				<a class="button radius small" href="afrojack-and-elettra-lamborghini" style="position:absolute;bottom:0;left:108px;right:0;background-color:#ad0400;margin:0;">view relationship</a></div><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="afrojack">Afrojack</topic> has been in relationships with <a href="/dating/paris-hilton">Paris Hilton</a><span> (2011 - 2012)</span> and <a href="/dating/amanda-balk">Amanda Balk</a><span> (2009 - 2011)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="afrojack">Afrojack</topic> is a 34 year old Dutch Music Producer. Born Nick van de Wall on 9th September, 1987 in Spijkenisse, Netherlands, he is famous for Former Boyfriend of Paris Hilton in a career that spans 2004&#8211;present and 2003&#8211;present. His zodiac sign is Virgo.</p><p class="ff-auto-about"><topic url="afrojack">Afrojack</topic> is a member of the following lists: <a href="/lists/grammy-award-winners">Grammy Award winners</a>, <a href="/lists/1987-births">1987 births</a> and <a href="/lists/dutch-record-producers">Dutch record producers</a>.</p><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Afrojack dating? Afrojack girlfriend, wife list. Help us build our profile of Afrojack! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/afrojack">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Afrojack and Elettra Lamborghini">
+								3 years, 7 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Dating</th><td>2</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Nick Van De Wall and Amanda Balk">
+								2 years
+							</span></td><td>
+													1 year, 6 months
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Paris Hilton and Dj Afrojack">
+								1 year
+							</span></td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Afrojack and Elettra Lamborghini">
+								3 years, 7 months
+						</span></td><td style="font-style:oblique">
+											2 years, 2 months
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Paris Hilton and Dj Afrojack">
+							1 year
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Nick
+													</td></tr><tr><td>Middle Name</td><td>
+															Van De
+													</td></tr><tr><td>Last Name</td><td>
+															Van De Wall
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Nick van de Wall
+													</td></tr><tr><td>Alternative Name</td><td>
+															Afrojack, Nlw, Kapuchon, DJ Afrojack, Affrojack
+													</td></tr><tr><td>Age</td><td>
+															35 years
+													</td></tr><tr><td>Birthday</td><td>
+															9th September, 1987
+													</td></tr><tr><td>Birthplace</td><td>
+															Spijkenisse, Netherlands
+													</td></tr><tr><td>Height</td><td>
+															6&#039; 9¾&quot; (208 cm)
+													</td></tr><tr><td>Build</td><td>
+															Average
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Hair Color</td><td>
+															Black
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Virgo
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Christian
+													</td></tr><tr><td>Ethnicity</td><td>
+															Multiracial
+													</td></tr><tr><td>Nationality</td><td>
+															Dutch
+													</td></tr><tr><td>Occupation Text</td><td>
+															Disc Jockey, Mucic Producer
+													</td></tr><tr><td>Occupation</td><td>
+															Music Producer
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Former Boyfriend of Paris Hilton
+													</td></tr><tr><td>Music Genre (Text)</td><td>
+															Dance, Dutch house, Electro House, Progressive House, Edm, Trap, Moombahton, Midtempo, big room house, deep house, tropical house, minimal house, future house, future bass, dance pop
+													</td></tr><tr><td>Year(s) Active</td><td>
+															1994&#8211;present, 2004&#8211;present, 2003&#8211;present
+													</td></tr><tr><td>Instrument (text)</td><td>
+															FL Studio
+													</td></tr><tr><td>Record Label</td><td>
+															Spinnin, Wall Recordings, Island, Def Jam, Wall, Spinnin&#39;, Revealed, LDH, Armada, Spinnin'
+													</td></tr><tr><td>Associated Acts</td><td>
+															The Partysquad, Pitbull, Eva Simons, Quintino, Steve Aoki, Nervo, Chris Brown, Martin Garrix, David Guetta, Wrabel, Sidney Samson, Snoop Dogg, R3Hab, Redfoo, Nicki Minaj, Dimitri Vegas &amp; Like Mike, Hardwell, Tiësto, Nicky Romero, Chuckie, Ravitez, Ananya Birla, Jewelz &amp; Sparks, FAIS, Polow da Don, Major Lazer, DJ Buddha
+													</td></tr><tr><td>Official Websites</td><td>
+															http://www.afrojack.com
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Nick van de Wall (born 9 September 1987), professionally known as Afrojack, is a Dutch DJ, music programmer, record producer, and remixer from Spijkenisse. In 2007, he founded the record label Wall Recordings; his debut album Forget the World was released in 2014. Afrojack regularly features as one of the ten best artists in the Top 100 DJs published by DJ Mag. He is also the CEO of LDH Europe.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Afrojack
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Afrojack
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/afrojack/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,elettra-lamborghini" data-ff-gx-click href="https://www.whosdatedwho.com/dating/elettra-lamborghini">
+				Elettra Lamborghini
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    2019
+					</td><td>
+							present
+					</td><td>
+						    			3 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,afrojack-and-elettra-lamborghini" data-ff-gx-click href="https://www.whosdatedwho.com/dating/afrojack-and-elettra-lamborghini"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,paris-hilton" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton">
+				Paris Hilton
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Aug 2011
+					</td><td>
+						    Aug 2012
+					</td><td>
+						    			1 year
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,paris-hilton-and-dj-afrojack" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton-and-dj-afrojack"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,amanda-balk" data-ff-gx-click href="https://www.whosdatedwho.com/dating/amanda-balk">
+				Amanda Balk
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    2009
+					</td><td>
+						    2011
+					</td><td>
+						    			2 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,nick-van-de-wall-and-amanda-balk" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-van-de-wall-and-amanda-balk"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-elettra-lamborghini"><a data-ff-gx="View Person,elettra-lamborghini" data-ff-gx-click href="https://www.whosdatedwho.com/dating/elettra-lamborghini"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/1/z/1z2kh7xfkzczckzz.jpg?skj2io4l" alt="Elettra Lamborghini" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Elettra Lamborghini
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v53451364167052691',53451364,1,6705269,1,'afrojack-and-elettra-lamborghini');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v53451364167052691">3</v></span><span onClick="contentVote('v5345136416705269-1',53451364,1,6705269,'-1','afrojack-and-elettra-lamborghini');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v5345136416705269-1">3</v></span></div></div><h3>2019</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,afrojack-and-elettra-lamborghini" data-ff-gx-click href="https://www.whosdatedwho.com/dating/afrojack-and-elettra-lamborghini">
+			
+							Elettra Lamborghini and Afrojack have been ma...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-paris-hilton"><a data-ff-gx="View Person,paris-hilton" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/l/7/l7a0s62jshlz602s.jpg?skj2io4l" alt="Paris Hilton" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Paris Hilton
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v108167052691',108,1,6705269,1,'paris-hilton-and-dj-afrojack');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v108167052691">10</v></span><span onClick="contentVote('v10816705269-1',108,1,6705269,'-1','paris-hilton-and-dj-afrojack');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v10816705269-1">11</v></span></div></div><h3>2011 - 2012</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,paris-hilton-and-dj-afrojack" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton-and-dj-afrojack">
+			
+							Afrojack and Paris Hilton separated in Aug 20...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-amanda-balk"><a data-ff-gx="View Person,amanda-balk" data-ff-gx-click href="https://www.whosdatedwho.com/dating/amanda-balk"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/f/w/fw1grbxf5cmnbgxr.jpg?skj2io4l" alt="Amanda Balk" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Amanda Balk
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v2857027167052691',2857027,1,6705269,1,'nick-van-de-wall-and-amanda-balk');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v2857027167052691">1</v></span><span onClick="contentVote('v285702716705269-1',2857027,1,6705269,'-1','nick-van-de-wall-and-amanda-balk');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v285702716705269-1">10</v></span></div></div><h3>2009 - 2011</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,nick-van-de-wall-and-amanda-balk" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-van-de-wall-and-amanda-balk">
+			
+							Afrojack and Amanda Balk are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/1/z/1z2kh7xfkzczfxzk.jpg?skj2io4l')" data-ff-gx="View Person,elettra-lamborghini" data-ff-gx-click href="https://www.whosdatedwho.com/dating/elettra-lamborghini"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="elettra-lamborghini" data-ff-gx="View Person,elettra-lamborghini" data-ff-gx-click>Elettra Lamborghini</a></h4><h3>
+						2019
+						<small></small></h3><p data-ff-gx="View Couple,afrojack-and-elettra-lamborghini" data-ff-gx-click href="https://www.whosdatedwho.com/dating/afrojack-and-elettra-lamborghini">
+												
+						Elettra Lamborghini and Afrojack have been married for 1 year. After 9 months of engagement they were married on 26th Sep 2020.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">3</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/afrojack-and-elettra-lamborghini/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>100%</td></tr><tr><td>Height</td><td>91%</td></tr><tr><td>Age</td><td>69%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i></div></div><div class="footer">90%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:50%;border-bottom:2px solid green;"></div><div style="float:left;width:50%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v53451364167052691',53451364,1,6705269,1,'afrojack-and-elettra-lamborghini');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v53451364167052691">3</v></span><span onClick="contentVote('v5345136416705269-1',53451364,1,6705269,'-1','afrojack-and-elettra-lamborghini');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v5345136416705269-1">3</v></span></div><a class="button radius small ff-view-button" href="afrojack-and-elettra-lamborghini"  data-ff-gx="View Couple,afrojack-and-elettra-lamborghini" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/l/7/l7a0s62jshlza7sl.jpg?skj2io4l')" data-ff-gx="View Person,paris-hilton" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="paris-hilton" data-ff-gx="View Person,paris-hilton" data-ff-gx-click>Paris Hilton</a></h4><h3>
+						2011 - 2012
+						<small></small></h3><p data-ff-gx="View Couple,paris-hilton-and-dj-afrojack" data-ff-gx-click href="https://www.whosdatedwho.com/dating/paris-hilton-and-dj-afrojack">
+												
+						Afrojack and Paris Hilton dated from August, 2011 to August, 2012.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">1</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/paris-hilton-and-dj-afrojack/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>40%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Height</td><td>91%</td></tr><tr><td>Age</td><td>1%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">33%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:47.619047619048%;border-bottom:2px solid green;"></div><div style="float:left;width:52.380952380952%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v108167052691',108,1,6705269,1,'paris-hilton-and-dj-afrojack');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v108167052691">10</v></span><span onClick="contentVote('v10816705269-1',108,1,6705269,'-1','paris-hilton-and-dj-afrojack');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v10816705269-1">11</v></span></div><a class="button radius small ff-view-button" href="paris-hilton-and-dj-afrojack"  data-ff-gx="View Couple,paris-hilton-and-dj-afrojack" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/f/w/fw1grbxf5cmn1wrm.jpg?skj2io4l')" data-ff-gx="View Person,amanda-balk" data-ff-gx-click href="https://www.whosdatedwho.com/dating/amanda-balk"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="amanda-balk" data-ff-gx="View Person,amanda-balk" data-ff-gx-click>Amanda Balk</a></h4><h3>
+						2009 - 2011
+						<small></small></h3><p data-ff-gx="View Couple,nick-van-de-wall-and-amanda-balk" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-van-de-wall-and-amanda-balk">
+												
+						Afrojack and Amanda Balk had a relationship from 2009 to 2011.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">2</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/nick-van-de-wall-and-amanda-balk/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>20%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>91%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">57%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:9.0909090909091%;border-bottom:2px solid green;"></div><div style="float:left;width:90.909090909091%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v2857027167052691',2857027,1,6705269,1,'nick-van-de-wall-and-amanda-balk');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v2857027167052691">1</v></span><span onClick="contentVote('v285702716705269-1',2857027,1,6705269,'-1','nick-van-de-wall-and-amanda-balk');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v285702716705269-1">10</v></span></div><a class="button radius small ff-view-button" href="nick-van-de-wall-and-amanda-balk"  data-ff-gx="View Couple,nick-van-de-wall-and-amanda-balk" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/afrojack">Afrojack</a></td><td>35</td><td><i class="icon-48"></i>
+
+Virgo</td><td>Music Producer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/nl.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Dutch</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/elettra-lamborghini">Elettra Lamborghini</a></td><td>28</td><td><i class="icon-44"></i>
+
+Taurus</td><td>TV Personality</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/it.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Italian</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/paris-hilton">Paris Hilton</a></td><td>41</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Socialite</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/amanda-balk">Amanda Balk</a></td><td>34</td><td><i class="icon-51"></i>
+
+Sagittarius</td><td>Reality TV</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/nl.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Dutch</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.children" class="ff-dropitem block-topic-children" data-ff-name="topic.children"><div id="section-children" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Children 
+									
+								</h2></div><div class="ff-block-content " id="ff-children"><table class="ff-table" width="100%"><thead><tr><th>Name</th><th>Gender</th><th>Born</th><th>Age</th><th>Other Parent</th></tr></thead><tbody><tr><td>Vegas</td><td>Female</td><td>March, 2012</td><td>10 years old</td><td><a href="amanda-balk">Amanda Balk</a></td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-6705269"
+		data-ff-thumbs-id="gallery-thumbs-6705269"
+		data-ff-topic="6705269"
+><div id="gallery-display-6705269" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/m/n/mnzgtboiwq5vbtin.jpg?skj2io4l"><div class="ff-caption">Gene Simmons of KISS and music producer Afrojack attend Fashion Rocks 2014 presented by Three Lions Entertainment at the Barclays Center of Brooklyn on September 9, 2014 in New York City.</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/l/5/l5ildxfktnbalait.jpg?skj2io4l"><div class="ff-caption">Afrojack</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-6705269" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/m/n/mnzgtboiwq5vbtin.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/l/5/l5ildxfktnbalait.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Afrojack Feat. Ty Dolla $ign: Gone</td><td>2016</td><td>Afrojack</td><td>Music Video</td></tr><tr><td>Steve Aoki Featuring Afrojack: Afroki</td><td>2015</td><td>Afrojack</td><td>Music Video</td></tr><tr><td>David Guetta Feat. Nicki Minaj, Afrojack, Bebe Rexha: Hey Mama</td><td>2015</td><td>Afrojack</td><td>Music Video</td></tr><tr><td>Electric Daisy Carnival</td><td>2014</td><td>Afrojack</td><td>Music Video</td></tr><tr><td>Afrojack &amp; Martin Garrix: Turn Up the Speakers</td><td>2014</td><td>Afrojack</td><td>Music Video</td></tr><tr><td>PrototypeRadio</td><td>2012</td><td></td><td>TV Show</td></tr><tr><td>Pitbull: Give Me Everything</td><td>2011</td><td>DJ Afrojack</td><td>Music Video</td></tr></tbody></table></div></fieldset>						<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Have your say</h3><a href="https://www.famousfix.com/topic/afrojack/forum" title="Afrojack discussion board">Be the first to make a comment >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/lindsay-lohan"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/k/g/kg7kwqisoj8xjkik.jpg?skj2io4l" alt="Lindsay Lohan" class=" " /><div class="ff-name">Lindsay Lohan</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>24</span></span><span class="ff-rank-change ff-neg"><span>-5</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/cristiano-ronaldo"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/b/s/bs9e3q87w205w5q9.jpg?skj2io4l" alt="Cristiano Ronaldo" class=" " /><div class="ff-name">Cristiano Ronaldo</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>191</span></span><span class="ff-rank-change ff-neg"><span>-27</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/50-cent"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/y/4/y45tagd6zgvuzug5.jpg?skj2io4l" alt="50 Cent" class=" " /><div class="ff-name">50 Cent</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>90</span></span><span class="ff-rank-change"><span>+2</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/kim-kardashian"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/1/v/1vr06nqft35untru.jpg?skj2io4l" alt="Kim Kardashian" class=" " /><div class="ff-name">Kim Kardashian</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>17</span></span><span class="ff-rank-change ff-neg"><span>-1</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/brody-jenner"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/r/v/rvr8b2rlxvcgblvc.jpg?skj2io4l" alt="Brody Jenner" class=" " /><div class="ff-name">Brody Jenner</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>481</span></span><span class="ff-rank-change ff-neg"><span>-13</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/grammy-award-winners" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/k/n/knipwbfurpa0fpri.jpg?skj2io4l" alt="Grammy Award winners" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Grammy Award winners
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1987-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/q/5/q5tmp405u6rhthpr.jpg?skj2io4l" alt="1987 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1987 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/dutch-record-producers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/4/o/4o1bfw0d23wn1nfw.jpg?skj2io4l" alt="Dutch record producers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Dutch record producers
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/remixers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/b/y/byyju751n6911u6j.jpg?skj2io4l" alt="Remixers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Remixers
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/dutch-people-of-surinamese-descent" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/v/r/vr198r2iw2mo22or.jpg?skj2io4l" alt="Dutch people of Surinamese descent" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Dutch people of Surinamese descent
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Afrojack</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/yesjangelique05" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/l/w/lw71pst9vcfg7gpf.jpg?skj2io4l" alt="yesjangelique05" class=" " /></div><div style="float:right">
+					138
+				</div>
+					yesjangelique05
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/FeelingLucky" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/o/r/orfdkpr1yo2iorip.jpg?skj2io4l" alt="FeelingLucky" class=" " /></div><div style="float:right">
+					73
+				</div>
+					FeelingLucky
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Dawn_light93" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/g/dgjrc7ephwtqpcwr.jpg?skj2io4l" alt="Dawn_light93" class=" " /></div><div style="float:right">
+					62
+				</div>
+					Dawn_light93
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/JennyJen90" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/n/4/n4t0nsf2sgnc0nsc.jpg?skj2io4l" alt="JennyJen90" class=" " /></div><div style="float:right">
+					47
+				</div>
+					JennyJen90
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/TellMeWhy" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/v/9/v9dbtfsuba05t9sv.jpg?skj2io4l" alt="TellMeWhy" class=" " /></div><div style="float:right">
+					20
+				</div>
+					TellMeWhy
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Afrojack profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Afrojack to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="6705269:afrojack"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Afrojack</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/106247000">
+			Sonia Ben Ammar and Elettra Lamborghini
+		</a></li><li style="clear:both;"><a href="/six-degrees/104149893">
+			Jared Leto and Liam Lewis
+		</a></li><li style="clear:both;"><a href="/six-degrees/101258341">
+			Lindsay Lohan and Afrojack
+		</a></li><li style="clear:both;"><a href="/six-degrees/55672795">
+			Afrojack and Bella Hadid
+		</a></li><li style="clear:both;"><a href="/six-degrees/53431544">
+			Martha Stewart and Afrojack
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Afrojack</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/afrojack"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/m/n/mnzgtboiwq5vqmog.jpg?skj2io4l" alt="Gene Simmons of KISS and music producer Afrojack attend Fashion Rocks 2014 presented by Three Lions Entertainment at the Barclays Center of Brooklyn on September 9, 2014 in New York City." class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/afrojack"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/l/5/l5ildxfktnbadk5b.jpg?skj2io4l" alt="Afrojack" class=" " /></a></div><a href="https://www.famousfix.com/topic/afrojack" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																									videos, 
+																									news, 
+																									magazines
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+		
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.564</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,6705269,2,1,"","",3,"%2Fdating%2Fafrojack","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

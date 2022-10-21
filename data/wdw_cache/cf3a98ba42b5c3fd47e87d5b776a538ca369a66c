@@ -1,0 +1,823 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Jason Derulo dating? Jason Derulo girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/jason-derulo" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/jason-derulo" /><meta name="title" content="Who is Jason Derulo dating? Jason Derulo girlfriend, wife" /><meta name="description" content="18 October 2022... Jason Derulo news, gossip, photos of Jason Derulo, biography, Jason Derulo girlfriend list 2022. Relationship history. Jason Derulo relationship list. Jason Derulo dating history, 2022, 2021, list of Jason Derulo relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/jason-derulo" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Jason Derulo" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img5.bdbphotos.com/images/orig/4/6/46f7r0damy61ady7.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/jason-derulo",
+  "name": "Jason Derulo",
+"jobTitle": "Singer",  "url": "https://www.whosdatedwho.com/dating/jason-derulo",
+"birthDate": "1989-09-21",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 4,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Person",
+        "name": "Jena Frumes",
+        "url": "https://www.whosdatedwho.com/dating/jason-derulo#dating-jena-frumes",
+		        "image": "//img5.bdbphotos.com/images/orig/y/b/ybenkbwcttzzttzb.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Daphne Joy",
+        "url": "https://www.whosdatedwho.com/dating/jason-derulo#dating-daphne-joy",
+		        "image": "//img1.bdbphotos.com/images/orig/2/5/25o7ypttzv4ho5y4.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Carmen Ortega",
+        "url": "https://www.whosdatedwho.com/dating/jason-derulo#dating-carmen-ortega",
+		        "image": "//img2.bdbphotos.com/images/orig/g/0/g0wx8omrnd9qnr98.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Jordin Sparks",
+        "url": "https://www.whosdatedwho.com/dating/jason-derulo#dating-jordin-sparks",
+		        "image": "//img5.bdbphotos.com/images/orig/f/b/fbhlxzp8udz9pzuh.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="jason-derulo" data-ff-tid="1" data-ff-id="4427781" data-ff-title="Jason Derulo" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="4427781"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/jason-derulo">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-jason-derulo" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Jason Derulo 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-jason-derulo"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/4/6/46f7r0damy61y7r.jpg?skj2io4l" alt="Jason Derulo" class=" " /></div></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Jason Derulo&nbsp;&nbsp;<span class="ff-smaller">American Singer</span></div><div class="ff-thumbs"><span onClick="contentVote('v4427781101',4427781,1,0,1,'jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v4427781101">78</v></span><span onClick="contentVote('v442778110-1',4427781,1,0,'-1','jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v442778110-1">14</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/jason-derulo/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">765</div><div class="footer"><span class="ff-rank-change "><i class="icon-chart-line"></i><span>216</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">33</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-virgo"><i class="icon-virgo"></i></a></div><div class="footer">Virgo</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">4</div><div class="footer">total</div></a></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Jason Derulo dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><p class="ff-auto-status">
+    				    					According to our records, <topic url="jason-derulo">Jason Derulo</topic> is possibly single.
+    				    			</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="jason-derulo">Jason Derulo</topic> has been in relationships with <a href="/dating/jena-frumes">Jena Frumes</a><span> (2020 - 2021)</span> and <a href="/dating/jordin-sparks">Jordin Sparks</a><span> (2011 - 2014)</span>.</p><p><topic url="jason-derulo">Jason Derulo</topic> is rumoured to have hooked up with <a href="/dating/daphne-joy">Daphne Joy</a><span> (2015 - 2016)</span> and <a href="/dating/carmen-ortega">Carmen Ortega</a><span> (2014)</span>.</p><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="jason-derulo">Jason Derulo</topic> is a 33 year old American Singer. Born Jason Joel Desrouleaux on 21st September, 1989 in Miami, Florida, USA, he is famous for Single, &#34;Whatcha Say. His zodiac sign is Virgo.</p><p class="ff-auto-about"><topic url="jason-derulo">Jason Derulo</topic> is a member of the following lists: <a href="/lists/american-pop-singers">American pop singers</a>, <a href="/lists/american-singer-songwriters">American singer-songwriters</a> and <a href="/lists/warner-records-artists">Warner Records artists</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Jason Derulo dating? Jason Derulo girlfriend, wife list. Help us build our profile of Jason Derulo! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/jason-derulo">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Dating</th><td>2</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Jordin Sparks and Jason Derulo">
+								3 years, 1 month
+							</span></td><td>
+													2 years, 3 months
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Jena Frumes and Jason Derulo">
+								1 year, 5 months
+							</span></td></tr><tr><th>Rumoured</th><td>2</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Daphne Joy and Jason Derulo">
+								6 months, 2 days
+							</span></td><td>
+													3 months, 1 day
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">4</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Jordin Sparks and Jason Derulo">
+								3 years, 1 month
+						</span></td><td style="font-style:oblique">
+											1 year, 3 months
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Daphne Joy and Jason Derulo">
+							6 months, 2 days
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Jason
+													</td></tr><tr><td>Middle Name</td><td>
+															Joel
+													</td></tr><tr><td>Last Name</td><td>
+															Derulo
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Jason Joel Desrouleaux
+													</td></tr><tr><td>Alternative Name</td><td>
+															J. D.
+													</td></tr><tr><td>Age</td><td>
+															33 years
+													</td></tr><tr><td>Birthday</td><td>
+															21st September, 1989
+													</td></tr><tr><td>Birthplace</td><td>
+															Miami, Florida, USA
+													</td></tr><tr><td>Height</td><td>
+															6&#039; 0½&quot; (184 cm)
+													</td></tr><tr><td>Weight</td><td>
+															172lbs (78 kg)
+													</td></tr><tr><td>Build</td><td>
+															Athletic
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Hair Color</td><td>
+															Black
+													</td></tr><tr><td>Distinctive Feature</td><td>
+															Athletic Build
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Virgo
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Roman Catholic
+													</td></tr><tr><td>Ethnicity</td><td>
+															Black
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>University</td><td>
+															American Musical and Dramatic Academy, NY
+													</td></tr><tr><td>Occupation Text</td><td>
+															Singer, Actor, Dancer, Choreographer
+													</td></tr><tr><td>Occupation</td><td>
+															Singer
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Single, &#34;Whatcha Say
+													</td></tr><tr><td>Music Genre (Text)</td><td>
+															R&amp;B, Pop, Dance, Hip Hop
+													</td></tr><tr><td>Year(s) Active</td><td>
+															2006&#8211;present
+													</td></tr><tr><td>Record Label</td><td>
+															Warner Bros. Records, Beluga Heights, TM3 Records, Music Online Entertainmentz, Atlantic, Asylum, Warner Bros., Geffen, Slip-N-Slide, American King Music (former), Warner, TM3, Music Online, American King
+													</td></tr><tr><td>Associated Acts</td><td>
+															Jordin Sparks, Snoop Dogg, 2 Chainz, Tyga, Kid Ink, The Game, J.R. Rotem, Pitbull, Mims, Jawsh 685, BTS, Nuka
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															Celebrity Talent International, 23 Management Group, Casino Entertainment Talent Agency
+													</td></tr><tr><td>Brand Endorsement</td><td>
+															Coca Cola commercial
+													</td></tr><tr><td>Shoe Size</td><td>
+															9
+													</td></tr><tr><td>Official Websites</td><td>
+															www.youtube.com/user/JasonDerulo, twitter.com/jasonderulo, www.facebook.com/jasonderulo, http://jasonderulo.com, instagram.com/jasonderulo?ref=badge, www.billboard.com/artist/304245/jason-derulo/biography, www.aceshowbiz.com/celebrity/jason_derulo/biography.html#axzz3dGsC8j4M
+													</td></tr><tr><td>Brother</td><td>
+															Joel Desrouleaux
+													</td></tr><tr><td>Favorite Places</td><td>
+															Olive Garden (restaurant)
+													</td></tr><tr><td>Favorite Foods</td><td>
+															Water (drink), Mojito (drink), Vodka (drink)
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Jason Joel Desrouleaux (born September 21, 1989), better known by his stage name Jason Derulo (; formerly stylised as Derülo), is an American singer, songwriter, and dancer. Since the start of his solo recording career in 2009, Derulo has sold over 30 million singles and has achieved eleven Platinum singles including &quot;Wiggle&quot;, &quot;Talk Dirty&quot;, &quot;Want to Want Me&quot;, &quot;Trumpets&quot;, &quot;It Girl&quot;, &quot;In My Head&quot;, &quot;Ridin' Solo&quot;, and &quot;Whatcha Say&quot;.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Jason Derulo
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Jason Derulo
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/jason-derulo/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			4
+		</td><td><a data-ff-gx="View Person,jena-frumes" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jena-frumes">
+				Jena Frumes
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Apr 2020
+					</td><td>
+						    Sep 2021
+					</td><td>
+						    			1 year
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,jena-frumes-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jena-frumes-and-jason-derulo"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,daphne-joy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/daphne-joy">
+				Daphne Joy
+			</a></td><td>
+			Encounter
+		</td><td style="text-align:center"><a title="Rumor" style="color:#ad0400;font-weight:bold">R</a></td><td>
+						    Nov 2015
+					</td><td>
+						    May 2016
+					</td><td>
+						    			
+    			    			6 months
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,daphne-joy-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/daphne-joy-and-jason-derulo"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,carmen-ortega" data-ff-gx-click href="https://www.whosdatedwho.com/dating/carmen-ortega">
+				Carmen Ortega
+			</a></td><td>
+			Encounter
+		</td><td style="text-align:center"><a title="Rumor" style="color:#ad0400;font-weight:bold">R</a></td><td>
+						    2014
+					</td><td>
+						    2014
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,carmen-ortega-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/carmen-ortega-and-jason-derulo"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,jordin-sparks" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jordin-sparks">
+				Jordin Sparks
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Aug 2011
+					</td><td>
+						    Sep 2014
+					</td><td>
+						    			3 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,jordin-sparks-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jordin-sparks-and-jason-derulo"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-jena-frumes"><a data-ff-gx="View Person,jena-frumes" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jena-frumes"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/y/b/ybenkbwcttzzzz.jpg?skj2io4l" alt="Jena Frumes" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+							</div><h4 class="ff-title">
+								Jena Frumes
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v54144058144277811',54144058,1,4427781,1,'jena-frumes-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v54144058144277811">105</v></span><span onClick="contentVote('v5414405814427781-1',54144058,1,4427781,'-1','jena-frumes-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v5414405814427781-1">41</v></span></div></div><h3>2020 - 2021</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,jena-frumes-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jena-frumes-and-jason-derulo">
+			
+							Jena Frumes and Jason Derulo separated on 23r...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-daphne-joy"><a data-ff-gx="View Person,daphne-joy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/daphne-joy"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/2/5/25o7ypttzv4hp7ty.jpg?skj2io4l" alt="Daphne Joy" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><div class="ff-rumour" style=""><span>Rumor</span></div><h4 class="ff-title">
+								Daphne Joy
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v325533144277811',325533,1,4427781,1,'daphne-joy-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v325533144277811">78</v></span><span onClick="contentVote('v32553314427781-1',325533,1,4427781,'-1','daphne-joy-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v32553314427781-1">138</v></span></div></div><h3>2015 - 2016</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,daphne-joy-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/daphne-joy-and-jason-derulo">
+			
+							Jason Derulo and Daphne Joy were rumored to b...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-carmen-ortega"><a data-ff-gx="View Person,carmen-ortega" data-ff-gx-click href="https://www.whosdatedwho.com/dating/carmen-ortega"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/g/0/g0wx8omrnd9qqd9.jpg?skj2io4l" alt="Carmen Ortega" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><div class="ff-rumour" style=""><span>Rumor</span></div><h4 class="ff-title">
+								Carmen Ortega
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v5883195144277811',5883195,1,4427781,1,'carmen-ortega-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5883195144277811">44</v></span><span onClick="contentVote('v588319514427781-1',5883195,1,4427781,'-1','carmen-ortega-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v588319514427781-1">154</v></span></div></div><h3>2014</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,carmen-ortega-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/carmen-ortega-and-jason-derulo">
+			
+							Carmen Ortega and Jason Derulo are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-jordin-sparks"><a data-ff-gx="View Person,jordin-sparks" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jordin-sparks"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/f/b/fbhlxzp8udz9d8zu.jpg?skj2io4l" alt="Jordin Sparks" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Jordin Sparks
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v45576144277811',45576,1,4427781,1,'jordin-sparks-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v45576144277811">464</v></span><span onClick="contentVote('v4557614427781-1',45576,1,4427781,'-1','jordin-sparks-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v4557614427781-1">99</v></span></div></div><h3>2011 - 2014</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,jordin-sparks-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jordin-sparks-and-jason-derulo">
+			
+							Jason Derulo and Jordin Sparks separated on 2...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-ad-fill"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_Gallery_Filler_336x280 --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="2266760956"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/y/b/ybenkbwcttzzttzb.jpg?skj2io4l')" data-ff-gx="View Person,jena-frumes" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jena-frumes"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+				</div><div class="ff-details"><h4 class="ff-title"><a href="jena-frumes" data-ff-gx="View Person,jena-frumes" data-ff-gx-click>Jena Frumes</a></h4><h3>
+						2020 - 2021
+						<small></small></h3><p data-ff-gx="View Couple,jena-frumes-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jena-frumes-and-jason-derulo">
+												
+						Jena Frumes and Jason Derulo dated from April, 2020 to September, 2021.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">1</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/jena-frumes-and-jason-derulo/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">2</text><path d="M 50 5 A 45 45 0 1 1 12 75" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>20%</td></tr><tr><td>Chinese zodiac</td><td>100%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>72%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">66%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:71.917808219178%;border-bottom:2px solid green;"></div><div style="float:left;width:28.082191780822%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v54144058144277811',54144058,1,4427781,1,'jena-frumes-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v54144058144277811">105</v></span><span onClick="contentVote('v5414405814427781-1',54144058,1,4427781,'-1','jena-frumes-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v5414405814427781-1">41</v></span></div><a class="button radius small ff-view-button" href="jena-frumes-and-jason-derulo"  data-ff-gx="View Couple,jena-frumes-and-jason-derulo" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/2/5/25o7ypttzv4ho5y4.jpg?skj2io4l')" data-ff-gx="View Person,daphne-joy" data-ff-gx-click href="https://www.whosdatedwho.com/dating/daphne-joy"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="daphne-joy" data-ff-gx="View Person,daphne-joy" data-ff-gx-click>Daphne Joy</a></h4><h3>
+						2015 - 2016
+						<small>
+													(Rumor)
+												</small></h3><p data-ff-gx="View Couple,daphne-joy-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/daphne-joy-and-jason-derulo">
+												
+						Jason Derulo is rumored to have hooked up with Daphne Joy in Nov 2015.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">6</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/daphne-joy-and-jason-derulo/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>40%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>52%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">42%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:36.111111111111%;border-bottom:2px solid green;"></div><div style="float:left;width:63.888888888889%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v325533144277811',325533,1,4427781,1,'daphne-joy-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v325533144277811">78</v></span><span onClick="contentVote('v32553314427781-1',325533,1,4427781,'-1','daphne-joy-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v32553314427781-1">138</v></span></div><a class="button radius small ff-view-button" href="daphne-joy-and-jason-derulo"  data-ff-gx="View Couple,daphne-joy-and-jason-derulo" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/g/0/g0wx8omrnd9qnr98.jpg?skj2io4l')" data-ff-gx="View Person,carmen-ortega" data-ff-gx-click href="https://www.whosdatedwho.com/dating/carmen-ortega"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="carmen-ortega" data-ff-gx="View Person,carmen-ortega" data-ff-gx-click>Carmen Ortega</a></h4><h3>
+						2014
+						<small>
+													(Rumor)
+												</small></h3><p data-ff-gx="View Couple,carmen-ortega-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/carmen-ortega-and-jason-derulo">
+												
+						Carmen Ortega is rumored to have hooked up with Jason Derulo in 2014.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/carmen-ortega-and-jason-derulo/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>40%</td></tr><tr><td>Chinese zodiac</td><td>80%</td></tr><tr><td>Height</td><td>91%</td></tr><tr><td>Age</td><td>33%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">61%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:22.222222222222%;border-bottom:2px solid green;"></div><div style="float:left;width:77.777777777778%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v5883195144277811',5883195,1,4427781,1,'carmen-ortega-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5883195144277811">44</v></span><span onClick="contentVote('v588319514427781-1',5883195,1,4427781,'-1','carmen-ortega-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v588319514427781-1">154</v></span></div><a class="button radius small ff-view-button" href="carmen-ortega-and-jason-derulo"  data-ff-gx="View Couple,carmen-ortega-and-jason-derulo" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/f/b/fbhlxzp8udz9pzuh.jpg?skj2io4l')" data-ff-gx="View Person,jordin-sparks" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jordin-sparks"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="jordin-sparks" data-ff-gx="View Person,jordin-sparks" data-ff-gx-click>Jordin Sparks</a></h4><h3>
+						2011 - 2014
+						<small></small></h3><p data-ff-gx="View Couple,jordin-sparks-and-jason-derulo" data-ff-gx-click href="https://www.whosdatedwho.com/dating/jordin-sparks-and-jason-derulo">
+												
+						Jason Derulo and Jordin Sparks dated from 1st August, 2011 to September, 2014.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">3</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/jordin-sparks-and-jason-derulo/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">64%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:82.415630550622%;border-bottom:2px solid green;"></div><div style="float:left;width:17.584369449378%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v45576144277811',45576,1,4427781,1,'jordin-sparks-and-jason-derulo');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v45576144277811">464</v></span><span onClick="contentVote('v4557614427781-1',45576,1,4427781,'-1','jordin-sparks-and-jason-derulo');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v4557614427781-1">99</v></span></div><a class="button radius small ff-view-button" href="jordin-sparks-and-jason-derulo"  data-ff-gx="View Couple,jordin-sparks-and-jason-derulo" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/jason-derulo">Jason Derulo</a></td><td>33</td><td><i class="icon-48"></i>
+
+Virgo</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/jena-frumes">Jena Frumes</a></td><td>29</td><td><i class="icon-48"></i>
+
+Virgo</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/daphne-joy">Daphne Joy</a></td><td>35</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Model (Adult/Glamour)</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ph.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Filipino</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/carmen-ortega">Carmen Ortega</a></td><td>37</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Model (Adult/Glamour)</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/jordin-sparks">Jordin Sparks</a></td><td>32</td><td><i class="icon-40"></i>
+
+Capricorn</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.children" class="ff-dropitem block-topic-children" data-ff-name="topic.children"><div id="section-children" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Children 
+									
+								</h2></div><div class="ff-block-content " id="ff-children"><table class="ff-table" width="100%"><thead><tr><th>Name</th><th>Gender</th><th>Born</th><th>Age</th><th>Other Parent</th></tr></thead><tbody><tr><td>Jason  King</td><td>Male</td><td>8th May, 2021</td><td>17 months old</td><td><a href="jena-frumes">Jena Frumes</a></td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-4427781"
+		data-ff-thumbs-id="gallery-thumbs-4427781"
+		data-ff-topic="4427781"
+><div id="gallery-display-4427781" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/0/3/03dbl7uh073lhu7b.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/8/d88e7xhnhf6jdj8h.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/4/j/4jwitdxtymd6xdyw.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/3/z/3zn9e3wqs1eg3gns.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/2/x/2x2kdxw2qwlvlww.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/7/b/7b5cb4f130750354.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/9/1/91egwan17b2y19gb.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/6/0/60ze83hwpgx706eg.jpg?skj2io4l"><div class="ff-caption">So You Think You Can Dance (2005)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/6/d6xluxvbn17zbv1l.jpg?skj2io4l"><div class="ff-caption">Jena Frumes and Jason Derulo</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/a/jadiucmws3agmcsd.jpg?skj2io4l"><div class="ff-caption">Jena Frumes and Jason Derulo</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/0/m/0m5j8zp7r062j5z2.jpg?skj2io4l"><div class="ff-caption">Jena Frumes and Jason Derulo</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/b/k/bk31x7e96malame.jpg?skj2io4l"><div class="ff-caption">Jena Frumes and Jason Derulo</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-4427781" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/0/3/03dbl7uh073lhu7b.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/8/d88e7xhnhf6jdj8h.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/4/j/4jwitdxtymd6xdyw.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/3/z/3zn9e3wqs1eg3gns.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/2/x/2x2kdxw2qwlvlww.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/7/b/7b5cb4f130750354.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/9/1/91egwan17b2y19gb.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/6/0/60ze83hwpgx706eg.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/6/d6xluxvbn17zbv1l.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/a/jadiucmws3agmcsd.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/0/m/0m5j8zp7r062j5z2.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/b/k/bk31x7e96malame.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Spinning Gold</td><td>2022</td><td>Ronald Isley</td><td>Movie</td></tr><tr><td>More than a Celebrity</td><td>2022</td><td>Guest Speaker</td><td>TV Show</td></tr><tr><td>Tayc x Jason Derulo: No No No</td><td>2022</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo Feat. Adam Levine: Lifestyle (Dance Version)</td><td>2021</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Acapulco</td><td>2021</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Tesher x Jason Derulo: Jalebi Baby</td><td>2021</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>JP Saxe, Julia Michaels &amp; Friends: If the World Was Ending</td><td>2020</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Take You Dancing (Version 2)</td><td>2020</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Savage Love (GMA Live Version)</td><td>2020</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Take You Dancing (GMA Live Version)</td><td>2020</td><td>Jason Derulo</td><td>Music Video</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>Jason Derulo: Take You Dancing</td><td>2020</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo &amp; Jawsh 685: Savage Love</td><td>2020</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Will from Home</td><td>2020</td><td></td><td>TV Show</td></tr><tr><td>Jason Derulo x Nuka: Love Not War (The Tampa Beat)</td><td>2020</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Cats</td><td>2019</td><td>Rum Tum Tugger</td><td>Movie</td></tr><tr><td>Jason Derulo, LAY, NCT 127: Let's Shut Up &amp; Dance</td><td>2019</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Too Hot</td><td>2019</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo Feat. Farruko: Mamacita</td><td>2019</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo &amp; Maluma: Colors</td><td>2018</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo &amp; David Guetta Feat. Nicki Minaj &amp; Willy William: Goodbye</td><td>2018</td><td>Jason Derulo (voice)</td><td>Music Video</td></tr><tr><td>Jason Derulo: Colors</td><td>2018</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Colors - Lyric Video</td><td>2018</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo &amp; David Guetta Feat. Nicki Minaj &amp; Willy William: Goodbye</td><td>2018</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Vice &amp; Jason Derulo ft. Ava Max: Make Up</td><td>2018</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Sofia Reyes Feat. Jason Derulo &amp; De La Ghetto: 1, 2, 3</td><td>2018</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo Feat. Nicki Minaj &amp; Ty Dolla $ign: Swalla</td><td>2017</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo Feat. French Montana: Tip Toe</td><td>2017</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: If I'm Lucky</td><td>2017</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: If I'm Lucky - Part 2</td><td>2017</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Lethal Weapon</td><td>2016</td><td>Ronald Dawson</td><td>TV Show</td></tr><tr><td>Little Mix: Secret Love Song</td><td>2016</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Kiss the Sky</td><td>2016</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: If It Ain't Love</td><td>2016</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Naked</td><td>2016</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Pentatonix Feat. Jason Derulo: If I Ever Fall in Love</td><td>2016</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Flo Rida Feat Jason Derulo</td><td>2016</td><td>Jason Derulo</td><td>Short Film</td></tr><tr><td>Empire</td><td>2015</td><td>Jason Derulo</td><td>TV Show</td></tr><tr><td>Jason Derulo: Want to Want Me</td><td>2015</td><td>Jason derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Get Ugly</td><td>2015</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Cheyenne</td><td>2015</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Dave Skylark's Very Special VMA Special</td><td>2014</td><td>Jason Derulo</td><td>TV Show</td></tr><tr><td>Jason Derulo Feat. Snoop Dogg: Wiggle</td><td>2014</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo Feat. Maude: Trumpets</td><td>2014</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Stupid Love</td><td>2014</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo Feat. 2 Chainz: Talk Dirty</td><td>2013</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Trumpets</td><td>2013</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Marry Me</td><td>2013</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo, Keke Palmer, Max Schneider, &amp; Kurt Schneider: The Other Side</td><td>2013</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: The Other Side</td><td>2013</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Fight for You</td><td>2011</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: It Girl</td><td>2011</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Breathing</td><td>2011</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Don't Wanna Go Home</td><td>2011</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: In My Head</td><td>2010</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Ridin' Solo</td><td>2010</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: The Sky's the Limit</td><td>2010</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: What If</td><td>2010</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo: Whatcha Say</td><td>2009</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>Jason Derulo Feat. Fanny J.: Whatcha Say</td><td>2009</td><td>Jason Derulo</td><td>Music Video</td></tr><tr><td>The Filthy Frank Show</td><td></td><td>Gangsta</td><td>TV Show</td></tr></tbody></table><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-filmography-table-toggle" data-ff-scroll><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Show Less
+		</div></div></div></fieldset>						<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/jason-derulo/forum" title="Jason Derulo discussion board">View all comments (8)</a></small></h3><div data-ffw="content" data-ff-eid="44476547" data-ff-url="" data-ff-tid="6" data-ff-id="44477198" data-ff-title="U r so cute if I meet u I would fall on the floor" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/destiny31102"><span class="ff-img" data-ff-image></span><span data-ff-webname>destiny31102</span></a><span class="ff-bullet"></span><span data-ff-time="2015-06-24 16:02:27" class="ff-comment-time">Jun 24, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>U r so cute if I meet u I would fall on the floor</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="41309570" data-ff-title="Jason why is your head like that dude" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>amber</span></span><span class="ff-bullet"></span><span data-ff-time="2015-01-31 19:09:21" class="ff-comment-time">Jan 31, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>Jason why is your head like that dude</p></div><div data-ffw="content" data-ff-eid="34712390" data-ff-url="" data-ff-tid="6" data-ff-id="32541803" data-ff-title="This guy gets better better always I love his songs are all amazing very talent man he can dance pretty kool lol ;)" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/smashave"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/t/e/teoicb2y1jjrejij.jpg?skj2io4l" alt="smashave" class=" " /></span><span data-ff-webname>smashave</span></a><span class="ff-bullet"></span><span data-ff-time="2014-05-11 04:29:36" class="ff-comment-time">May 11, 2014</span><p data-ff-auto-image class="ff-comment" data-ff-text>This guy gets better better always I love his songs are all amazing very talent man he can dance pretty kool lol ;)</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="17452899" data-ff-title="heyy im sorry but you got it wrong jason derulo now does have a girlfriend thats why he wrote the song It Girl for his girlfriend =)" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Angel</span></span><span class="ff-bullet"></span><span data-ff-time="2011-08-11 08:21:25" class="ff-comment-time">Aug 11, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>heyy im sorry but you got it wrong jason derulo now does have a girlfriend thats why he wrote the song It Girl for his girlfriend =)</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16769313" data-ff-title="I love u, and your music, u are sooooo hot and so cute" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Amy Baker</span></span><span class="ff-bullet"></span><span data-ff-time="2011-04-30 19:24:28" class="ff-comment-time">Apr 30, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>I love u, and your music, u are sooooo hot and so cute</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16650738" data-ff-title="Jason why u waiting for there are lots of beautiful girls u are a handsome young man u need a good love u will take care of you trust me just try one and u will see................." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>walin</span></span><span class="ff-bullet"></span><span data-ff-time="2011-03-22 19:38:17" class="ff-comment-time">Mar 22, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>Jason why u waiting for there are lots of beautiful girls u are a handsome young man u need a good love u will take care of you trust me just try one and u will see.................</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16562255" data-ff-title="hi this is so cool" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>khadija123</span></span><span class="ff-bullet"></span><span data-ff-time="2011-02-23 21:48:09" class="ff-comment-time">Feb 23, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>hi this is so cool</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/jason-derulo/forum" title="Jason Derulo discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/romeo-miller"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/p/j/pj403otu42mzt20p.jpg?skj2io4l" alt="Romeo Miller" class=" " /><div class="ff-name">Romeo Miller</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,350</span></span><span class="ff-rank-change"><span>+620</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/meagan-good"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/f/t/ft1vtrsnbl8glfsv.jpg?skj2io4l" alt="Meagan Good" class=" " /><div class="ff-name">Meagan Good</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>320</span></span><span class="ff-rank-change"><span>+42</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/chris-brown"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/b/v/bvdutsl8fsm9ls.jpg?skj2io4l" alt="Chris Brown" class=" " /><div class="ff-name">Chris Brown</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>111</span></span><span class="ff-rank-change"><span>+11</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/rihanna"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/5/7/57ixzar7lucn7cz7.jpg?skj2io4l" alt="Rihanna" class=" " /><div class="ff-name">Rihanna</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>35</span></span><span class="ff-rank-change"><span>+3</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/soulja-boy"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/c/t/ctrf81itow4o1oo.jpg?skj2io4l" alt="Soulja Boy" class=" " /><div class="ff-name">Soulja Boy</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>442</span></span><span class="ff-rank-change"><span>+101</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/aubrey-graham"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/s/t/st6ds74benkcktbs.jpg?skj2io4l" alt="Drake" class=" " /><div class="ff-name">Drake</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>46</span></span><span class="ff-rank-change"><span>+8</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-pop-singers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/i/6/i6f0kqcx162qxk60.jpg?skj2io4l" alt="American pop singers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American pop singers
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-singer-songwriters" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/j/f/jf8w8an1h31b8b81.jpg?skj2io4l" alt="American singer-songwriters" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American singer-songwriters
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/warner-records-artists" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/7/x/7xyfguwjqricf7uc.jpg?skj2io4l" alt="Warner Records artists" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Warner Records artists
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-male-singers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/i/6/i68jf6f4zdgxdfx6.jpg?skj2io4l" alt="American male singers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American male singers
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-rhythm-and-blues-singer-songwriters" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/z/a/zasqmngfuw1jqznj.jpg?skj2io4l" alt="American rhythm and blues singer-songwriters" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American rhythm and blues singer-songwriters
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Jason Derulo</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Tracker748" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" alt="Tracker748" class=" " /></div><div style="float:right">
+					102
+				</div>
+					Tracker748
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/CindyCelebs" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/k/y/kyzzgba5b9r5azbz.jpg?skj2io4l" alt="CindyCelebs" class=" " /></div><div style="float:right">
+					59
+				</div>
+					CindyCelebs
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/DreamLovato" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/c/p/cp2pfs2tbiati2ts.jpg?skj2io4l" alt="DreamLovato" class=" " /></div><div style="float:right">
+					54
+				</div>
+					DreamLovato
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/kimkim15" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/i/5/i5e4loc29d3eoe25.jpg?skj2io4l" alt="kimkim15" class=" " /></div><div style="float:right">
+					41
+				</div>
+					kimkim15
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/mandia27" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/l/7/l7suimazrtveaurs.jpg?skj2io4l" alt="mandia27" class=" " /></div><div style="float:right">
+					29
+				</div>
+					mandia27
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Jason Derulo profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Jason Derulo to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="4427781:jason-derulo"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Jason Derulo</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/115014022">
+			Cassie Ventura and Jason Derulo
+		</a></li><li style="clear:both;"><a href="/six-degrees/111852888">
+			Jason Derulo and Hunter Ecimovic
+		</a></li><li style="clear:both;"><a href="/six-degrees/110661036">
+			Marisa Tomei and Jack Quaid
+		</a></li><li style="clear:both;"><a href="/six-degrees/110513366">
+			Jamie Dornan and Jack Quaid
+		</a></li><li style="clear:both;"><a href="/six-degrees/108815154">
+			Jason Derulo and Chaney Jones
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Jason Derulo</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/jason-derulo"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/0/3/03dbl7uh073lld07.jpg?skj2io4l" alt="So You Think You Can Dance (2005)" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/jason-derulo"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/d/8/d88e7xhnhf6j7n86.jpg?skj2io4l" alt="So You Think You Can Dance (2005)" class=" " /></a></div><a href="https://www.famousfix.com/topic/jason-derulo" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																									videos, 
+																									news, 
+																									magazines
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.631</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,4427781,2,1,"","",3,"%2Fdating%2Fjason-derulo","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

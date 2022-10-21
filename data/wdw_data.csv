@@ -1,0 +1,905 @@
+,Age,Eye Color,Zodiac Sign,Sexuality,Religion,Ethnicity,Nationality,Occupation,num_relations
+morgan-freeman,85,Brown,Gemini,Straight,Agnostic,Multiracial,American,Actor,8
+will-smith,54,Brown,Libra,Straight,Scientology,Black,American,Actor,7
+leonardo-dicaprio,47,Blue,Scorpio,Straight,Agnostic,White,American,Actor,66
+johnny-depp,59,Brown,Gemini,Straight,Agnostic,White,American,Actor,26
+brad-pitt,58,Blue,Sagittarius,Straight,Agnostic,White,American,Actor,31
+jennifer-aniston,53,Blue,Aquarius,Straight,Greek Orthodox,White,American,Actress,14
+meryl-streep,73,Green,Cancer,Straight,Agnostic,White,American,Actress,1
+kim-kardashian,41,Brown,Libra,Straight,Christian,Multiracial,American,Reality TV,29
+angelina-jolie,47,Green,Gemini,Bisexual,Agnostic,White,American,Actress,20
+emma-watson,32,Brown,Aries,Straight,Other,White,British,Actress,18
+myrna-colley-lee,,Brown,,Straight,,Multiracial,American,,1
+jeanette-adair-bradshaw,,,,Straight,,Multiracial,,,1
+marcia-gay-harden,63,Hazel,Leo,Straight,,White,American,Actress,1
+loletha-adkins,,,,,,,,,0.0
+demaris-meyer,,,,,,,,,0.0
+rita-moreno,90,Brown,Sagittarius,Straight,Roman Catholic,White,Puerto Rican,Actress,12
+debbie-allen,72,Brown,Capricorn,Straight,Christian,Multiracial,American,Film/TV Producer,17
+tyra-banks,48,Green,Sagittarius,Straight,Christian,Multiracial,American,TV Personality,19
+garcelle-beauvais,55,Brown,Sagittarius,Straight,Roman Catholic,Black,Haitian,Actress,4
+margot-robbie,32,Blue,Cancer,Straight,Christian,White,Australian,Actress,2
+karrine-steffans,44,Black,Virgo,Bisexual,Born-Again Christian,Multiracial,American,Author,83
+camila-morrone,25,Brown,Gemini,Straight,Roman Catholic,White,Argentinean,Model,3
+lorena-rae,28,Blue,Cancer,Straight,,White,German,Model,0
+elizabeth-turner,30,Blue,Leo,Straight,Christian,White,American,Model,2
+alina-baikova,33,Blue,Virgo,Straight,Russian Orthodox,White,Ukrainian,Model,0
+nina-agdal,30,Grey,Aries,Straight,,White,Danish,Model,4
+roxy-horner,31,Green,Gemini,Straight,,White,British,Model,3
+kelly-rohrbach,32,Brown,Capricorn,Straight,Christian,White,American,Model,3
+toni-garrn,30,Blue,Cancer,Straight,,White,German,Model,5
+alesia-riabenkova,30,Green,Libra,Straight,,White,American,Actress,2
+simone-holtznagel,29,Green,Cancer,Straight,,White,Australian,Model,2
+erin-heatherton,33,Green,Pisces,Straight,Jewish,White,American,Model,5
+blake-lively,35,Blue,Virgo,Straight,Baptist,White,American,Actress,4
+bar-refaeli,37,Blue,Gemini,Straight,Jewish,White,Israeli,Model,10
+paris-hilton,41,Brown,Aquarius,Straight,Christian,White,American,Socialite,55
+alyssa-sourovoya,,,,,,,,,0.0
+emma-bunton,46,Blue,Aquarius,Straight,Roman Catholic,White,British,Singer,4
+demi-moore,59,Green,Scorpio,Straight,Jewish,White,American,Actress,27
+kristen-zang,48,Grey,Cancer,Straight,,White,American,Model,3
+claire-danes,43,Grey,Aries,Straight,Atheist,White,American,Actress,6
+juliette-lewis,49,Grey,Gemini,Straight,Scientology,White,American,Actress,10
+cecilia-garcia,,Brown,,,,White,,,0
+christina-aguilera,41,Grey,Sagittarius,Straight,Roman Catholic,White,American,Singer,14
+georgia-fowler,30,Blue,Gemini,Straight,,White,New Zealander,Model,1
+chelsey-weimar,,Blue,,Straight,,White,Dutch,Model,0
+ela-kawalec,,Blue,,Straight,Polish Catholic,White,Polish,Model,0
+cassie-amato,28,Brown,Pisces,Straight,,White,American,Model,2
+rihanna,34,Green,Pisces,Straight,Christian,Multiracial,Barbadian,Singer,19
+bryana-holly,29,Brown,Cancer,Straight,,White,American,Model,3
+margarita-gauchet,29,Brown,Virgo,Straight,,White,French,Model,3
+lindsay-lohan,36,Green,Cancer,Bisexual,Muslim,White,American,Actress,87
+kendra-jade,45,Green,Aries,Straight,Jewish,White,Puerto Rican,Pornstar,33
+sara-foster,41,Green,Aquarius,Straight,,White,American,Actress,6
+carmen-electra,50,Blue,Aries,Bisexual,Roman Catholic,White,American,Actress,17
+kidada-jones,48,Brown,Aries,Straight,Jewish,Multiracial,American,Actress,3
+eva-herzigova,49,Blue,Pisces,Straight,,White,Czech,Model,2
+carla-paneka,,Blue,,,,White,Cuban,Model,0
+bijou-phillips,42,Grey,Aries,Bisexual,Scientology,White,American,Musician,13
+karen-butler,,Brown,,,,White,,,0
+naomi-campbell,52,Brown,Gemini,Straight,Agnostic,Black,British,Model,40
+linnea-dietrichson,,Blue,,Straight,,White,Danish,Model,2
+natasha-henstridge,48,Blue,Leo,Straight,Christian,White,Canadian,Actress,6
+bobbie-brown,53,Blue,Libra,Straight,Christian,White,American,Model,17
+bridget-hall,44,Hazel,Sagittarius,Bisexual,,White,American,Model,6
+kate-moss,48,Brown,Capricorn,Straight,Buddhist,White,British,Model,37
+heather-graham,52,Grey,Aquarius,Straight,Hindu,White,American,Actress,23
+paige-watkins,30,Blue,Sagittarius,Straight,,White,American,Model,1
+laura-whitmore,37,Blue,Taurus,Straight,,White,Irish,TV Personality,8
+katie-cleary,41,Brown,Virgo,Straight,Roman Catholic,White,American,Model,4
+barbara-palvin,29,Blue,Libra,Straight,,White,Hungarian,Model,9
+kat-torres,34,Green,Libra,Straight,,White,Brazilian,Model,1
+miranda-kerr,39,Blue,Aries,Straight,Christian,White,Australian,Model,8
+emma-miller,33,Blue,Gemini,Straight,,White,British,Model (Adult/Glamour),1
+anne-vyalitsyna,36,Green,Pisces,Straight,Russian Orthodox,White,Russian,Model,6
+ashley-roberts,41,Brown,Virgo,Straight,Christian,White,American,Singer,6
+sienna-miller,40,Blue,Capricorn,Straight,,White,British,Actress,21
+natalie-denning,38,Blue,Sagittarius,Straight,,White,British,Model (Adult/Glamour),3
+trishelle-cannatella,42,Grey,Scorpio,Straight,Baptist,White,American,Reality TV,9
+virginie-ledoyen,45,Brown,Scorpio,Straight,,White,French,Actress,5
+vanessa-trump,44,Brown,Sagittarius,Straight,,White,American,Actress,2
+amber-valletta,48,Grey,Aquarius,Straight,,White,American,Model,5
+helena-christensen,53,Green,Capricorn,Straight,Roman Catholic,White,Danish,Model,14
+alicia-silverstone,46,Blue,Libra,Straight,Jewish,White,American,Actress,6
+caitlin-keats,50,Brown,Libra,,,White,American,Actress,1
+shalom-harlow,48,Blue,Sagittarius,Straight,,White,Canadian,Model,5
+amber-heard,36,Green,Taurus,Bisexual,Atheist,White,American,Actress,16
+winona-ryder,50,Brown,Scorpio,Straight,Buddhist,White,American,Actress,23
+sherilyn-fenn,57,Blue,Aquarius,Straight,Roman Catholic,White,American,Actress,8
+polina-glen,28,Brown,Aries,Straight,,White,Russian,Dancer,0
+lisa-marie-presley,54,Blue,Aquarius,Straight,Scientology,White,American,Singer,9
+vanessa-paradis,49,Hazel,Capricorn,Straight,Roman Catholic,White,French,Singer,7
+tally-chanel,56,,Aquarius,,,White,American,Actress,0
+sophie-hermann,35,Brown,Aquarius,Straight,,White,German,Reality TV,5
+ellen-barkin,68,Blue,Aries,Straight,Jewish,White,American,Actress,7
+jennifer-grey,62,Hazel,Aries,Straight,Jewish,White,American,Actress,7
+ashley-olsen,36,Green,Gemini,Straight,Anglican / Episcopalian,White,American,Actress,12
+julie-ellis,,,,,,,,Actress,0
+robin-baum,,Blue,,Straight,,White,American,Publicist,1
+kiley-evans,,Blue,,,,White,,,1
+antoinette-kalaj,36,Brown,Virgo,Straight,Roman Catholic,White,American,Actress,2
+kristen-stephensonpino,,,,,,,,,0.0
+peggy-trentini,62,Blue,Cancer,Straight,,White,American,Actress,14
+tatjana-patitz,56,Blue,Aries,Straight,,White,German,Model,4
+traci-lords,54,Green,Taurus,Bisexual,,White,American,Pornstar,17
+holly-robinson-peete,58,Brown,Virgo,Straight,,Black,American,Actress,2
+gwyneth-paltrow,50,Blue,Libra,Straight,Jewish,White,American,Actress,13
+jill-schoelen,59,Brown,Aries,Straight,Roman Catholic,White,American,Actress,2
+andra-day,37,Hazel,Capricorn,Straight,Christian,Multiracial,American,Singer,2
+lykke-li,36,Brown,Pisces,Straight,,White,Swedish,Singer,2
+nicole-poturalski,,Blue,Capricorn,Straight,Christian,White,German,Model,1
+neri-oxman,,Green,Aquarius,Straight,Jewish,White,Israeli,Architect,1
+sonita-henry,45,,Aquarius,,,,English,,0
+claire-forlani,50,Blue,Sagittarius,Straight,,White,British,Actress,4
+jitka-pohlodek,53,Brown,Aries,Straight,,White,American,Model,0
+elizabeth-daily,61,Brown,Virgo,Straight,Scientology,White,American,Actress,7
+robin-givens,57,Brown,Sagittarius,Straight,Christian,Black,American,Actress,9
+christina-applegate,50,Green,Sagittarius,Straight,Other,White,American,Actress,9
+shalane-mccall,50,Brown,Virgo,Straight,,White,American,Actress,1
+sara-hart,,,,,,,,,0.0
+tonya-westphalen,,,,,,,,,0.0
+kim-hubbard,,,,Straight,,White,American,,0
+halle-berry,56,Brown,Leo,Straight,Christian,Multiracial,American,Actress,21
+alia-shawkat,33,Brown,Aries,Bisexual,,White,American,Actress,3
+charlize-theron,47,Blue,Leo,Straight,,White,South African,Actress,12
+ella-purnell,26,Hazel,Virgo,Straight,,White,British,Actress,3
+kate-hudson,43,Green,Aries,Straight,Jewish,White,American,Actress,19
+karolina-kurkova,38,Green,Pisces,Straight,,White,Czech,Model,5
+april-florio,40,Green,Gemini,Straight,,White,American,Actress,1
+julia-ormond,57,Hazel,Capricorn,Straight,Anglican / Episcopalian,White,British,Actress,3
+sinitta,58,Brown,Libra,Straight,,Black,American,Singer,5
+justin-theroux,51,Hazel,Leo,Straight,Roman Catholic,White,American,Film/TV Producer,6
+tate-donovan,59,Brown,Libra,Straight,Roman Catholic,White,American,Actor,6
+john-mayer,45,Hazel,Libra,Straight,Jewish,White,American,Musician,12
+vince-vaughn,52,Brown,Aries,Straight,Roman Catholic,White,American,Actor,3
+daniel-mcdonald,46,Blue,Leo,,,White,American,Actor,1
+charlie-schlatter,56,Brown,Taurus,Straight,,White,American,Actor,1
+clemens-wust,,,,,,,,,0.0
+adonis-tsilimparis,,,,,,,,,0.0
+paul-sculfor,51,Blue,Aquarius,Straight,,White,British,Model,7
+adam-duritz,58,Brown,Leo,Straight,Jewish,White,American,Musician,9
+harry-morton,38,Brown,Aries,Straight,Christian,White,American,Business,1
+gerard-butler,52,Green,Scorpio,Straight,Roman Catholic,White,British,Actor,24
+jon-stewart,59,Blue,Sagittarius,Straight,Jewish,White,American,Comic,6
+don-gummer,75,,Sagittarius,Straight,,White,American,Artist,1
+ye,,,,,,,,,0.0
+kris-humphries,37,Hazel,Aquarius,Straight,Christian,Multiracial,American,Basketball,9
+damon-thomas,51,Brown,Sagittarius,Straight,,Black,American,Music Producer,1
+pete-davidson,,,,,,,,,0.0
+miles-austin,38,Blue,Cancer,Straight,,Multiracial,American,Football (American),3
+reggie-bush,37,Brown,Pisces,Straight,Christian,Black,American,Football (American),12
+marques-houston,41,Brown,Leo,Straight,Jahovah's Witness,Multiracial,American,Singer,5
+nick-cannon,42,Brown,Libra,Straight,Christian,Multiracial,American,Actor,24
+ray-j,41,Brown,Capricorn,Straight,Christian,Black,American,Singer,33
+joey-lawrence,46,Brown,Aries,Straight,,White,American,Actor,8
+tj-jackson,44,Brown,Cancer,Straight,Christian,Multiracial,American,Singer,1
+gabriel-aubry,47,Green,Virgo,Straight,,White,Canadian,Model,2
+michael-copon,39,Brown,Scorpio,Straight,,Multiracial,American,Actor,3
+shengo-deane,42,Grey,Cancer,Straight,,White,Australian,Other,1
+cristiano-ronaldo,37,Brown,Aquarius,Straight,Roman Catholic,White,Portuguese,Football,34
+alecko-eskandarian,40,Brown,Cancer,Straight,,Multiracial,American,Football,0
+usher,,,,,,,,,0.0
+50-cent,47,Brown,Cancer,Straight,Christian,Black,American,Rapper,34
+shad-moss,35,Hazel,Pisces,Straight,Born-Again Christian,Black,American,Rapper,23
+evan-ross,34,Brown,Virgo,Straight,Christian,Multiracial,American,Actor,6
+scott-storch,48,Blue,Sagittarius,Straight,Jewish,White,American,Music Producer,12
+fonzworth-bentley,48,Brown,Aquarius,Straight,,Black,American,Actor,1
+game,42,Brown,Sagittarius,Straight,Christian,Black,American,Rapper,30
+benji-madden,43,Hazel,Pisces,Straight,Christian,White,American,Guitarist,13
+nick-lachey,48,Blue,Scorpio,Straight,,White,American,Singer,5
+cris-judd,53,,Leo,Straight,,Multiracial,American,Actor,4
+brandon-jenner,41,Brown,Gemini,Straight,Christian,White,American,Musician,2
+jay-z,52,Brown,Sagittarius,Straight,Atheist,Black,American,Rapper,26
+billy-bob-thornton,67,Brown,Leo,Straight,Christian,White,American,Actor,10
+jonny-lee-miller,49,Blue,Scorpio,Straight,,White,British,Actor,6
+the-weeknd,32,Brown,Aquarius,Straight,Atheist,Black,Canadian,Singer,4
+timothy-hutton,62,Blue,Leo,Straight,,White,American,Actor,20
+jenny-shimizu,55,Brown,Gemini,Lesbian,,Asian,American,Model,5
+taye-diggs,51,Brown,Capricorn,Straight,,Black,American,Actor,4
+wyclef-jean,53,Brown,Libra,Straight,,Black,Haitian,Musician,3
+val-kilmer,62,Blue,Capricorn,Straight,Christian Science,White,American,Actor,16
+colin-farrell,46,Brown,Gemini,Straight,Secular Humanist,White,Irish,Actor,18
+misty-cooper,51,,Libra,,,White,American,,0
+lady-gaga,36,Green,Aries,Bisexual,Roman Catholic,White,American,Singer,10
+nicolas-cage,58,Blue,Capricorn,Straight,Roman Catholic,White,American,Actor,14
+jared-leto,50,Blue,Capricorn,Straight,,White,American,Musician,39
+antonio-banderas,62,Brown,Leo,Straight,Roman Catholic,White,Spanish,Actor,6
+mick-jagger,79,Blue,Leo,Straight,Buddhist,White,British,Musician,82
+bill-day,,,,,,,,Film/TV Producer,1
+leo-robinton,,Brown,Scorpio,,,,American,Business,0
+tom-felton,35,Blue,Virgo,Straight,Christian,White,British,Actor,4
+brendan-wallace,,Blue,,Straight,Christian,White,American,Business,2
+chord-overstreet,33,Blue,Aquarius,Straight,Christian,White,American,Actor,12
+william,,,,,,,,,0.0
+roberto-aguire,34,Hazel,Leo,Straight,,White,Mexican,Actor,0
+prince-harry,,,,,,,,,0.0
+matthew-janney,29,,Scorpio,Straight,,White,American,Student,0
+will-adamowicz,32,Brown,Capricorn,Straight,,Multiracial,American,Student,0
+johnny-simmons,35,Brown,Sagittarius,Straight,Christian,White,American,Actor,2
+george-craig,32,Blue,Cancer,Straight,Lutheran,White,British,Model,4
+jay-barrymore,38,Brown,Pisces,Straight,,White,British,Actor,2
+francis-boulle,33,,Libra,Straight,,White,British,Reality TV,2
+angus-willoughby,,,,Straight,,White,Australian,Actor,0
+tom-ducker,,Brown,,Straight,,White,English,Rugby Union,0
+roberto-agnillera,40,,Cancer,Straight,,White,Italian,Actor,1
+aaron-rodgers,38,Blue,Sagittarius,Straight,Christian,White,American,Football (American),10
+scott-disick,39,Blue,Gemini,Straight,Jewish,White,American,Reality TV,21
+michael-lockwood,61,Amber,Gemini,Straight,,White,American,Guitarist,1
+michael-jackson,50,Brown,Virgo,Straight,Christian,Multiracial,American,Singer,5
+danny-keough,57,Brown,Scorpio,Straight,,Multiracial,American,Musician,1
+john-oszajca,,,Taurus,,,White,American,Musician,1
+billy-corgan,55,Blue,Pisces,Straight,Other,White,American,Singer,13
+luke-watson,,,,,,,,,0.0
+adam-cahan,50,Brown,Capricorn,Straight,,White,American,Business,3
+matt-harvey,33,,Aries,,,White,American,Baseball,8
+adam-levine,43,Hazel,Pisces,Straight,Jewish,White,American,Singer,15
+tico-torres,69,Brown,Libra,Straight,Other,White,American,Drummer,6
+lucas-zwirner,,Blue,,,,White,American,Editor,1
+tom-sturridge,36,Blue,Sagittarius,Straight,,White,British,Actor,7
+rhys-ifans,55,Blue,Cancer,Straight,,White,Welsh,Actor,5
+jude-law,49,Blue,Capricorn,Straight,,White,British,Actor,20
+archie-keswick,,,,,,,,,0.0
+bennett-miller,55,,Capricorn,,,White,American,Film Director,2
+george-barker,N,Blue,Virgo,Straight,,White,British,Disc Jockey,0
+balthazar-getty,47,Brown,Aquarius,Straight,,White,American,Actor,5
+matthew-rhys,47,Blue,Scorpio,,,White,Welsh,Actor,2
+jamie-burke,37,Hazel,Libra,,,White,British,Model,6
+nico-malleville,,,,,,White,Argentinean,Model,0
+daniel-craig,54,Blue,Pisces,Straight,Agnostic,White,British,Actor,6
+orlando-bloom,45,Brown,Capricorn,Straight,Buddhist,White,British,Actor,15
+jamie-dornan,40,Blue,Taurus,Straight,Atheist,White,Northern Irish,Actor,5
+james-franco,44,Brown,Aries,Straight,Jewish,White,American,Actor,12
+hayden-christensen,41,Blue,Aries,Straight,Christian,White,Canadian,Actor,6
+josh-hartnett,44,Brown,Cancer,Straight,Roman Catholic,White,American,Actor,19
+free,,,,,,,,,0.0
+blu-cantrell,46,Blue,Pisces,Straight,,Multiracial,American,Singer,7
+aaliyah,22,Brown,Capricorn,Straight,Roman Catholic,Multiracial,American,Singer,1
+shenelle-scott,,Brown,,Straight,Christian,Multiracial,"Trinidadian, Tobagonian",Model (Adult/Glamour),3
+christina-milian,41,Brown,Libra,Straight,Christian,Multiracial,American,Singer,21
+carmen-bryan,50,Brown,Sagittarius,Straight,,Black,American,Personality,2
+foxy-brown,44,Brown,Virgo,Straight,Christian,Multiracial,American,Rapper,15
+mya,43,Black,Libra,Straight,Christian,Multiracial,American,Singer,11
+arnelle-simpson,53,Black,Sagittarius,Straight,Christian,Black,American,Personality,5
+mariah-carey,53,Brown,Aries,Bisexual,Anglican / Episcopalian,Multiracial,American,Singer,21
+tracey-waples,,,,,,,,,0.0
+maia-campbell,45,Brown,Sagittarius,Straight,,Black,American,Actress,2
+rita-ora,31,Brown,Sagittarius,Bisexual,Agnostic,White,Kosovar,Singer,27
+draya-michele,37,Brown,Aquarius,Straight,,Multiracial,American,Reality TV,17
+yes-liv-can,38,Brown,Sagittarius,Straight,,Multiracial,American,Rapper,0
+trina,47,Brown,Sagittarius,Bisexual,Christian,Multiracial,American,Rapper,25
+rosario-dawson,43,Brown,Taurus,Bisexual,Agnostic,Multiracial,American,Actress,12
+charli-baltimore,48,Brown,Leo,Straight,,Multiracial,American,Rapper,3
+rachel-roy,48,Black,Capricorn,Straight,,Multiracial,American,Fashion Designer,1
+chrissy-lampkin,51,Brown,Taurus,Straight,Christian,Multiracial,American,Reality TV,2
+amil,49,Brown,Virgo,Straight,,Multiracial,American,Rapper,1
+ananda-lewis,49,Brown,Aries,Straight,Christian,Black,American,Video Jockey,10
+eminem,50,Blue,Libra,Straight,Christian,White,American,Rapper,18
+justin-beiber,,,,,,,,,0.0
+billy-joel,73,Brown,Taurus,Straight,Atheist,White,American,Musician,11
+madonna,64,Green,Leo,Bisexual,Jewish,White,American,Singer,68
+taylor-swift,32,Blue,Sagittarius,Straight,,White,American,Singer,13
+beyonce,,,,,,,,,0.0
+dolly-parton,76,Green,Capricorn,Straight,Born-Again Christian,White,American,Singer,1
+debbie-rowe,63,Blue,Sagittarius,Straight,Jewish,White,American,Personality,2
+whitney-houston,48,Brown,Leo,Bisexual,Baptist,Multiracial,American,Singer,5
+shana-mangatal,52,Brown,Cancer,Straight,,Multiracial,American,,1
+kimberley-scott,47,Brown,Capricorn,Straight,,White,American,Relative,1
+tracy-mcnew,,,,,,,,,0.0
+kesia-alvarez,,,,,,,,,0.0
+skylar-grey,36,Grey,Pisces,Straight,,White,American,Singer,1
+marni-bright,,,,,,,,Model,1
+tara-reid,46,Blue,Scorpio,Straight,Roman Catholic,White,American,Actress,32
+gina-lynn,48,Blue,Aquarius,Bisexual,,White,American,Pornstar,20
+kim-basinger,68,Blue,Sagittarius,Straight,Methodist,White,American,Actress,14
+britney-spears,40,Brown,Sagittarius,Bisexual,Atheist,White,American,Singer,27
+brittany-murphy,32,Brown,Scorpio,Straight,Christian,White,American,Actress,3
+joy-mcavoy,,Blue,,Straight,,White,Scottish,Actress,1
+brittany-andrews,49,Blue,Leo,Bisexual,,White,American,Pornstar,3
+kaya-jones,38,Brown,Virgo,Straight,Christian,White,Canadian,Singer,3
+katie-lee,41,Hazel,Virgo,Straight,Jewish,White,American,Chef,4
+christie-brinkley,68,Blue,Aquarius,Straight,,White,American,Model,9
+elizabeth-weber,,Blue,Virgo,,,White,American,Model,0
+deborah-dampiere,,Blue,,,,White,American,,0
+alex-donnelley,63,Brown,Leo,Straight,,White,American,Actress,2
+dina-meyer,53,Blue,Capricorn,Straight,Jewish,White,American,Actress,2
+trish-bergen,,,,,,,,,0.0
+carolyn-beegan,,Blue,,Straight,,White,American,Artist,5
+harriet-baldwin-carter,,,,,,White,,,0
+elle-macpherson,58,Brown,Aries,Straight,Roman Catholic,White,Australian,Model,21
+guy-ritchie,54,Blue,Virgo,Straight,Agnostic,White,British,Film Director,10
+sean-penn,62,Blue,Leo,Straight,Atheist,White,American,Actor,20
+andrew-darnell,,,,,,,,,0.0
+ahlamalik-williams,,Brown,Taurus,Straight,,Multiracial,American,,0
+kevin-sampaio,36,Brown,Gemini,Straight,Roman Catholic,White,Portuguese,Model,2
+aboubakar-soumahoro,,,,,,,,,0.0
+brahim-zaibat,36,Black,Virgo,Straight,Muslim,Middle Eastern,French,Dancer,0
+jesus-luz,35,Blue,Capricorn,Straight,,Multiracial,Brazilian,Model,2
+alex-rodriguez,47,Green,Leo,Straight,Roman Catholic,Multiracial,American,Baseball,13
+andy-bird,,,,,,,British,Business,0
+chris-paciello,51,Brown,Virgo,Straight,Roman Catholic,White,American,Criminal,12
+carlos-leon,56,Brown,Cancer,Straight,,Multiracial,American,Actor,4
+haitian-jack,,,,,,,,,0.0
+dennis-rodman,61,Brown,Taurus,Straight,,Black,American,Basketball,9
+peter-shue,,,Aries,,,Multiracial,American,,0
+tupac-shakur,25,Brown,Gemini,Straight,Christian,Black,American,Rapper,3
+brian-shaw,40,Brown,Pisces,Straight,,White,American,Weightlifter,0
+jim-albright,,,,,,,,,0.0
+ingrid-casares,,Brown,,Lesbian,,Multiracial,American,Business,3
+vanilla-ice,54,Blue,Scorpio,Straight,Christian,White,American,Rapper,3
+tony-ward,59,Brown,Gemini,Straight,,White,American,Model,1
+warren-beatty,85,Blue,Aries,Straight,Baptist,White,American,Actor,110
+sandra-bernhard,67,Brown,Gemini,Bisexual,Jewish,White,American,Comic,12
+bobby-martinez,40,,Gemini,,,Multiracial,American,Surfing,0
+mark-kamins,57,,Aries,,,,Austrian,Music Producer,0
+jean-michel-basquiat,27,Brown,Capricorn,Bisexual,,Black,American,Painter,0
+ken-compton,,,,,,,,,0.0
+patrick-hernandez,73,Brown,Aries,Straight,,White,French,Singer,1
+dan-gilroy,63,Blue,Cancer,Straight,Other,White,American,Screenwriter,3
+daniel-moyne,,,,,,,,,0.0
+norris-burroughs,,,,,,,,,0.0
+mark-dolengowski,,,,,,,,,0.0
+stephen-bray,65,,Capricorn,Straight,,Black,American,Songwriter,1
+russell-long,,,,Straight,,White,American,,0
+wyn-cooper,,,,,,,American,Writer,0
+bob-riley,,,Aries,,,,American,Actor,0
+mark-mcgrath,54,Blue,Pisces,Straight,Roman Catholic,White,American,Musician,8
+futura-2000,66,,Scorpio,,,,American,Artist,0
+kaipo-guerrero,,,,,,,,,0.0
+bobby-brown,53,Brown,Aquarius,Straight,Christian,Black,American,Singer,10
+scottie-pippen,57,Brown,Libra,Straight,,Black,American,Basketball,6
+idris-elba,50,Brown,Virgo,Straight,Atheist,Black,British,Actor,8
+diplo,43,Blue,Scorpio,Straight,,White,American,Music Producer,7
+timor-steffens,,Brown,,,,Multiracial,Dutch,Dancer,1
+adam-senn,38,Blue,Aries,Straight,,White,French,Model,4
+amber-rose,38,Brown,Libra,Bisexual,Christian,Multiracial,American,Personality,44
+gabriel-byrne,72,Blue,Taurus,Straight,Roman Catholic,White,Irish,Actor,3
+david-blaine,49,Brown,Aries,Straight,Jewish,Multiracial,American,Magician,9
+devante-degrate,53,Amber,Libra,,,Multiracial,American,Rapper,3
+henry-rollins,61,Green,Aquarius,Straight,Atheist,White,American,Musician,7
+johnny-zander,51,Hazel,Gemini,,,White,American,Model,3
+tim-willocks,64,,Scorpio,,,,British,Doctor,1
+charles-barkley,59,Brown,Pisces,Straight,Christian,Multiracial,American,Basketball,2
+anthony-kiedis,59,Brown,Scorpio,Straight,Roman Catholic,White,American,Singer,34
+john-enos-iii,60,Brown,Gemini,Straight,,White,American,Actor,6
+jose-canseco,58,Blue,Cancer,Straight,Atheist,White,Cuban,Baseball,3
+lenny-kravitz,58,Brown,Gemini,Straight,Christian,Multiracial,American,Singer,16
+jeffrey-hornaday,,,,,,,,,1.0
+simon-fields,67,,Libra,Straight,,White,American,Film/TV Producer,2
+steve-neumann,,,,,,,,,1.0
+christopher-flynn,,,Taurus,,,,,,1
+tom-hiddleston,41,Blue,Aquarius,Straight,,White,British,Actor,12
+calvin-harris,38,Green,Capricorn,Straight,,White,Scottish,Electronic Musician,7
+conor-kennedy,28,Green,Leo,,,White,American,Socialite,4
+harry-styles,28,Green,Aquarius,DISPUTED,Christian,White,British,Singer,11
+jake-gyllenhaal,41,Blue,Sagittarius,Straight,Jewish,White,American,Actor,13
+taylor-lautner,30,Brown,Aquarius,Straight,Roman Catholic,White,American,Actor,12
+joe-jonas,33,Hazel,Leo,Straight,Christian,White,American,Singer,18
+sam-armstrong,34,Brown,Capricorn,Straight,,White,American,,0
+brandon-borello,,Brown,,Straight,,White,American,,0
+will-anderson,36,Blue,Taurus,Straight,,White,American,Singer,2
+christian-carino,,,,Straight,Christian,White,American,Agent,1
+taylor-kinney,41,Green,Cancer,Straight,,White,American,Actor,1
+dan-horton,,,,,,,,,0.0
+speedy-gonzales,,Brown,,Straight,,,,,0
+robert-fusari,,Brown,,Straight,,White,American,Music Producer,0
+tara-savelo,38,Hazel,Capricorn,,,White,American,Make-Up Artist,1
+keisha-morris,,Brown,,Straight,,Black,American,Educator,1
+joey-essex,32,Blue,Leo,Straight,,White,British,Reality TV,11
+rafferty-law,,Blue,Libra,Straight,,White,British,Model,3
+andrew-garfield,39,Brown,Leo,Straight,Jewish,White,American,Actor,5
+travis-barker,46,Blue,Scorpio,Straight,Roman Catholic,White,American,Drummer,9
+ricky-hil,32,Brown,Aries,Straight,,White,American,Rapper,2
+dave-gardner,,Brown,Virgo,Straight,,White,British,Football,4
+rob-kardashian,35,Brown,Pisces,Straight,Christian,Multiracial,American,Reality TV,28
+cara-delevingne,30,Blue,Leo,Bisexual,Christian,White,British,Model,12
+bruno-mars,37,Brown,Libra,Straight,,Multiracial,American,Musician,5
+lewis-hamilton,37,Brown,Capricorn,Straight,Roman Catholic,Multiracial,British,Auto Racing,20
+james-arthur,34,Blue,Pisces,Straight,Christian,White,British,Singer,4
+fai-khadra,31,Brown,Virgo,Straight,,Middle Eastern,Palestinian,Model,8
+justin-bieber,28,Amber,Pisces,Straight,Christian,White,Canadian,Singer,43
+asap-rocky,34,Brown,Libra,Straight,,Black,American,Rapper,13
+drake,,,,,,,,,0.0
+conor-mcgregor,34,Brown,Cancer,Straight,Roman Catholic,White,Irish,Martial Arts,2
+wiz-khalifa,35,Brown,Virgo,Straight,,Black,American,Rapper,15
+chris-brown,33,Brown,Taurus,Straight,Christian,Black,American,Singer,37
+snoop-dogg,50,Brown,Libra,Straight,Rastafarian,Black,American,Rapper,9
+jonah-hill,38,Blue,Sagittarius,Straight,Jewish,White,American,Actor,9
+lizzie-cundy,54,Green,Taurus,Straight,,White,British,TV Personality,3
+beatriz-coelho,36,Brown,Capricorn,Straight,,Multiracial,Brazilian,Model,0
+goga-ashkenazi,42,Brown,Aquarius,Straight,,Multiracial,Kazakhstani,Socialite,2
+shanna-moakler,47,Brown,Aries,Straight,Agnostic,White,American,Model,11
+jasmine-burgess,38,Brown,Capricorn,Straight,,Black,American,Model,0
+yuliya-mayarchuk,45,Blue,Aries,Bisexual,,White,Ukrainian,Pornstar,0
+chiara-conti,49,Brown,Cancer,Straight,,White,Italian,Actress,0
+brandi-glanville,49,Brown,Scorpio,Straight,,White,American,Model,13
+martina-rajic,33,Blue,Gemini,Straight,,White,Serbian,Model,0
+laurie-cholewa,,,,,,,,,0.0
+jessica-biel,40,Green,Pisces,Straight,Christian,White,American,Actress,5
+ashley-greene,35,Green,Pisces,Straight,Christian,White,American,Actress,13
+cameron-diaz,50,Blue,Virgo,Bisexual,Agnostic,White,American,Actress,24
+cassandra-hepburn,45,Brown,Aries,Straight,Scientology,Multiracial,American,Actress,5
+kelly-mcgillis,65,Blue,Cancer,Lesbian,,White,American,Actress,7
+alvin-love,,Brown,,Straight,,Black,American,Personality,2
+shane-west,44,Green,Gemini,Straight,Roman Catholic,White,American,Actor,9
+ava-dash,22,,Sagittarius,,,,American,Model,2
+michaela-vybohova,25,Brown,Aquarius,,,White,Slovakian,Model,0
+voodoo,45,Brown,Libra,Straight,,White,Canadian,Pornstar,56
+charlie,47,Blue,Pisces,,,White,American,Pornstar,17
+tommy-mottola,73,Brown,Cancer,Straight,,White,American,Business,3
+james-packer,55,Brown,Virgo,Straight,Scientology,White,Australian,Business,9
+christian-monzon,45,,Gemini,Straight,,White,American,Model,3
+mark-sudack,,Brown,,Straight,,,American,Songwriter,0
+luis-miguel,52,Green,Aries,Straight,Roman Catholic,White,Mexican,Singer,24
+marcus-schenkenberg,54,Brown,Leo,Straight,Buddhist,Multiracial,Swedish,Model,16
+derek-jeter,48,Green,Cancer,Straight,Roman Catholic,Multiracial,American,Baseball,12
+matt-dillon,58,Brown,Aquarius,Straight,Roman Catholic,White,American,Actor,13
+grant-hill,50,Black,Libra,Straight,,Multiracial,American,Basketball,3
+tyrese-gibson,43,Brown,Capricorn,Straight,,Black,American,Actor,20
+vin-diesel,55,Brown,Cancer,Straight,Roman Catholic,Multiracial,American,Actor,17
+brett-ratner,53,Blue,Aries,Straight,Jewish,White,American,Film Director,12
+jamie-theakston,51,Blue,Sagittarius,Straight,,White,British,Radio Personality,11
+eddie-griffin,54,Black,Cancer,Straight,,Black,American,Comic,1
+trey-songz,37,Brown,Sagittarius,Straight,Christian,Black,American,Singer,26
+corinne-kingsbury,41,Brown,Cancer,Straight,,White,American,Actress,2
+sandra-bullock,58,Brown,Leo,Straight,Atheist,White,American,Actress,13
+lauren-graham,55,Blue,Pisces,Straight,Roman Catholic,White,American,Actress,4
+whitney-allen,48,Blue,Scorpio,Straight,,White,American,Actress,0
+plum-sykes,52,Hazel,Sagittarius,Straight,,White,British,Journalist,1
+the-dream,45,Brown,Virgo,Straight,,Black,American,Music Producer,6
+jas-prince,,,,,,Black,American,,1
+dave-east,,,,,,,,,0.0
+brandon-wilds,29,,Cancer,,,,,Football (American),0
+izzy-lopez,29,Blue,Cancer,,Christian,Multiracial,American,Model,0
+shawn-costner,43,Brown,Virgo,Straight,Christian,Multiracial,American,Producer,0
+andre-lyon,,Black,,Straight,,Multiracial,American,Rapper,3
+jamie-foxx,54,Brown,Sagittarius,Straight,Baptist,Black,American,Actor,23
+ja-rule,46,Brown,Pisces,Straight,Christian,Black,American,Rapper,8
+paul-walker,40,Blue,Virgo,Straight,Christian,White,American,Actor,1
+wilmer-valderrama,42,Brown,Aquarius,Straight,,Multiracial,American,Actor,10
+irv-gotti,52,Brown,Cancer,Straight,,Multiracial,American,Music Producer,4
+lil-jon,51,,Aquarius,Straight,,Black,American,Rapper,3
+dj-clue,47,,Capricorn,Straight,,Black,American,Actor,0
+joe-budden,42,Brown,Virgo,Straight,Baptist,Multiracial,American,Rapper,13
+memphis-bleek,44,Brown,Cancer,Straight,,Black,American,Rapper,2
+damon-dash,51,Brown,Taurus,Straight,,Black,American,Personality,11
+michelle-moyer,,Brown,,Straight,,Multiracial,American,Reality TV,1
+annie-bakes,,,,,,,,,1.0
+alicia-douvall,42,Blue,Capricorn,Straight,Roman Catholic,White,British,Model (Adult/Glamour),13
+jaimyse-haft,47,,Gemini,Straight,,Multiracial,American,Actress,3
+stacy-yarbrough,,,,Straight,,White,American,Other,0
+jeanie-buss,61,Brown,Libra,Straight,,White,American,Business,3
+shelley-duvall,73,Brown,Cancer,Straight,,White,American,Actress,7
+florence-mueller,,Brown,Aquarius,Straight,Christian,Multiracial,American,Model,0
+cindy-kimberly,23,Brown,Scorpio,Straight,,White,Spanish,Model,5
+winnie-harlow,28,Brown,Leo,Straight,,Black,Canadian,Model,4
+kendall-jenner,26,Brown,Scorpio,Straight,Christian,White,American,Model,16
+nicole-scherzinger,44,Brown,Cancer,Straight,Roman Catholic,Multiracial,American,Singer,9
+vivian-burkhardt,36,Green,Aquarius,Straight,,Middle Eastern,Grenadian,Model,0
+sarah-ojjeh,,,,,,,,,2.0
+jodia-ma,,Black,,Straight,Buddhist,Asian,Hong Konger,Other,0
+danielle-lloyd,,Brown,,,,White,,Production Manager,0
+elizabeth-lindley,,,,,,,,,0.0
+zahra-elise,,Brown,Capricorn,Straight,Christian,Multiracial,American,Model,0
+nicki-minaj,39,Brown,Sagittarius,Straight,Christian,Multiracial,"Trinidadian, Tobagonian",Rapper,7
+justine-skye,27,Brown,Virgo,Straight,,Black,American,Singer,7
+cimre-mirel,,Brown,,Straight,,Middle Eastern,Turkish,Model (Adult/Glamour),0
+lori-harvey,25,Hazel,Capricorn,Straight,Christian,Multiracial,American,Model,7
+petra-nemcova,43,Hazel,Cancer,Straight,,White,Czech,Model,9
+albert-einstein,76,Brown,Pisces,Straight,Secular Humanist,White,German,Physicist,2
+steve-jobs,56,Brown,Pisces,Straight,Other,White,American,Business,1
+elon-musk,51,Green,Cancer,Straight,Atheist,White,South African,Business,9
+mark-zuckerberg,38,Blue,Taurus,Straight,Jewish,White,American,Business,1
+bill-gates,66,Blue,Scorpio,Straight,Roman Catholic,White,American,Business,1
+katherine-johnson,,Brown,Virgo,Straight,Christian,Multiracial,American,Educator,2
+sheryl-sandberg,53,Brown,Virgo,Straight,Jewish,White,American,Business,3
+denise-coates,,,,,,,,,0.0
+oprah-winfrey,68,Black,Aquarius,Straight,Protestant,Black,American,Talk Show Host,1
+alex-cooper,,,,,,,,,0.0
+elsa-lowenthal,60,,Capricorn,Straight,Christian,White,German,Spouse,1
+laurene-powell-jobs,58,Blue,Scorpio,Straight,,White,American,Business,3
+talulah-riley,37,Hazel,Libra,Straight,,White,British,Actress,2
+justine-musk,50,Blue,Virgo,Straight,Christian,White,Canadian,Author,1
+natasha-bassett,29,Hazel,Libra,Straight,,White,Australian,Actress,0
+nicole-shanahan,,Green,Taurus,Straight,,Multiracial,American,Business,1
+grimes,,,,,,,,,0.0
+shivon-zilis,,Blue,Aquarius,Straight,,Multiracial,Canadian,Scientist,0
+melinda-gates,58,Brown,Leo,Straight,Roman Catholic,White,American,Philanthropist,1
+james-goble,,,,,,Black,American,Spouse,1
+dave-goldberg,,,,,,,,,0.0
+brian-kraff,,,,,,,,,1.0
+andy-muschietti,,,Virgo,Straight,,,Argentinean,Director,0
+vito-schnabel,36,Brown,Leo,Straight,,White,American,Actor,4
+tasya-van-ree,46,Brown,Taurus,Lesbian,,Multiracial,American,Photographer,3
+mark-wystrach,42,Blue,Sagittarius,Straight,,White,American,Actor,3
+valentino-lanus,47,Hazel,Taurus,Straight,,White,Mexican,Actor,3
+alejandro-monteverde,45,Brown,Cancer,,Roman Catholic,,Mexican,Director,1
+bianca-butti,41,Blue,Aquarius,,,,American,Cinematographer,0
+marie-de-villepin,36,Blue,Taurus,Bisexual,,White,French,Model,5
+arthur-wybrands,36,,Sagittarius,Straight,,,French,Director,1
+crispin-glover,58,Blue,Aries,Straight,Scientology,White,American,Actor,9
+austin-nichols,42,Brown,Taurus,Straight,,White,American,Actor,5
+angela-lindvall,43,Blue,Capricorn,Straight,,White,American,Model,4
+chloe-bennet,30,Brown,Aries,Straight,Jewish,Multiracial,American,Actress,8
+sophia-bush,40,Hazel,Cancer,Straight,Atheist,White,American,Actress,7
+hassie-harrison,,Hazel,Pisces,Straight,,White,American,Actress,2
+claire-oswalt,,,,,,,,,0.0
+jaden-smith,24,Brown,Cancer,DISPUTED,Roman Catholic,Black,American,Relative,10
+halsey,,,Taurus,,,,American,,0
+margaret-qualley,27,Green,Scorpio,Straight,,White,American,Actress,5
+ashley-benson,32,Blue,Sagittarius,Bisexual,Christian,White,American,Actress,8
+michelle-rodriguez,44,Brown,Cancer,Bisexual,Atheist,Multiracial,American,Actress,9
+paris-jackson,24,Blue,Aries,Bisexual,Christian,Multiracial,American,Model,4
+miley-cyrus,29,Blue,Sagittarius,Bisexual,Christian,White,American,Singer,20
+camille-rowe,32,Green,Capricorn,Straight,,White,French,Model,6
+tess-ward,32,Blue,Aries,Straight,,White,British,Chef,0
+nadine-leopold,28,Green,Capricorn,Straight,,White,Austrian,Model,0
+paige-reifler,27,Hazel,Libra,Straight,,White,American,Model,3
+caroline-flack,40,Blue,Scorpio,Straight,,White,British,TV Personality,0
+townes-jones,25,Brown,Taurus,Straight,,White,American,,0
+emma-ostilly,29,Green,Virgo,Straight,,White,American,Model,1
+erin-johnson,35,,Gemini,,,,,,0
+emilia-clarke,35,Green,Scorpio,Straight,Anglican / Episcopalian,Multiracial,British,Actress,6
+amanda-seyfried,36,Blue,Sagittarius,Straight,Christian,White,American,Actress,12
+agyness-deyn,39,Blue,Aquarius,Straight,Protestant,White,British,Model,7
+ashley-hartman,37,Blue,Virgo,Straight,,White,American,Actress,0
+marla-sokoloff,41,Blue,Sagittarius,Straight,Jewish,White,American,Actress,1
+lana-del-rey,37,Hazel,Gemini,Straight,Roman Catholic,White,American,Singer,14
+jacqueline-bracamontes,42,Brown,Capricorn,Straight,Roman Catholic,White,Mexican,Actress,6
+ben-simmons,,,,,,,,,0.0
+blake-griffin,33,Brown,Pisces,Straight,Christian,Multiracial,American,Basketball,8
+jordan-clarkson,30,Black,Gemini,Straight,,Multiracial,Filipino,Basketball,9
+julian-brooks,29,Brown,Gemini,Straight,,Multiracial,American,Football (American),0
+kyle-kuzma,27,Brown,Leo,Straight,,Multiracial,American,Basketball,7
+anwar-hadid,23,Green,Cancer,Straight,,White,American,Model,5
+chandler-parsons,33,Blue,Scorpio,Straight,,White,American,Basketball,9
+ashton-irwin,28,Brown,Cancer,Straight,Christian,White,Australian,Drummer,8
+ryan-nassif,27,Brown,Virgo,Straight,,White,American,Model,1
+young-jinsu,30,Brown,Libra,Straight,Christian,Multiracial,American,Rapper,1
+lapo-elkann,45,Blue,Libra,Bisexual,,White,Italian,Business,13
+yoann-gourcuff,36,Brown,Cancer,Straight,,White,French,Football,3
+rie-rasmussen,44,Blue,Aquarius,Bisexual,,White,Danish,Actress,3
+shia-labeouf,36,Green,Gemini,Straight,Roman Catholic,White,American,Actor,14
+nat-wolff,27,Brown,Sagittarius,Straight,Jewish,White,American,Actor,6
+courtney-peldon,41,Green,Aries,Straight,,White,American,Actress,5
+marina-drujko,38,Green,Scorpio,Bisexual,,White,Russian,Model,22
+alexa-lauren,48,Hazel,Aquarius,,,White,American,Model,0
+jami-ferrell,48,Green,Gemini,,,White,American,Model (Adult/Glamour),1
+jessicka,46,Hazel,Scorpio,Bisexual,Atheist,White,American,Singer,7
+michelle-meyrink,60,Brown,Virgo,,,White,Canadian,Actress,1
+trisha-paytas,34,Blue,Taurus,Bisexual,Roman Catholic,White,American,Actress,11
+fairuza-balk,48,Blue,Taurus,Straight,Wiccan,White,American,Actress,0
+heidi-klum,49,Hazel,Gemini,Straight,Christian,White,German,Model,8
+liv-tyler,45,Blue,Cancer,Straight,Evangelical,White,American,Actress,10
+jasmine-daniels,,Hazel,Aries,Straight,,Multiracial,American,Model,2
+tahiry-jose,43,Black,Taurus,Straight,,Multiracial,American,Model (Adult/Glamour),7
+chanel-iman,31,Brown,Sagittarius,Straight,Baptist,Multiracial,American,Model,9
+iggy-azalea,32,Hazel,Gemini,Straight,Christian,White,Australian,Rapper,11
+teyana-taylor,31,Brown,Sagittarius,Straight,Christian,Black,American,Singer,10
+sophie-brussaux,33,Brown,Leo,Straight,Christian,White,French,Pornstar,4
+amina-muaddi,,Hazel,Gemini,Straight,Muslim,Multiracial,Jordanian,Fashion Designer,1
+kylie-jenner,25,Brown,Leo,Straight,Christian,White,American,Reality TV,14
+madison-skylar,28,,Sagittarius,,,White,American,Personality,1
+caroline-vreeland,35,Blue,Libra,Straight,,White,American,Singer,3
+amanda-chantal-bacon,,,,,,,,,2.0
+tiger-woods,46,Black,Capricorn,Straight,Buddhist,Multiracial,American,Golf,25
+lebron-james,37,Brown,Capricorn,Straight,Roman Catholic,Black,American,Basketball,6
+roger-federer,41,Brown,Leo,Straight,Roman Catholic,White,Swiss,Tennis,1
+kevin-durant,34,Brown,Libra,Straight,,Black,American,Basketball,8
+serena-williams,41,Brown,Libra,Straight,Jahovah's Witness,Black,American,Tennis,11
+simone-biles,25,Brown,Pisces,Straight,Roman Catholic,Black,American,Gymnastics,1
+maria-sharapova,35,Green,Aries,Straight,Russian Orthodox,White,Russian,Tennis,6
+alex-morgan,33,Blue,Cancer,Straight,,White,American,Football,1
+irina-shayk,36,Green,Capricorn,Straight,Russian Orthodox,Multiracial,Russian,Model,8
+nereida-gallardo,39,Brown,Pisces,Straight,Roman Catholic,White,Spanish,Model,7
+gemma-atkinson,37,Green,Scorpio,Straight,Christian,White,British,Actress,10
+merche-romero,45,Brown,Sagittarius,Straight,,White,Portuguese,Game Show Host,9
+jordana-jardel,,Brown,,Straight,,Multiracial,Brazilian,Model,0
+mirella-grisales,43,,Capricorn,,,,Colombian,Model (Adult/Glamour),0
+niki-ghazian,,Brown,,Straight,,White,,,0
+cassandre-davis,34,Blue,Leo,Straight,,White,American,Model,0
+cristina-buccino,37,Brown,Gemini,Straight,Roman Catholic,White,Italian,Model,0
+paula-suarez,26,Brown,Scorpio,Straight,Roman Catholic,Multiracial,Colombian,Model,0
+daniella-grace,32,Hazel,Taurus,Straight,Christian,White,American,Actress,2
+alessandra-ambrosio,41,Brown,Aries,Straight,Roman Catholic,White,Brazilian,Model,13
+alessia-tedeschi,31,Blue,Pisces,Straight,Roman Catholic,White,Italian,Model,0
+daniella-chavez,32,Green,Pisces,Straight,,White,Chilean,Model (Adult/Glamour),0
+andressa-urach,35,Blue,Libra,Bisexual,Protestant,White,Brazilian,Model (Adult/Glamour),6
+raffaella-fico,34,Brown,Aquarius,Straight,,White,Italian,TV Personality,5
+olivia-saunders,,Blue,,Straight,,White,British,Student,0
+bipasha-basu,43,Black,Capricorn,Straight,Hindu,Asian/Indian,Indian,Actress,5
+mia-judaken,33,Blue,Taurus,Straight,,Multiracial,American,Socialite,0
+alyson-eckmann,,Blue,Scorpio,Straight,,White,American,Journalist,0
+nikoleta-lozanova,34,Grey,Sagittarius,Straight,,White,Bulgarian,Model (Adult/Glamour),2
+nataly-rincon,,Hazel,,Straight,,White,Colombian,Model (Adult/Glamour),1
+maja-darving,26,Green,Aries,Straight,,White,Danish,Model,1
+melanie-martins,,Blue,,Straight,,White,Portuguese,Model,1
+amal-saber,,Brown,,Straight,,Middle Eastern,Moroccan,Model (Adult/Glamour),1
+diana-morales,35,Hazel,Libra,Straight,Roman Catholic,White,Spanish,Model,1
+rita-pereira,40,Brown,Pisces,Bisexual,Roman Catholic,Multiracial,Portuguese,Actress,7
+elisa-de-panicis,29,Brown,Sagittarius,Straight,,White,Italian,Model,2
+elin-nordegren,42,Blue,Capricorn,Straight,,White,Swedish,Model,4
+laci-kay-somers,30,Blue,Sagittarius,Straight,Christian,White,American,Personality,0
+lindsey-vonn,38,Hazel,Libra,Straight,,White,American,Skiing,4
+kalika-moquin,,Green,,Straight,,White,American,Manager,0
+cori-rist,,Blue,,Straight,,White,American,Other,0
+mindy-lawton,,Blue,,Straight,,White,American,Manager,0
+jamie-jungers,39,Hazel,Pisces,Straight,,White,American,Model,0
+theresa-rogers,,Blue,,Straight,,White,American,,0
+julie-postle,,Blue,,Straight,,White,American,Dancer,0
+kashmira-karanjia,,,,,,White,American,Teacher,0
+joanna-jagoda,,Brown,,,,White,Polish,Attorney,0
+amanda-boyd,,,,,,,American,,1
+rachel-uchitel,47,Blue,Aquarius,Straight,Jewish,White,American,TV Personality,8
+raychel-coudriet,,Brown,,,,White,American,Victim,0
+emma-rotherham,,,,,,White,British,Homemaker,0
+joslyn-james,44,Blue,Scorpio,Bisexual,,White,American,Pornstar,0
+jaimee-grubbs,37,Brown,Cancer,Straight,,White,American,Actress,2
+loredana-jolie,39,Blue,Gemini,Straight,,White,American,Model (Adult/Glamour),1
+devon-james,,Brown,,,,White,American,Pornstar,0
+holly-sampson,49,Blue,Virgo,Straight,,White,American,Pornstar,9
+bridgette-kerkove,45,Green,Aquarius,,,White,American,Pornstar,4
+lara-dutta,44,Brown,Aries,Straight,Roman Catholic,Multiracial,Indian,Model,5
+leann-rimes,40,Blue,Virgo,Straight,Christian,White,American,Country Musician,5
+adrienne-houghton,38,Brown,Scorpio,Straight,Christian,Multiracial,American,Singer,10
+carmen-ortega,37,Green,Aquarius,Bisexual,Roman Catholic,White,American,Model (Adult/Glamour),5
+hencha-voigt,34,Brown,Scorpio,Straight,Christian,Multiracial,Haitian,Reality TV,4
+meagan-good,41,Brown,Leo,Straight,Christian,Black,American,Actress,15
+monica-wright,34,Brown,Cancer,Straight,,Black,American,Basketball,1
+rosalyn-gold-onwude,35,Brown,Taurus,Straight,,Multiracial,American,Basketball,3
+jasmine-shine,,,,Straight,,Multiracial,American,,0
+letoya-luckett,41,Brown,Pisces,Straight,Christian,Black,American,Singer,9
+apryl-jones,35,Brown,Sagittarius,Straight,,Multiracial,American,Reality TV,7
+joie-chavis,34,Brown,Libra,Straight,Christian,Multiracial,American,Model (Adult/Glamour),14
+patrick-mouratoglou,52,Brown,Gemini,Straight,,White,French,Tennis,3
+hosea-chanchez,41,Brown,Virgo,Straight,Christian,Multiracial,American,Actor,7
+common,50,Brown,Pisces,Straight,Christian,Multiracial,American,Rapper,7
+jackie-long,40,Black,Scorpio,Straight,,Black,American,Actor,2
+corey-maggette,42,Black,Scorpio,,,Black,American,Basketball,0
+keyshawn-johnson,50,Black,Cancer,,,Black,American,Football (American),4
+lavar-arrington,44,Black,Gemini,,,Black,American,Football (American),0
+sasha-vujacic,38,Brown,Pisces,Straight,Eastern Orthodox,White,Slovenian,Basketball,1
+grigor-dimitrov,31,Brown,Taurus,Straight,Eastern Orthodox,White,Bulgarian,Tennis,4
+charlie-ebersol,38,Brown,Sagittarius,Straight,,White,American,Producer,3
+andy-roddick,40,Brown,Virgo,Straight,Christian,White,American,Tennis,3
+jidenna,37,Brown,Taurus,Straight,,Multiracial,American,Rapper,0
+liam-richards,,Blue,,Straight,,White,British,Martial Arts,1
+ryan-giggs,48,Brown,Sagittarius,Straight,,Multiracial,Welsh,Football,13
+marcus-bent,44,Brown,Taurus,,,Black,British,Football,5
+darren-bent,38,Black,Aquarius,Straight,,Black,British,Football,2
+cleveland-campbell,,,,,,,English,Actor,0
+mark-furze,36,Green,Taurus,Straight,,White,Australian,Actor,0
+alan-smith,41,Brown,Scorpio,Straight,Roman Catholic,White,British,Football,9
+danielle-marcus,,Blue,,Straight,,White,,,1
+joanne-beckham,40,Blue,Pisces,Straight,Christian,White,British,Personality,3
+kirsty-fisher,,,,,,White,British,Flight Attendant,0
+brandon-jennings,33,Brown,Virgo,Straight,Christian,Black,American,Basketball,5
+chad-johnson,44,Black,Aquarius,Straight,,Black,American,Football (American),13
+soulja-boy,32,Brown,Leo,Straight,,Black,American,Rapper,26
+daniel-gibson,36,Brown,Pisces,Straight,,Black,American,Basketball,6
+colin-kaepernick,34,Brown,Scorpio,Straight,Christian,Multiracial,American,Football (American),13
+kyrie-irving,30,Brown,Aries,Straight,,Black,American,Basketball,10
+michelle-rounds,46,Brown,Taurus,Lesbian,,White,American,Business,1
+jason-derulo,33,Brown,Virgo,Straight,Roman Catholic,Black,American,Singer,4
+tommicus-walker,42,Brown,Leo,Straight,,Black,American,Business,1
+jo-blaque,,,,,,,,,0.0
+deshawn-stevenson,41,Brown,Aries,,,Black,American,Basketball,3
+slim-thug,42,Black,Virgo,Straight,,Multiracial,American,Rapper,0
+brian-casey,,,,,,,,,0.0
+michael-jordan,59,Brown,Aquarius,Straight,Roman Catholic,Black,American,Basketball,13
+matt-hahn,,,,,,,,,1.0
+steven-ehrenkranz,,,,,,,,,1.0
+harry-dubin,,,,,,,,,0.0
+jeremy-london,49,Blue,Scorpio,Straight,,White,American,Actor,3
+david-boreanaz,53,Brown,Taurus,Straight,Roman Catholic,White,American,Actor,5
+ingrid-quinn,,Brown,,Straight,,White,American,Screenwriter,1
+gina-rodriguez,54,Brown,Scorpio,Straight,Other,Multiracial,American,Pornstar,3
+catalina-guirado,48,Brown,Capricorn,Straight,,White,British,Model,6
+omarion,,,,,,,,,0.0
+kris-donnelly,37,Brown,Aries,Straight,,White,British,,2
+jermain-defoe,40,Brown,Libra,Straight,Roman Catholic,Black,British,Football,12
+keyshia-cole,41,Brown,Libra,Straight,Christian,Multiracial,American,Singer,19
+brittany-diamond-carpentero,34,Brown,Taurus,Straight,Christian,Multiracial,American,Rapper,4
+bridget-kelly,36,Brown,Aries,Straight,,Multiracial,American,Singer,0
+brooke-valentine,38,Brown,Libra,Straight,,Black,American,Singer,3
+arica-kane,42,,Taurus,Straight,,Multiracial,American,Rapper,7
+evan-stone,58,Blue,Cancer,Straight,,White,American,Pornstar,27
+mick-blue,46,Blue,Virgo,Straight,,White,Austrian,Pornstar,12
+derrick-pierce,48,Blue,Pisces,Straight,,White,American,Pornstar,7
+james-deen,36,Blue,Aquarius,Straight,Jewish,White,American,Pornstar,12
+brick-majors,60,,Aquarius,,,White,American,Pornstar,2
+ian-daniels,52,,Cancer,,,White,American,Pornstar,9
+kevin-costner,67,Blue,Capricorn,Straight,Baptist,White,American,Actor,20
+brent-bolthouse,52,Brown,Sagittarius,Straight,Buddhist,White,American,Business,7
+clarisse-mouratoglou,,,,Straight,,White,French,Business,1
+unknown-first-wife,,,,,,,,,1.0
+chris-zylka,37,Green,Taurus,,,White,American,Actor,5
+jason-shaw,49,,Scorpio,,,White,American,Model,1
+jack-whitehall,34,Blue,Cancer,Straight,,White,British,Comic,9
+thomas-gross,46,Blue,Aquarius,Straight,,White,Austrian,Business,0
+josh-upshaw,36,Green,Capricorn,Straight,,White,American,Model,0
+river-viiperi,31,Blue,Leo,Straight,,White,Spanish,Model,3
+afrojack,35,Brown,Virgo,Straight,Christian,Multiracial,Dutch,Music Producer,3
+cy-waits,47,Blue,Libra,Straight,,White,American,Business,0
+doug-reinhardt,36,Blue,Libra,Straight,,White,American,Reality TV,10
+alex-vaggo,,Blue,,Straight,,White,Swedish,Model,0
+matt-leinart,39,Brown,Taurus,Straight,,White,American,Football (American),6
+stavros-niarchos,37,Brown,Aries,Straight,Greek Orthodox,White,Greek,Socialite,7
+simon-rex,48,Brown,Cancer,Straight,Jewish,White,American,Actor,8
+nick-carter,42,Blue,Aquarius,Straight,Roman Catholic,White,American,Singer,38
+deryck-whibley,42,Hazel,Aries,Straight,,White,Canadian,Musician,5
+joe-francis,49,Brown,Aries,Straight,,White,American,Film/TV Producer,9
+rick-salomon,54,Blue,Aquarius,Straight,Jewish,White,American,Producer,8
+oscar-de-la-hoya,49,Brown,Aquarius,Straight,Christian,Multiracial,American,Boxing,4
+edward-furlong,45,Hazel,Leo,Straight,,White,American,Actor,11
+randy-spelling,44,Blue,Libra,Straight,Jewish,White,American,Actor,4
+todd-phillips,51,,Sagittarius,,Jewish,White,American,Director,0
+brody-jenner,39,Brown,Leo,Straight,Christian,White,American,Reality TV,19
+julian-feitsma,,Hazel,,,,White,German,Model,0
+dj-am,,,,,,,,,0.0
+adrian-grenier,46,Blue,Cancer,Straight,,Multiracial,American,Actor,10
+tyler-atkins,36,Blue,Gemini,,,White,Australian,Fashion Designer,0
+james-blunt,48,Blue,Pisces,Straight,,White,British,Musician,7
+josh-henderson,40,OTHER,Scorpio,Straight,,White,American,Actor,12
+kid-rock,51,Blue,Capricorn,Straight,Christian,White,American,Musician,20
+criss-angel,54,Brown,Sagittarius,Straight,Greek Orthodox,White,American,Magician,13
+james-neate,,Blue,,Straight,,White,Canadian,Model,1
+brandon-davis,41,Hazel,Sagittarius,Straight,Jewish,White,American,Actor,12
+chad-muska,45,,Taurus,,,White,American,Skateboarding,0
+lucas-babin,43,Brown,Leo,Straight,,White,American,Actor,2
+jake-sumner,37,Blue,Gemini,Straight,,White,British,Model,0
+chad-michael-murray,41,Brown,Virgo,Straight,Christian,White,American,Actor,5
+jack-osbourne,36,Blue,Scorpio,Straight,,White,British,TV Personality,12
+vincent-gallo,61,Blue,Aries,Straight,Roman Catholic,White,American,Actor,12
+jordan-barrett,,,Cancer,,,,English,Director,0
+fred-durst,52,Blue,Leo,Straight,Roman Catholic,White,American,Musician,35
+tom-sizemore,60,Blue,Sagittarius,Straight,Roman Catholic,White,American,Actor,9
+lil-scrappy,38,Brown,Capricorn,Straight,Christian,Black,American,Rapper,3
+sophie-monk,42,Blue,Sagittarius,Straight,,White,Australian,Actress,14
+eliza-doolittle,34,Brown,Aries,Straight,,White,British,Singer,0
+holly-madison,42,Brown,Capricorn,Straight,,White,American,Model (Adult/Glamour),7
+kara-monaco,39,Blue,Pisces,Straight,,White,American,Model (Adult/Glamour),1
+rin-kozue,42,Brown,Aquarius,Straight,,Multiracial,German,Musician,1
+dita-von-teese,50,Green,Libra,Bisexual,Agnostic,White,American,Dancer,10
+caleigh-peters,33,Hazel,Scorpio,Straight,,White,American,Singer,2
+nicole-trunfio,36,Hazel,Pisces,Straight,,White,Australian,Model,2
+solange,,,,,,,,,0.0
+michelle-ruben,52,Brown,Virgo,,Christian,White,American,Actress,3
+rachel-hunter,53,Blue,Virgo,Straight,,White,New Zealander,Model,18
+pamela-anderson,55,Blue,Cancer,Straight,Atheist,White,Canadian,Actress,40
+barack-obama,61,Black,Leo,Straight,Christian,Multiracial,American,Head of State,4
+nelson-mandela,95,Brown,Cancer,Straight,Methodist,Black,South African,Head of State,3
+justin-trudeau,50,Blue,Capricorn,Straight,Roman Catholic,White,Canadian,Head of State,1
+prince-william-royalty,40,Blue,Gemini,Straight,Anglican / Episcopalian,White,British,Royalty,14
+vladimir-putin,70,Blue,Libra,Straight,Russian Orthodox,White,Russian,Head of State,7
+hillary-clinton,,,,,,,,,0.0
+angela-merkel,68,Blue,Cancer,Straight,Christian,White,German,Head of State,2
+queen-elizabeth,,,,,,,,Personality,0
+margaret-thatcher,87,Blue,Libra,Straight,Anglican / Episcopalian,White,British,Government,1
+princess-diana,36,Blue,Cancer,Straight,Anglican / Episcopalian,White,British,Royalty,4
+genevieve-cook,,,,,,White,American,Other,0
+alex-mcnear,,,,,,White,American,,0
+megan-hughes,,,,,,White,American,Other,0
+winnie-mandela,81,Black,Libra,Straight,,Black,South African,Activist,1
+evelyn-ntoko-mase,81,Brown,Taurus,Straight,Jahovah's Witness,Black,South African,Spouse,1
+natasha-hamilton,40,Hazel,Cancer,Straight,,White,British,Singer,6
+olivia-hunt,,Blue,,Straight,,White,British,Journalist,2
+carly-massy-birch,,,,,,,,,0.0
+arabella-musgrave,,Blue,,,Protestant,White,British,Other,2
+jessica-craig,40,Brown,Capricorn,Straight,,White,Kenyan,Socialite,4
+natalie-hicks-lobbecke,,,,,,,,,1.0
+rose-farquhar,,,,Straight,,White,British,Singer,0
+davina-duckworth,,Brown,,Straight,,White,,,0
+isabella-calthorpe,42,Blue,Pisces,Straight,,White,British,Socialite,4
+bryony-daniels,,Blue,,Straight,,White,British,,1
+rose-hanbury,38,Green,Pisces,,,White,British,Socialite,2
+lyudmila-putina,64,Green,Capricorn,Straight,Russian Orthodox,White,Russian,First Lady,1
+viktoriya-lopyreva,39,Green,Leo,Straight,,White,Russian,Model,3
+wendi-murdoch,53,Brown,Sagittarius,Straight,,Asian,Chinese,Socialite,6
+alisa-kharcheva,,Brown,Sagittarius,Straight,Russian Orthodox,White,Russian,Model,0
+alisa-tsitseronova,,,Aries,,,White,Estonian,Dancer,0
+alina-kabaeva,39,Green,Taurus,Straight,Christian,White,Russian,Politician,2
+ulrich-merkel,,,,,,,,,1.0
+denis-thatcher,88,,Taurus,Straight,,White,British,Business,1
+prince-charles,73,Blue,Scorpio,Straight,Anglican / Episcopalian,White,British,Royalty,28
+will-carling,56,Green,Sagittarius,,,White,English,Rugby Union,2
+james-gilbey,,,,,,,,,2.0
+sam-hoare,41,Blue,Cancer,,,White,British,Actor,1
+john-lycett-green,,,,,,,British,Socialite,3
+prince-william,,,,,,,,,0.0
+captain-philip-kaye,,,,,,,,,0.0
+hugh-crossley,,,,,,,British,Politician,0
+marina-hanbury,,Green,,,,White,British,Socialite,4
+rachael-stirling,45,Brown,Gemini,Straight,,White,British,Actress,2
+julia-carling,57,,Pisces,,,,British,TV News,1
+riad-erraji,,,,Straight,,,,,2
+fran-cosgrave,44,,Capricorn,Straight,,White,Irish,Singer,3
+ritchie-neville,43,Blue,Leo,Straight,Christian,White,British,Singer,7
+gavin-hatcher,,,,,,,,,0.0
+rupert-murdoch,91,Brown,Pisces,Straight,Christian,White,American,Business,4
+bertold-zahoran,,Blue,Aries,Straight,,White,Hungarian,Model,0
+charlie-siem,36,Brown,Capricorn,Straight,,White,British,Violinist,0
+lavinia-hadsley-chaplin,,,,,,,,,1.0
+susan-george,72,,Leo,Straight,Christian,White,British,Actress,9
+davina-sheffield,,Blue,,Straight,,White,,,0
+dale-tryon,49,Blue,Capricorn,Straight,,White,Australian,Socialite,1
+lady-jane-wellesley,71,,Cancer,,,,,,0
+janet-jenkins,,,,,,,,,0.0
+cindy-buxton,72,,Leo,,,,,,0
+lucia-santa-cruz,,,,,,,,,0.0
+helga-wagner,,Blue,,Straight,Scientology,White,Austrian,Artist,0
+anna-wallace,,,,,,,,,0.0
+caroline-longman,,,,,,,,,0.0
+sabrina-guinness,67,Brown,Capricorn,Straight,,White,Irish,Socialite,15
+jane-ward,,,,,,,,,0.0
+lady-camilla-fane,,,,,,,,,0.0
+lady-sarah-mccorquodale,67,,Pisces,,,White,British,Socialite,1
+laura-watkins,,,,Straight,Roman Catholic,White,,,0
+lady-angela-nevill,,,,,,,,,0.0
+lady-jane-grosvenor,,,,,,,,,0.0
+rosie-clifton,,,,,,,,,0.0
+lady-caroline-percy,,,,,,,,,0.0
+lady-bettina-lindsay,,,,,,,,,0.0
+lady-georgiana-russell,,,,,,,,,0.0
+lady-cecil-kerr,,,,,,,,,0.0
+sibylla-dorman,,,,,,,,,0.0
+barbra-streisand,80,Blue,Taurus,Straight,Jewish,White,American,Singer,29
+vicky-pattison,34,Green,Scorpio,Straight,,White,British,Reality TV,25
+fedor-smolov,,Brown,Aquarius,Straight,,White,Russian,Football,4
+alexander-ovechkin,37,Blue,Virgo,Straight,Russian Orthodox,White,Russian,Ice Hockey,8
+lord-frederick-windsor,43,Blue,Aries,Straight,Anglican / Episcopalian,White,British,Royalty,1
+robin-hurlstone,,,,,,,,Actor,2
+oliver-chris,43,,Scorpio,,,,British,Actor,1
+neil-edmund-mccorquodale,,,,,,White,British,Socialite,1
+emily-scott,39,Blue,Gemini,Straight,,White,Australian,Model (Adult/Glamour),2
+roz-denson,,,,Straight,,White,British,Other,0
+joanna-taylor,44,Blue,Leo,Straight,,White,British,Actress,4
+lucy-clarkson,40,Brown,Cancer,Straight,,White,British,Model (Adult/Glamour),3
+mariama-goodman,44,Brown,Capricorn,Straight,,Multiracial,British,Singer,1
+billie-piper,40,Brown,Virgo,Straight,,White,British,Actress,7
+jodie-marsh,43,Brown,Capricorn,Bisexual,,White,British,Model (Adult/Glamour),13
+elle-crawforth,,,,,,,,,0.0
+laurence-fox,44,Blue,Gemini,Straight,,White,British,Actor,5
+chris-evans,41,Blue,Gemini,Straight,Roman Catholic,White,American,Actor,16
+matt-smith,39,Green,Scorpio,Straight,Atheist,White,British,Actor,5
+amadu-sowe,,,,,,,,,0.0
+danny-dyer,45,Brown,Leo,Straight,,White,British,Actor,4
+anthony-tryon,,,Gemini,Straight,,White,British,,1
+david-rocksavage,62,Brown,Cancer,Straight,,White,British,Royalty,4
+steve-guttenberg,64,Brown,Virgo,Straight,Jewish,White,American,Actor,9
+jonathan-aitken,80,Brown,Virgo,Straight,Other,White,Irish,Politician,1
+bryan-ferry,77,Blue,Libra,,,White,British,Singer,12
+morgan-mason,67,Brown,Cancer,Straight,,White,American,Film/TV Producer,5
+paul-mccartney,80,Brown,Gemini,Straight,Roman Catholic,White,British,Musician,26
+michael-douglas,78,Blue,Libra,Straight,Jewish,White,American,Actor,13
+david-lee-roth,68,Blue,Libra,Straight,Jewish,White,American,Vocalist,16
+dai-llewellyn,62,,Aries,,,,Welsh,Socialite,0
+jack-nicholson,85,Hazel,Taurus,Straight,Atheist,White,American,Actor,50
+rod-stewart,77,Brown,Capricorn,Straight,Christian,White,British,Musician,39
+valerie-perrine,79,Blue,Virgo,Straight,,White,American,Actress,7
+louise-fletcher,88,Green,Cancer,Straight,,White,American,Actress,1
+joan-collins,89,Green,Gemini,Straight,,White,British,Actress,31
+kathy-simmons,71,Green,Virgo,Straight,Jewish,White,American,Actress,10
+caron-bernstein,52,Hazel,Leo,Straight,Atheist,White,South African,Model,4
+fleur-thiemeyer,,,,Straight,,White,Australian,Costume Designer,3
+connie-hamzy,68,Brown,Capricorn,Straight,Jewish,Multiracial,American,Personality,1
+apollonia-kotero,63,Brown,Leo,Straight,Roman Catholic,Multiracial,American,Actress,6
+rita-rae-roxx,,Brown,,Straight,,Multiracial,,Author,19
+valeri-kendall,60,,Gemini,,,White,American,Actress,5
+savannah,23,Blue,Libra,Bisexual,Other,White,American,Pornstar,0
+tawny-kitaen,59,Brown,Leo,Straight,Christian,White,American,Actress,2
+brooke-shields,57,Blue,Gemini,Straight,Roman Catholic,White,American,Actress,23
+alycen-rowse,52,Blue,Cancer,Straight,,White,American,,50
+alex-van-halen,69,Hazel,Taurus,Straight,,Multiracial,Dutch,Drummer,3
+steven-tyler,74,Brown,Aries,Straight,Evangelical,White,American,Musician,17
+izzy-stradlin,60,Green,Aries,Straight,,White,American,Musician,11
+stine-schyberg,69,Brown,Taurus,Straight,,White,,Spouse,1
+kelly-van-halen,,Blue,,Straight,,White,American,Designer,1
+tommy-lee,60,Brown,Libra,Straight,Roman Catholic,White,American,Drummer,41
+jon-peters,77,Brown,Gemini,Straight,Jewish,White,American,Film/TV Producer,17
+adil-rami,36,Black,Capricorn,Straight,,Middle Eastern,French,Football,4
+julian-assange,51,Brown,Cancer,Straight,Atheist,White,Ecuadorean,Journalist,0
+matt-evers,46,,Pisces,,,,American,Skating,0
+jon-rose,,Blue,,Straight,,White,American,Surfing,0
+jamie-padgett,56,,Gemini,,,White,,Other,0
+hans-klok,53,Blue,Pisces,Gay,,White,Dutch,Magician,4
+david-binn,50,,Aquarius,,Jewish,,American,Football (American),0
+laurence-hallier,,,,Straight,,White,,Business,2
+stephen-dorff,49,Brown,Leo,Straight,Jewish,White,American,Actor,16
+kelly-slater,50,Blue,Aquarius,Straight,,White,American,Surfing,4
+david-charvet,50,Blue,Taurus,Straight,Jewish,White,French,Actor,8
+scott-baio,62,Brown,Virgo,Straight,,White,American,Actor,21
+tyrone-anderson,,,,,,,Canadian,,0
+david-spade,58,Blue,Cancer,Straight,,White,American,Actor,22
+steve-jones,45,Brown,Pisces,Straight,,White,Welsh,Talk Show Host,12
+michael-bolton,69,Blue,Pisces,Straight,Jewish,White,American,Singer,14
+arsenio-hall,66,Brown,Aquarius,Straight,Baptist,Black,American,Actor,3
+slash,57,Brown,Cancer,Straight,Christian,Multiracial,British,Musician,19
+vince-neil,61,Brown,Aquarius,Straight,Atheist,White,American,Singer,28
+dean-cain,56,Brown,Leo,Straight,,Multiracial,American,Actor,7
+eric-nies,51,Hazel,Gemini,Straight,,White,American,Model,4
+mario-van-peebles,65,Brown,Capricorn,Straight,,Multiracial,American,Actor,4
+sylvester-stallone,76,Brown,Cancer,Straight,Roman Catholic,White,American,Actor,21
+johnathon-schaech,53,Green,Virgo,Straight,Roman Catholic,White,American,Actor,7
+dan-ilicic,,,,Straight,,White,,Photographer,1
+carlos-santana,75,Brown,Cancer,Straight,Christian,Multiracial,American,Musician,3

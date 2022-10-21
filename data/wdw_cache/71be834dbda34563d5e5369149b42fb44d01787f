@@ -1,0 +1,853 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Gabriel Byrne dating? Gabriel Byrne girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/gabriel-byrne" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/gabriel-byrne" /><meta name="title" content="Who is Gabriel Byrne dating? Gabriel Byrne girlfriend, wife" /><meta name="description" content="18 October 2022... Gabriel Byrne news, gossip, photos of Gabriel Byrne, biography, Gabriel Byrne girlfriend list 2022. Relationship history. Gabriel Byrne relationship list. Gabriel Byrne dating history, 2022, 2021, list of Gabriel Byrne relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/gabriel-byrne" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Gabriel Byrne" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img1.bdbphotos.com/images/orig/z/s/zsuo0kms3afpmk3u.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/gabriel-byrne",
+  "name": "Gabriel Byrne",
+"jobTitle": "Actor",  "url": "https://www.whosdatedwho.com/dating/gabriel-byrne",
+"birthDate": "1950-05-12",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 4,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Person",
+        "name": "Hannah Beth King",
+        "url": "https://www.whosdatedwho.com/dating/gabriel-byrne#dating-hannah-beth-king",
+		        "image": "//img6.bdbphotos.com/images/orig/7/1/71u9csyrpdpjscr1.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Madonna",
+        "url": "https://www.whosdatedwho.com/dating/gabriel-byrne#dating-madonna",
+		        "image": "//img6.bdbphotos.com/images/orig/d/7/d72d3o0l7awl0o72.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Julia Ormond",
+        "url": "https://www.whosdatedwho.com/dating/gabriel-byrne#dating-julia-ormond",
+		        "image": "//img1.bdbphotos.com/images/orig/i/4/i4ns2rx3kdvsr234.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Ellen Barkin",
+        "url": "https://www.whosdatedwho.com/dating/gabriel-byrne#dating-ellen-barkin",
+		        "image": "//img1.bdbphotos.com/images/orig/r/9/r91y5w7mrc9py1wp.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="gabriel-byrne" data-ff-tid="1" data-ff-id="881" data-ff-title="Gabriel Byrne" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="881"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/gabriel-byrne">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-gabriel-byrne" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Gabriel Byrne 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-gabriel-byrne"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/z/s/zsuo0kms3afp3upo.jpg?skj2io4l" alt="Gabriel Byrne" class=" " /></div></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Gabriel Byrne&nbsp;&nbsp;<span class="ff-smaller">Irish Actor</span></div><div class="ff-thumbs"><span onClick="contentVote('v881101',881,1,0,1,'gabriel-byrne');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v881101">115</v></span><span onClick="contentVote('v88110-1',881,1,0,'-1','gabriel-byrne');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v88110-1">25</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/gabriel-byrne/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">4316</div><div class="footer"><span class="ff-rank-change "><i class="icon-chart-line"></i><span>816</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">72</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-taurus"><i class="icon-taurus"></i></a></div><div class="footer">Taurus</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">4</div><div class="footer">total</div></a></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact lots"><i class='icon-child' ></i><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">3 children</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Gabriel Byrne dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><p class="ff-auto-status">
+    				    					According to our records, <topic url="gabriel-byrne">Gabriel Byrne</topic> is possibly single.
+    				    			</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="gabriel-byrne">Gabriel Byrne</topic> was previously married to <a href="/dating/hannah-beth-king">Hannah Beth King</a><span> (2014)</span> and <a href="/dating/ellen-barkin">Ellen Barkin</a><span> (1988 - 1999)</span>.</p><p><topic url="gabriel-byrne">Gabriel Byrne</topic> has been in a relationship with <a href="/dating/julia-ormond">Julia Ormond</a><span> (1996 - 1997)</span>.</p><div class="ff-person-profile-detail-toggle hide"><p><topic url="gabriel-byrne">Gabriel Byrne</topic> is rumoured to have hooked up with <a href="/dating/madonna">Madonna</a><span> (2009)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="gabriel-byrne">Gabriel Byrne</topic> is a 72 year old Irish Actor. Born Gabriel James Byrne on 12th May, 1950 in DuWalkinstown, Republic of Ireland, he is famous for The Usual Suspects. His zodiac sign is Taurus.</p><p class="ff-auto-about"><topic url="gabriel-byrne">Gabriel Byrne</topic> has been in 11 on-screen matchups, including <a href="/dating/bridget-fonda">Bridget Fonda</a> in <i>Point of No Return</i><span> (1993)</span>, <a href="/dating/ellen-barkin">Ellen Barkin</a> in <i>Siesta</i><span> (1987)</span>, <a href="/dating/anne-parillaud">Anne Parillaud</a> in <i>The Man in the Iron Mask</i><span> (1998)</span>, <a href="/dating/jessalyn-gilsig">Jessalyn Gilsig</a> in <i>Vikings</i><span> (2013)</span> and <a href="/dating/julia-ormond">Julia Ormond</a> in <i>Smilla&#x27;s Sense of Snow</i><span> (1997)</span>.</p><p class="ff-auto-about"><topic url="gabriel-byrne">Gabriel Byrne</topic> is a member of the following lists: <a href="/lists/former-roman-catholics">Former Roman Catholics</a>, <a href="/lists/best-drama-actor-golden-globe-television-winners">Best Drama Actor Golden Globe (television) winners</a> and <a href="/lists/1950-births">1950 births</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Gabriel Byrne dating? Gabriel Byrne girlfriend, wife list. Help us build our profile of Gabriel Byrne! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/gabriel-byrne">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>2</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Ellen Barkin and Gabriel Byrne">
+								13 years, 4 months
+							</span></td><td>
+													11 years, 6 months
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Gabriel Byrne and Hannah Beth King">
+								9 years, 9 months
+							</span></td></tr><tr><th>Dating</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Gabriel Byrne and Julia Ormond">
+								1 year
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Rumoured</th><td>1</td><td>
+													-
+											</td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">4</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Ellen Barkin and Gabriel Byrne">
+								13 years, 4 months
+						</span></td><td style="font-style:oblique">
+											6 years
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Gabriel Byrne and Julia Ormond">
+							1 year
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Gabriel
+													</td></tr><tr><td>Middle Name</td><td>
+															James
+													</td></tr><tr><td>Last Name</td><td>
+															Byrne
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Gabriel James Byrne
+													</td></tr><tr><td>Alternative Name</td><td>
+															Gebriel Birn
+													</td></tr><tr><td>Age</td><td>
+															72 years
+													</td></tr><tr><td>Birthday</td><td>
+															12th May, 1950
+													</td></tr><tr><td>Birthplace</td><td>
+															DuWalkinstown, Republic of Ireland
+													</td></tr><tr><td>Height</td><td>
+															5&#039; 10&quot; (178 cm)
+													</td></tr><tr><td>Build</td><td>
+															Average
+													</td></tr><tr><td>Eye Color</td><td>
+															Blue
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Taurus
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Roman Catholic
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															Irish
+													</td></tr><tr><td>High School</td><td>
+															Ardscoil Éanna in Crumlin
+													</td></tr><tr><td>University</td><td>
+															University College Dublin
+													</td></tr><tr><td>Occupation Text</td><td>
+															Actor, producer, writer, narrator
+													</td></tr><tr><td>Occupation</td><td>
+															Actor
+													</td></tr><tr><td>Claim to Fame</td><td>
+															The Usual Suspects
+													</td></tr><tr><td>Year(s) Active</td><td>
+															1978&#8211;present
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															Celebrity Talent International, Paradigm Talent Agency
+													</td></tr><tr><td>Brand Endorsement</td><td>
+															O2 telecommunication services (2009)
+													</td></tr><tr><td>Official Websites</td><td>
+															www.gabrielbyrnesite.com/, www.youtube.com/user/GabrielByrne1, www.nndb.com/people/309/000042183/
+													</td></tr><tr><td>Father</td><td>
+															Dan Byrne (cooper)
+													</td></tr><tr><td>Mother</td><td>
+															Eileen (née Gannon) (nurse)
+													</td></tr><tr><td>Brother</td><td>
+															Donal Byrne, Thomas Byrne
+													</td></tr><tr><td>Sister</td><td>
+															Breda Byrne, Margaret Byrne, Marian Byrne (deceased)
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Gabriel James Byrne (born 12 May 1950) is an Irish actor, film director, film producer, screenwriter, cultural ambassador,  audiobook narrator and author. His acting career began in the Focus Theatre before he joined London's Royal Court Theatre in 1979. Byrne's screen debut came in the Irish drama serial The Riordans and the spin-off show Bracken.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Gabriel Byrne
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Gabriel Byrne
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/gabriel-byrne/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			4
+		</td><td><a data-ff-gx="View Person,hannah-beth-king" data-ff-gx-click href="https://www.whosdatedwho.com/dating/hannah-beth-king">
+				Hannah Beth King
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    2013
+					</td><td><a href="//members.whosdatedwho.com#/topic/gabriel-byrne-and-hannah-beth-king/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,gabriel-byrne-and-hannah-beth-king" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-hannah-beth-king"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna">
+				Madonna
+			</a></td><td>
+			Encounter
+		</td><td style="text-align:center"><a title="Rumor" style="color:#ad0400;font-weight:bold">R</a></td><td>
+						    2009
+					</td><td>
+						    2009
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,gabriel-byrne-and-madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-madonna"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,julia-ormond" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julia-ormond">
+				Julia Ormond
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Mar 1996
+					</td><td>
+						    Mar 1997
+					</td><td>
+						    			1 year
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,gabriel-byrne-and-julia-ormond" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-julia-ormond"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,ellen-barkin" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ellen-barkin">
+				Ellen Barkin
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Aug 1986
+					</td><td>
+						    Dec 1999
+					</td><td>
+						    			13 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,ellen-barkin-and-gabriel-byrne" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ellen-barkin-and-gabriel-byrne"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-hannah-beth-king"><a data-ff-gx="View Person,hannah-beth-king" data-ff-gx-click href="https://www.whosdatedwho.com/dating/hannah-beth-king"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/7/1/71u9csyrpdpjpydr.jpg?skj2io4l" alt="Hannah Beth King" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+							</div><h4 class="ff-title">
+								Hannah Beth King
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v31853118811',318531,1,881,1,'gabriel-byrne-and-hannah-beth-king');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v31853118811">15</v></span><span onClick="contentVote('v3185311881-1',318531,1,881,'-1','gabriel-byrne-and-hannah-beth-king');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v3185311881-1">16</v></span></div></div><h3>2013</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,gabriel-byrne-and-hannah-beth-king" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-hannah-beth-king">
+			
+							Hannah Beth King and Gabriel Byrne have been ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-madonna"><a data-ff-gx="View Person,madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/d/7/d72d3o0l7awlalw7.jpg?skj2io4l" alt="Madonna" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><div class="ff-rumour" style=""><span>Rumor</span></div><h4 class="ff-title">
+								Madonna
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v159118811',1591,1,881,1,'gabriel-byrne-and-madonna');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v159118811">6</v></span><span onClick="contentVote('v15911881-1',1591,1,881,'-1','gabriel-byrne-and-madonna');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v15911881-1">10</v></span></div></div><h3>2009</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,gabriel-byrne-and-madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-madonna">
+			
+							Madonna and Gabriel Byrne are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-julia-ormond"><a data-ff-gx="View Person,julia-ormond" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julia-ormond"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/i/4/i4ns2rx3kdvskxd3.jpg?skj2io4l" alt="Julia Ormond" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Julia Ormond
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v634718811',6347,1,881,1,'gabriel-byrne-and-julia-ormond');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v634718811">182</v></span><span onClick="contentVote('v63471881-1',6347,1,881,'-1','gabriel-byrne-and-julia-ormond');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v63471881-1">18</v></span></div></div><h3>1996 - 1997</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,gabriel-byrne-and-julia-ormond" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-julia-ormond">
+			
+							Julia Ormond and Gabriel Byrne separated in M...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-ellen-barkin"><a data-ff-gx="View Person,ellen-barkin" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ellen-barkin"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/r/9/r91y5w7mrc9p75mw.jpg?skj2io4l" alt="Ellen Barkin" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Ellen Barkin
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v79318811',793,1,881,1,'ellen-barkin-and-gabriel-byrne');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v79318811">208</v></span><span onClick="contentVote('v7931881-1',793,1,881,'-1','ellen-barkin-and-gabriel-byrne');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v7931881-1">6</v></span></div></div><h3>1986 - 1999</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,ellen-barkin-and-gabriel-byrne" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ellen-barkin-and-gabriel-byrne">
+			
+							Gabriel Byrne and Ellen Barkin were divorced ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-ad-fill"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_Gallery_Filler_336x280 --><ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="2266760956"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/7/1/71u9csyrpdpjscr1.jpg?skj2io4l')" data-ff-gx="View Person,hannah-beth-king" data-ff-gx-click href="https://www.whosdatedwho.com/dating/hannah-beth-king"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+				</div><div class="ff-details"><h4 class="ff-title"><a href="hannah-beth-king" data-ff-gx="View Person,hannah-beth-king" data-ff-gx-click>Hannah Beth King</a></h4><h3>
+						2013
+						<small></small></h3><p data-ff-gx="View Couple,gabriel-byrne-and-hannah-beth-king" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-hannah-beth-king">
+												
+						Hannah Beth King and Gabriel Byrne have been married for 8 years. They were dating for 6 months after getting together in 2013. After 1 month of engagement they married on 4th Aug 2014.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">9</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/gabriel-byrne-and-hannah-beth-king/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">2</text><path d="M 50 5 A 45 45 0 1 1 12 75" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Chinese zodiac</td><td>80%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>1%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">34%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:48.387096774194%;border-bottom:2px solid green;"></div><div style="float:left;width:51.612903225806%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v31853118811',318531,1,881,1,'gabriel-byrne-and-hannah-beth-king');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v31853118811">15</v></span><span onClick="contentVote('v3185311881-1',318531,1,881,'-1','gabriel-byrne-and-hannah-beth-king');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v3185311881-1">16</v></span></div><a class="button radius small ff-view-button" href="gabriel-byrne-and-hannah-beth-king"  data-ff-gx="View Couple,gabriel-byrne-and-hannah-beth-king" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/d/7/d72d3o0l7awl0o72.jpg?skj2io4l')" data-ff-gx="View Person,madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/madonna"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="madonna" data-ff-gx="View Person,madonna" data-ff-gx-click>Madonna</a></h4><h3>
+						2009
+						<small>
+													(Rumor)
+												</small></h3><p data-ff-gx="View Couple,gabriel-byrne-and-madonna" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-madonna">
+												
+						Madonna is rumored to have hooked up with Gabriel Byrne in 2009.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/gabriel-byrne-and-madonna/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>20%</td></tr><tr><td>Chinese zodiac</td><td>80%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>69%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">61%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:37.5%;border-bottom:2px solid green;"></div><div style="float:left;width:62.5%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v159118811',1591,1,881,1,'gabriel-byrne-and-madonna');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v159118811">6</v></span><span onClick="contentVote('v15911881-1',1591,1,881,'-1','gabriel-byrne-and-madonna');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v15911881-1">10</v></span></div><a class="button radius small ff-view-button" href="gabriel-byrne-and-madonna"  data-ff-gx="View Couple,gabriel-byrne-and-madonna" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/i/4/i4ns2rx3kdvsr234.jpg?skj2io4l')" data-ff-gx="View Person,julia-ormond" data-ff-gx-click href="https://www.whosdatedwho.com/dating/julia-ormond"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="julia-ormond" data-ff-gx="View Person,julia-ormond" data-ff-gx-click>Julia Ormond</a></h4><h3>
+						1996 - 1997
+						<small></small></h3><p data-ff-gx="View Couple,gabriel-byrne-and-julia-ormond" data-ff-gx-click href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-julia-ormond">
+												
+						Julia Ormond and Gabriel Byrne dated from March, 1996 to March, 1997.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">1</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/gabriel-byrne-and-julia-ormond/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>13%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">47%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:91%;border-bottom:2px solid green;"></div><div style="float:left;width:9%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v634718811',6347,1,881,1,'gabriel-byrne-and-julia-ormond');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v634718811">182</v></span><span onClick="contentVote('v63471881-1',6347,1,881,'-1','gabriel-byrne-and-julia-ormond');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v63471881-1">18</v></span></div><a class="button radius small ff-view-button" href="gabriel-byrne-and-julia-ormond"  data-ff-gx="View Couple,gabriel-byrne-and-julia-ormond" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/r/9/r91y5w7mrc9py1wp.jpg?skj2io4l')" data-ff-gx="View Person,ellen-barkin" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ellen-barkin"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="ellen-barkin" data-ff-gx="View Person,ellen-barkin" data-ff-gx-click>Ellen Barkin</a></h4><h3>
+						1986 - 1999
+						<small></small></h3><p data-ff-gx="View Couple,ellen-barkin-and-gabriel-byrne" data-ff-gx-click href="https://www.whosdatedwho.com/dating/ellen-barkin-and-gabriel-byrne">
+												
+						Gabriel Byrne and Ellen Barkin were married for 11 years. They dated for 2 years after getting together in Aug 1986 and married on 18th Sep 1988. 11 years later they divorced in Dec 1999.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">13</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/ellen-barkin-and-gabriel-byrne/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>40%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>72%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">47%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact some"><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">2 children</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:97.196261682243%;border-bottom:2px solid green;"></div><div style="float:left;width:2.803738317757%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v79318811',793,1,881,1,'ellen-barkin-and-gabriel-byrne');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v79318811">208</v></span><span onClick="contentVote('v7931881-1',793,1,881,'-1','ellen-barkin-and-gabriel-byrne');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v7931881-1">6</v></span></div><a class="button radius small ff-view-button" href="ellen-barkin-and-gabriel-byrne"  data-ff-gx="View Couple,ellen-barkin-and-gabriel-byrne" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/gabriel-byrne">Gabriel Byrne</a></td><td>72</td><td><i class="icon-44"></i>
+
+Taurus</td><td>Actor</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ie.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Irish</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/hannah-beth-king">Hannah Beth King</a></td><td>47</td><td><i class="icon-"></i></td><td>Producer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/madonna">Madonna</a></td><td>64</td><td><i class="icon-47"></i>
+
+Leo</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/julia-ormond">Julia Ormond</a></td><td>57</td><td><i class="icon-40"></i>
+
+Capricorn</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/ellen-barkin">Ellen Barkin</a></td><td>68</td><td><i class="icon-43"></i>
+
+Aries</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.children" class="ff-dropitem block-topic-children" data-ff-name="topic.children"><div id="section-children" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Children 
+									
+								</h2></div><div class="ff-block-content " id="ff-children"><table class="ff-table" width="100%"><thead><tr><th>Name</th><th>Gender</th><th>Born</th><th>Age</th><th>Other Parent</th></tr></thead><tbody><tr><td>Jack</td><td>Male</td><td>1989</td><td>33 years old</td><td><a href="ellen-barkin">Ellen Barkin</a></td></tr><tr><td>Romey Marion</td><td>Female</td><td>18th November, 1992</td><td>29 years old</td><td><a href="ellen-barkin">Ellen Barkin</a></td></tr><tr><td>Baby Girl</td><td></td><td>February, 2017</td><td>5 years old</td><td><a href="hannah-beth-king">Hannah Beth King</a></td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-881"
+		data-ff-thumbs-id="gallery-thumbs-881"
+		data-ff-topic="881"
+><div id="gallery-display-881" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/f/t/ft22111nl31x221x.jpg?skj2io4l"><div class="ff-caption">Lost Girls (2020)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/j/t/jtji8p77yaswws7.jpg?skj2io4l"><div class="ff-caption">Lost Girls (2020)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/n/5/n5h6sa3g7czys63n.jpg?skj2io4l"><div class="ff-caption">Lost Girls (2020)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/p/c/pck8k8gz2lky2zkk.jpg?skj2io4l"><div class="ff-caption">Lost Girls (2020)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/i/d/idfy7fgoyfnx7ygi.jpg?skj2io4l"><div class="ff-caption">Hello Again</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/n/5/n5h7kwqogx8o8xq.jpg?skj2io4l"><div class="ff-caption">Hello Again</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/3/w/3wrmkzzgvpvnpvnz.jpg?skj2io4l"><div class="ff-caption">Ghost Ship (2002)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/3/s/3sjbytf5sfy7bjt7.jpg?skj2io4l"><div class="ff-caption">Gabriel Byrne and Natalie Portman - 1996 MTV Movie Awards</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/w/8/w85mpk7aenxw7ke5.jpg?skj2io4l"><div class="ff-caption">Gabriel Byrne and Natalie Portman - 1996 MTV Movie Awards</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/0/u0194zlubwkc0u9w.jpg?skj2io4l"><div class="ff-caption">The 33 (2015)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/n/y/ny04h91wfquth41n.jpg?skj2io4l"><div class="ff-caption">The 33 (2015)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/a/i/aigmxwmm13wemgwe.jpg?skj2io4l"><div class="ff-caption">The 33 (2015)</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-881" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/f/t/ft22111nl31x221x.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/j/t/jtji8p77yaswws7.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/n/5/n5h6sa3g7czys63n.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/p/c/pck8k8gz2lky2zkk.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/i/d/idfy7fgoyfnx7ygi.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/n/5/n5h7kwqogx8o8xq.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/3/w/3wrmkzzgvpvnpvnz.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/3/s/3sjbytf5sfy7bjt7.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/w/8/w85mpk7aenxw7ke5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/0/u0194zlubwkc0u9w.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/n/y/ny04h91wfquth41n.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/a/i/aigmxwmm13wemgwe.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Murder at Yellowstone City</td><td>2022</td><td>Sheriff Jim Ambrose</td><td>Movie</td></tr><tr><td>Lost Girls</td><td>2020</td><td>Richard Dormer</td><td>Movie</td></tr><tr><td>Death of a Ladies' Man</td><td>2020</td><td>Samuel O'Shea</td><td>Movie</td></tr><tr><td>ZeroZeroZero</td><td>2019</td><td>Edward Lynwood</td><td>TV Show</td></tr><tr><td>War of the Worlds</td><td>2019</td><td>Bill Ward</td><td>TV Show</td></tr><tr><td>Maniac</td><td>2018</td><td>Porter Milgrim</td><td>TV Show</td></tr><tr><td>An L.A. Minute</td><td>2018</td><td>Ted Gold</td><td>Movie</td></tr><tr><td>In the Cloud</td><td>2018</td><td>Doc Wolff</td><td>Movie</td></tr><tr><td>Hereditary</td><td>2018</td><td>Steve</td><td>Movie</td></tr><tr><td>Mad to Be Normal</td><td>2017</td><td>Jim</td><td>Movie</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>Lies We Tell</td><td>2017</td><td>Donald</td><td>Movie</td></tr><tr><td>No Pay, Nudity</td><td>2016</td><td>Lawrence Rose</td><td>Movie</td></tr><tr><td>Carrie Pilby</td><td>2016</td><td>Mr. Pilby</td><td>Movie</td></tr><tr><td>Lamborghini</td><td>2016</td><td>Enzo Ferrari</td><td>Movie</td></tr><tr><td>Louder Than Bombs</td><td>2015</td><td>Gene</td><td>Movie</td></tr><tr><td>The 33</td><td>2015</td><td>Andre Sougarret</td><td>Movie</td></tr><tr><td>Endless Night</td><td>2015</td><td>Bram Trevor</td><td>Movie</td></tr><tr><td>Vikings: Athelstan's Journal</td><td>2015</td><td>Earl Haraldson</td><td>TV Show</td></tr><tr><td>Vampire Academy</td><td>2014</td><td>Victor Dashkov</td><td>Movie</td></tr><tr><td>Marco Polo</td><td>2014</td><td>Pope Gregory X</td><td>TV Show</td></tr><tr><td>All Things to All Men</td><td>2013</td><td>Joseph Corso</td><td>Movie</td></tr><tr><td>Vikings</td><td>2013</td><td>Earl Haraldson</td><td>TV Show</td></tr><tr><td>Quirke</td><td>2013</td><td>Quirke</td><td>TV Show</td></tr><tr><td>Le temps de l'aventure</td><td>2013</td><td>Doug</td><td>Movie</td></tr><tr><td>I, Anna</td><td>2012</td><td>D.C.I. Bernie Reid</td><td>Movie</td></tr><tr><td>Secret State</td><td>2012</td><td>Tom Dawkins</td><td>TV Show</td></tr><tr><td>Le capital</td><td>2012</td><td>Dittmar Rigule</td><td>Movie</td></tr><tr><td>Leningrad</td><td>2009</td><td>Parker (as Gebriel Birn)</td><td>Movie</td></tr><tr><td>Perrier&#x27;s Bounty</td><td>2009</td><td>Voice of The Reaper (voice)</td><td>Movie</td></tr><tr><td>In Treatment</td><td>2008</td><td>Dr. Paul Weston</td><td>TV Show</td></tr><tr><td>2:22</td><td>2008</td><td>Detective Swain (uncredited)</td><td>Movie</td></tr><tr><td>Still Birth Chicken</td><td>2008</td><td></td><td>Short Film</td></tr><tr><td>Emotional Arithmetic</td><td>2007</td><td>Christopher Lewis</td><td>Movie</td></tr><tr><td>Jindabyne</td><td>2006</td><td>Stewart Kane</td><td>Movie</td></tr><tr><td>Played</td><td>2006</td><td>Eddie</td><td>Movie</td></tr><tr><td>Assault on Precinct 13</td><td>2005</td><td>Capt. Marcus Duvall</td><td>Movie</td></tr><tr><td>Wah-Wah</td><td>2005</td><td>Harry Compton</td><td>Movie</td></tr><tr><td>P.S.</td><td>2004</td><td>Peter Harrington</td><td>Movie</td></tr><tr><td>The Bridge of San Luis Rey</td><td>2004</td><td>Brother Juniper</td><td>Movie</td></tr><tr><td>Vanity Fair</td><td>2004</td><td>The Marquess of Steyne</td><td>Movie</td></tr><tr><td>Patrick</td><td>2004</td><td>Patrick (voice)</td><td>TV Movie</td></tr><tr><td>Shade</td><td>2003</td><td>Miller</td><td>Movie</td></tr><tr><td>Emmett's Mark</td><td>2002</td><td>Jack Marlow, Stephen Bracken</td><td>Movie</td></tr><tr><td>Ghost Ship</td><td>2002</td><td>Murphy</td><td>Movie</td></tr><tr><td>Spider</td><td>2002</td><td>Bill Cleg</td><td>Movie</td></tr><tr><td>Virginia&#x27;s Run</td><td>2002</td><td>Ford Lofton</td><td>Movie</td></tr><tr><td>Canone inverso - making love</td><td>2000</td><td>The Violinist</td><td>Movie</td></tr><tr><td>When Brendan Met Trudy</td><td>2000</td><td>Special Appearance</td><td>Movie</td></tr><tr><td>Madigan Men</td><td>2000</td><td>Benjamin Madigan</td><td>TV Show</td></tr><tr><td>End of Days</td><td>1999</td><td>The Man</td><td>Movie</td></tr><tr><td>Stigmata</td><td>1999</td><td>Father Andrew Kiernan</td><td>Movie</td></tr><tr><td>Enemy of the State</td><td>1998</td><td>Brill</td><td>Movie</td></tr><tr><td>Polish Wedding</td><td>1998</td><td>Bolek</td><td>Movie</td></tr><tr><td>Quest for Camelot</td><td>1998</td><td>Lionel (voice)</td><td>Movie</td></tr><tr><td>The Brylcreem Boys</td><td>1998</td><td>Commandant O'Brien</td><td>Movie</td></tr><tr><td>The Man in the Iron Mask</td><td>1998</td><td>D'Artagnan</td><td>Movie</td></tr><tr><td>Smilla&#x27;s Sense of Snow</td><td>1997</td><td>The Mechanic</td><td>Movie</td></tr><tr><td>The End of Violence</td><td>1997</td><td>Ray Bering</td><td>Movie</td></tr><tr><td>This Is the Sea</td><td>1997</td><td>Rohan</td><td>Movie</td></tr><tr><td>Weapons of Mass Distraction</td><td>1997</td><td>Lionel Powers</td><td>TV Movie</td></tr><tr><td>Dr Hagard&#x27;s Disease</td><td>1996</td><td></td><td>Movie</td></tr><tr><td>Mad Dog Time</td><td>1996</td><td>Ben London</td><td>Movie</td></tr><tr><td>Somebody Is Waiting</td><td>1996</td><td>Roger Ellis</td><td>Movie</td></tr><tr><td>The Last of the High Kings</td><td>1996</td><td>Jack Griffin</td><td>Movie</td></tr><tr><td>Draiocht</td><td>1996</td><td>Father</td><td>TV Movie</td></tr><tr><td>Frankie Starlight</td><td>1995</td><td>Jack Kelly</td><td>Movie</td></tr><tr><td>Dead Man</td><td>1995</td><td>Charlie Dickinson</td><td>Movie</td></tr><tr><td>The Usual Suspects</td><td>1995</td><td>Keaton</td><td>Movie</td></tr><tr><td>Buffalo Girls</td><td>1995</td><td>Teddy Blue</td><td>TV Show</td></tr><tr><td>Divine Rapture</td><td>1995</td><td></td><td>Short Film</td></tr><tr><td>A Simple Twist of Fate</td><td>1994</td><td>John Newland</td><td>Movie</td></tr><tr><td>Little Women</td><td>1994</td><td>Friedrich Bhaer</td><td>Movie</td></tr><tr><td>Royal Deceit</td><td>1994</td><td>Fenge</td><td>Movie</td></tr><tr><td>Trial by Jury</td><td>1994</td><td>Daniel Graham</td><td>Movie</td></tr><tr><td>A Dangerous Woman</td><td>1993</td><td>Mackey</td><td>Movie</td></tr><tr><td>Point of No Return</td><td>1993</td><td>Bob</td><td>Movie</td></tr><tr><td>Cool World</td><td>1992</td><td>Jack Deebs</td><td>Movie</td></tr><tr><td>Into the West</td><td>1992</td><td>Papa Reilly</td><td>Movie</td></tr><tr><td>Miller&#x27;s Crossing</td><td>1990</td><td>Tom Reagan</td><td>Movie</td></tr><tr><td>Shipwrecked</td><td>1990</td><td>Lt. John Merrick</td><td>Movie</td></tr><tr><td>Dark Obsession</td><td>1989</td><td>Lord Hugo Bruckton</td><td>Movie</td></tr><tr><td>A Soldier&#x27;s Tale</td><td>1988</td><td>Saul</td><td>Movie</td></tr><tr><td>The Courier</td><td>1988</td><td>Val</td><td>Movie</td></tr><tr><td>Hello Again</td><td>1987</td><td>Kevin Scanlon</td><td>Movie</td></tr><tr><td>Julia and Julia</td><td>1987</td><td>Paolo</td><td>Movie</td></tr><tr><td>Lionheart: The Children&#x27;s Crusade</td><td>1987</td><td>Black Prince</td><td>Movie</td></tr><tr><td>Siesta</td><td>1987</td><td>Augustine</td><td>Movie</td></tr><tr><td>Gothic</td><td>1986</td><td>Byron</td><td>Movie</td></tr><tr><td>Defense of the Realm</td><td>1985</td><td>Nicholas 'Nick' Mullen</td><td>Movie</td></tr><tr><td>Christopher Columbus</td><td>1985</td><td>Christopher Columbus</td><td>TV Show</td></tr><tr><td>Mussolini: The Untold Story</td><td>1985</td><td>Vittorio Mussolini</td><td>TV Show</td></tr><tr><td>Screen Two</td><td>1985</td><td>The Good Thief</td><td>TV Show</td></tr><tr><td>Reflections</td><td>1984</td><td>William Masters</td><td>Movie</td></tr><tr><td>Treatment</td><td>1984</td><td>Father Michael</td><td>TV Movie</td></tr><tr><td>Hanna K.</td><td>1983</td><td>Joshua Herzog</td><td>Movie</td></tr><tr><td>The Keep</td><td>1983</td><td>Kaempffer</td><td>Movie</td></tr><tr><td>The Rocking Horse Winner</td><td>1983</td><td>Bassett</td><td>Short Film</td></tr><tr><td>Glenroe</td><td>1983</td><td>Pat Barry</td><td>TV Show</td></tr><tr><td>Joyce in June</td><td>1982</td><td>Blazes Boylan, Keogh</td><td>TV Movie</td></tr><tr><td>Excalibur</td><td>1981</td><td>Uther Pendragon</td><td>Movie</td></tr><tr><td>Wagner</td><td>1981</td><td>Karl Ritter</td><td>TV Show</td></tr><tr><td>The Search for Alexander the Great</td><td>1981</td><td>Ptolemy</td><td>TV Show</td></tr><tr><td>The Outsider</td><td>1979</td><td></td><td>Movie</td></tr><tr><td>Bracken</td><td>1978</td><td>Pat Barry</td><td>TV Show</td></tr><tr><td>Strangers</td><td>1978</td><td>Johnny Maguire</td><td>TV Show</td></tr><tr><td>On a Paving Stone Mounted</td><td>1978</td><td></td><td>Movie</td></tr><tr><td>Wings of Ash: Pilot for a Dramatization of the Life of Antonin Artaud</td><td>1978</td><td></td><td>Short Film</td></tr><tr><td>The Burke Enigma</td><td>1978</td><td></td><td>TV Show</td></tr><tr><td>Last of Summer</td><td>1977</td><td></td><td>TV Show</td></tr><tr><td>Live from Lincoln Center</td><td>1976</td><td>King Arthur</td><td>TV Show</td></tr><tr><td>The Riordans</td><td>1965</td><td>Pat Barry</td><td>TV Show</td></tr><tr><td>Dance First</td><td></td><td>Samuel Beckett (old)</td><td>Movie</td></tr></tbody></table><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-filmography-table-toggle" data-ff-scroll><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Show Less
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.onscreenMatchupsGrid" class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen" ><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/bridget-fonda-and-gabriel-byrne"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/f/w/fwy3k13vu3uhvukw.jpg?skj2io4l" alt="Bridget Fonda and Gabriel Byrne" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/f/w/fwy3k13vu3uh1fvy.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/bridget-fonda">Bridget Fonda</a><a href="https://www.whosdatedwho.com/dating/bridget-fonda-and-gabriel-byrne"><ul><li>
+							Point of No Return<br />
+							1993
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/ellen-barkin-and-gabriel-byrne"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/c/w/cwb3klhemsdkdwek.jpg?skj2io4l" alt="Ellen Barkin and Gabriel Byrne" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/c/w/cwb3klhemsdkm3dl.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/ellen-barkin">Ellen Barkin</a><a href="https://www.whosdatedwho.com/dating/ellen-barkin-and-gabriel-byrne"><ul><li>
+							Siesta<br />
+							1987
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-anne-parillaud"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/d/9/d96ek7e1i1moe1ed.jpg?skj2io4l" alt="Gabriel Byrne and Anne Parillaud" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/d/9/d96ek7e1i1mokoe9.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/anne-parillaud">Anne Parillaud</a><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-anne-parillaud"><ul><li>
+							The Man in the Iron Mask<br />
+							1998
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-jessalyn-gilsig"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/e/f/ef7ki3aj5sxcc753.jpg?skj2io4l" alt="Gabriel Byrne and Jessalyn Gilsig" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/e/f/ef7ki3aj5sxcsica.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/jessalyn-gilsig">Jessalyn Gilsig</a><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-jessalyn-gilsig"><ul><li>
+							Vikings<br />
+							2013
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-julia-ormond"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/e/r/erbrh6k7o5ujur7h.jpg?skj2io4l" alt="Gabriel Byrne and Julia Ormond" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/e/r/erbrh6k7o5ujoru6.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/julia-ormond">Julia Ormond</a><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-julia-ormond"><ul><li>
+							Smilla&#x27;s Sense of Snow<br />
+							1997
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-laura-linney"><div class="ff-placeholder sz-medium-square "><i class="icon-photos" style="font-size:60px;line-height:60px;overflow:hidden"></i></div></a><a href="https://www.whosdatedwho.com/dating/laura-linney">Laura Linney</a><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-laura-linney"><ul><li>
+							P.S.<br />
+							2004
+						</li></ul><span class="ff-bottom">[+2 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-lena-olin"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/t/v/tvdl8vvtm9izzdmv.jpg?skj2io4l" alt="Gabriel Byrne and Lena Olin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/t/v/tvdl8vvtm9iz98zv.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/lena-olin">Lena Olin</a><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-lena-olin"><ul><li>
+							Polish Wedding<br />
+							1998
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-myriam-cyr"><div class="ff-placeholder sz-medium-square "><i class="icon-photos" style="font-size:60px;line-height:60px;overflow:hidden"></i></div></a><a href="https://www.whosdatedwho.com/dating/myriam-cyr">Myriam Cyr</a><a href="https://www.whosdatedwho.com/dating/gabriel-byrne-and-myriam-cyr"><ul><li>
+							Gothic<br />
+							1986
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><div class="ff-onscreen-toggle hide"><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/kathleen-turner-and-gabriel-byrne"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/k/3/k30dq757o53m337q.jpg?skj2io4l" alt="Kathleen Turner and Gabriel Byrne" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/k/3/k30dq757o53mod37.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/kathleen-turner">Kathleen Turner</a><a href="https://www.whosdatedwho.com/dating/kathleen-turner-and-gabriel-byrne"><ul><li>
+							Julia and Julia<br />
+							1987
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/shelley-long-and-gabriel-byrne"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/2/y/2ybr27j5uxcxjx.jpg?skj2io4l" alt="Shelley Long and Gabriel Byrne" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/2/y/2ybr27j5uxcxuc.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/shelley-long">Shelley Long</a><a href="https://www.whosdatedwho.com/dating/shelley-long-and-gabriel-byrne"><ul><li>
+							Hello Again<br />
+							1987
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/winona-ryder-and-gabriel-byrne"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/z/z/zz1vlem0yx2ul20.jpg?skj2io4l" alt="Winona Ryder and Gabriel Byrne" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/z/zz1vlem0yx2uumy.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/winona-ryder">Winona Ryder</a><a href="https://www.whosdatedwho.com/dating/winona-ryder-and-gabriel-byrne"><ul><li>
+							Little Women<br />
+							1994
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></div></ul></div><div class="text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-onscreen-toggle" data-ff-scroll><div class="ff-onscreen-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down" style="background-color:#f3f3f3;"></i></div>
+		More Gabriel Byrne Onscreen Matchups
+	</div><div class="ff-onscreen-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up" style="background-color:#f3f3f3;"></i></div>
+		Less Gabriel Byrne Onscreen Matchups
+	</div></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/gabriel-byrne/forum" title="Gabriel Byrne discussion board">View all comments (63)</a></small></h3><div data-ffw="content" data-ff-eid="34530441" data-ff-url="" data-ff-tid="6" data-ff-id="99501665" data-ff-title="shared a link: https://www.triviatribute.com/gabrielbyrne.html" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/eagle39"><span class="ff-img" data-ff-image></span><span data-ff-webname>eagle39</span></a><span class="ff-bullet"></span><span data-ff-time="2019-10-16 07:18:54" class="ff-comment-time">Oct 16, 2019</span><p data-ff-auto-image class="ff-comment" data-ff-text>shared a link: https://www.triviatribute.com/gabrielbyrne.html</p></div><div data-ffw="content" data-ff-eid="34662512" data-ff-url="" data-ff-tid="6" data-ff-id="89687477" data-ff-title="Great actor" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/wjerryz"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/s/i/sigvozpwmvswwmw.jpg?skj2io4l" alt="wjerryz" class=" " /></span><span data-ff-webname>wjerryz</span></a><span class="ff-bullet"></span><span data-ff-time="2018-08-22 14:43:04" class="ff-comment-time">Aug 22, 2018</span><p data-ff-auto-image class="ff-comment" data-ff-text>Great actor</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16413569" data-ff-title="oh come on irish what are you doing 2year old comments what a sorry sight now me im sitting on the hottest story you will have ever heard last chance it goes to someone else soon is cailin ana mhaith me fein" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>katie lou</span></span><span class="ff-bullet"></span><span data-ff-time="2011-01-27 14:37:28" class="ff-comment-time">Jan 27, 2011</span><p data-ff-auto-image class="ff-comment" data-ff-text>oh come on irish what are you doing 2year old comments what a sorry sight now me im sitting on the hottest story you will have ever heard last chance it goes to someone else soon is cailin ana mhaith me fein</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="16236318" data-ff-title="Hottest episode this week with adele...next to my husband, this is MY fantasy man!!!" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>paula carter</span></span><span class="ff-bullet"></span><span data-ff-time="2010-11-18 00:42:59" class="ff-comment-time">Nov 18, 2010</span><p data-ff-auto-image class="ff-comment" data-ff-text>Hottest episode this week with adele...next to my husband, this is MY fantasy man!!!</p></div><div data-ffw="content" data-ff-eid="34400800" data-ff-url="" data-ff-tid="6" data-ff-id="14289174" data-ff-title="think the script writers should have made Laura find another younger man or for her to become unobtainable through becoming a nun or a doctor missionary, or a fatal car crash,then his wife tortures him over his love for dead Laura, or gone Lsorrows Laura saying mockingly and playing the record tell laura i love her only he is the survivor in this and this is harsh real life where upsets and battles and sorrows and unfairness really happen" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/tinysusie"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/z/b/zbbvxp59fus4bsvu.jpg?skj2io4l" alt="tinysusie" class=" " /></span><span data-ff-webname>tinysusie</span></a><span class="ff-bullet"></span><span data-ff-time="2009-11-28 12:36:05" class="ff-comment-time">Nov 28, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>think the script writers should have made Laura find another younger man or for her to become unobtainable through becoming a nun or a doctor missionary, or a fatal car crash,then his wife tortures him over his love for dead Laura, or gone Lsorrows Laura saying mockingly and playing the record tell laura i love her only he is the survivor in this and this is harsh real life where upsets and battles and sorrows and unfairness really happen</p></div><div data-ffw="content" data-ff-eid="34361338" data-ff-url="" data-ff-tid="6" data-ff-id="14108632" data-ff-title="This power-loaded man was then necessary to cast such roles like STIGMATA, as clever and probably could outshine any in appearance being handsome." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Triskaen_Klaub"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/s/w/swmojtz79c2kostk.jpg?skj2io4l" alt="Triskaen_Klaub" class=" " /></span><span data-ff-webname>Triskaen_Klaub</span></a><span class="ff-bullet"></span><span data-ff-time="2009-10-29 06:12:40" class="ff-comment-time">Oct 29, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>This power-loaded man was then necessary to cast such roles like STIGMATA, as clever and probably could outshine any in appearance being handsome.</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="13991560" data-ff-title="Gorgeous specimen for a human being! What a site for sore eyes!!!!! Where are you, not in Jacksonville, Florida obviously or you`d be mine! I`m 45, look 25, and you get better looking every day. Find me in Jacksonville, I won`t disappoint you, promise! I`ll come to New York :)" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Courtney Elizabeth</span></span><span class="ff-bullet"></span><span data-ff-time="2009-10-08 16:34:59" class="ff-comment-time">Oct 8, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>Gorgeous specimen for a human being! What a site for sore eyes!!!!! Where are you, not in Jacksonville, Florida obviously or you`d be mine! I`m 45, look 25, and you get better looking every day. Find me in Jacksonville, I won`t disappoint you, promise! I`ll come to New York :)</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="13946723" data-ff-title="In Treatment is fabulous-Gabriel uses the English language to get his point across, no fancy terms that non-medical professionals don`t understand." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>mary reventlow</span></span><span class="ff-bullet"></span><span data-ff-time="2009-09-28 20:16:56" class="ff-comment-time">Sep 28, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>In Treatment is fabulous-Gabriel uses the English language to get his point across, no fancy terms that non-medical professionals don`t understand.</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="13464168" data-ff-title="This guy is Ireland`s leading man." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Joaanne</span></span><span class="ff-bullet"></span><span data-ff-time="2009-06-25 19:42:34" class="ff-comment-time">Jun 25, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>This guy is Ireland`s leading man.</p></div><div data-ffw="content" data-ff-eid="34294038" data-ff-url="" data-ff-tid="6" data-ff-id="13399675" data-ff-title="Gabriel Byrne c`est...la POESIE de la Beaute et de l`Artisme dans son corps et son ame! Mr Gabriel, le theatre en Pologne n`est pas mort, je Vous invite..." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Viosna"><span class="ff-img" data-ff-image></span><span data-ff-webname>Viosna</span></a><span class="ff-bullet"></span><span data-ff-time="2009-06-10 12:45:58" class="ff-comment-time">Jun 10, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>Gabriel Byrne c`est...la POESIE de la Beaute et de l`Artisme dans son corps et son ame! Mr Gabriel, le theatre en Pologne n`est pas mort, je Vous invite...</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="13199905" data-ff-title="HELLO!! HABLARE ESPANOL PORQUE MI INGLES ES MUY MALO.. PERO ME LLAMO LA ATENCION QUE EN LA BIOGRAFIA ESCRITA DEL SENOR BYRNE, NO APAREZCA ALGUN HOBBY..BUENO SERIA INTERESANTE SABER CUEL PASATIEMPO ES SU FAVORITO GRACIAS LAURA ( DE ARGENTINA)" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>LAURA</span></span><span class="ff-bullet"></span><span data-ff-time="2009-05-31 19:09:54" class="ff-comment-time">May 31, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>HELLO!! HABLARE ESPANOL PORQUE MI INGLES ES MUY MALO.. PERO ME LLAMO LA ATENCION QUE EN LA BIOGRAFIA ESCRITA DEL SENOR BYRNE, NO APAREZCA ALGUN HOBBY..BUENO SERIA INTERESANTE SABER CUEL PASATIEMPO ES SU FAVORITO GRACIAS LAURA ( DE ARGENTINA)</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="13156568" data-ff-title="Just watched Christopher Columbus this afternoon,that`s going back some. (1985) Absolutely great actor and handsome,to boot." class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>Cornelia Davis</span></span><span class="ff-bullet"></span><span data-ff-time="2009-05-23 18:07:52" class="ff-comment-time">May 23, 2009</span><p data-ff-auto-image class="ff-comment" data-ff-text>Just watched Christopher Columbus this afternoon,that`s going back some. (1985) Absolutely great actor and handsome,to boot.</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/gabriel-byrne/forum" title="Gabriel Byrne discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/ralph-fiennes"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/0/b/0bxtiqbk31vtb1.jpg?skj2io4l" alt="Ralph Fiennes" class=" " /><div class="ff-name">Ralph Fiennes</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,347</span></span><span class="ff-rank-change"><span>+87</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/johnny-depp"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/8/z/8zp7qm28vcgk7c2.jpg?skj2io4l" alt="Johnny Depp" class=" " /><div class="ff-name">Johnny Depp</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>72</span></span><span class="ff-rank-change ff-neg"><span>-5</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/matt-dillon"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/9/q/9qgpglv4zkyzvkp9.jpg?skj2io4l" alt="Matt Dillon" class=" " /><div class="ff-name">Matt Dillon</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>923</span></span><span class="ff-rank-change"><span>+144</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/winona-ryder"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/9/a/9a4ko0k32nfto3af.jpg?skj2io4l" alt="Winona Ryder" class=" " /><div class="ff-name">Winona Ryder</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>213</span></span><span class="ff-rank-change ff-neg"><span>-28</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/gerard-butler"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/h/p/hpov3ahlv2slv2h.jpg?skj2io4l" alt="Gerard Butler" class=" " /><div class="ff-name">Gerard Butler</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>208</span></span><span class="ff-rank-change ff-neg"><span>-42</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/robert-duvall"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/d/c/dcomtmgpdohmgo.jpg?skj2io4l" alt="Robert Duvall" class=" " /><div class="ff-name">Robert Duvall</div><div class="ff-rank"></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/former-roman-catholics" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/4/d/4dywny675y8hh57.jpg?skj2io4l" alt="Former Roman Catholics" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Former Roman Catholics
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/best-drama-actor-golden-globe-television-winners" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/u/w/uwnt7gdurzqxxru.jpg?skj2io4l" alt="Best Drama Actor Golden Globe (television) winners" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Best Drama Actor Golden Globe (television) winners
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1950-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/1/n/1nad1sjt6twod1so.jpg?skj2io4l" alt="1950 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1950 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/audiobook-narrators" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/o/g/ogp00j8n3ay00g8o.jpg?skj2io4l" alt="Audiobook narrators" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Audiobook narrators
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/irish-atheists" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/9/h/9hk696tr0iixirt.jpg?skj2io4l" alt="Irish atheists" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Irish atheists
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Gabriel Byrne</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/amyspeedle" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					160
+				</div>
+					amyspeedle
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/NewsHound" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/b/dbxjsg31xuktjdgt.jpg?skj2io4l" alt="NewsHound" class=" " /></div><div style="float:right">
+					110
+				</div>
+					NewsHound
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Tracker748" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" alt="Tracker748" class=" " /></div><div style="float:right">
+					67
+				</div>
+					Tracker748
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Viosna" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					40
+				</div>
+					Viosna
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/sandrita0210" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/6/o/6o69ghu6yjesu9y6.jpg?skj2io4l" alt="sandrita0210" class=" " /></div><div style="float:right">
+					34
+				</div>
+					sandrita0210
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Gabriel Byrne profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Gabriel Byrne to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="881:gabriel-byrne"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Gabriel Byrne</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/109739454">
+			Ellen Barkin and Adam West
+		</a></li><li style="clear:both;"><a href="/six-degrees/109739447">
+			Ellen Barkin and Rodrigo Santoro
+		</a></li><li style="clear:both;"><a href="/six-degrees/107596153">
+			Jessica Biel and Ralph Fiennes
+		</a></li><li style="clear:both;"><a href="/six-degrees/106298876">
+			Gabriel Byrne and Camila Cabello
+		</a></li><li style="clear:both;"><a href="/six-degrees/103888601">
+			Madonna and Josh Hopkins
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Gabriel Byrne</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/gabriel-byrne"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/f/t/ft22111nl31xn11t.jpg?skj2io4l" alt="Lost Girls (2020)" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/gabriel-byrne"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/j/t/jtji8p77yasw7a.jpg?skj2io4l" alt="Lost Girls (2020)" class=" " /></a></div><a href="https://www.famousfix.com/topic/gabriel-byrne" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												quotes, 
+																									trivia, 
+																									photos, 
+																									videos
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.737</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,881,2,1,"","",3,"%2Fdating%2Fgabriel-byrne","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

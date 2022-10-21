@@ -1,0 +1,827 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Margot Robbie dating? Margot Robbie boyfriend, husband</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/margot-robbie" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/margot-robbie" /><meta name="title" content="Who is Margot Robbie dating? Margot Robbie boyfriend, husband" /><meta name="description" content="18 October 2022... Margot Robbie news, gossip, photos of Margot Robbie, biography, Margot Robbie boyfriend list 2022. Relationship history. Margot Robbie relationship list. Margot Robbie dating history, 2022, 2021, list of Margot Robbie relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/margot-robbie" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Margot Robbie" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img1.bdbphotos.com/images/orig/s/1/s1qr404dvfplrq0l.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/margot-robbie",
+  "name": "Margot Robbie",
+"jobTitle": "Actress",  "url": "https://www.whosdatedwho.com/dating/margot-robbie",
+"birthDate": "1990-07-02",  "spouse": {
+	"@type": "Person",
+  	"name": "Tom Ackerley",
+	"url": "https://www.whosdatedwho.com/dating/tom-ackerley"
+  },
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Tom Ackerley",
+        "url": "https://www.whosdatedwho.com/dating/margot-robbie#dating-tom-ackerley",
+		        "image": "//img5.bdbphotos.com/images/orig/k/o/ko0kbbu4y69jy49b.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Henry Aitken",
+        "url": "https://www.whosdatedwho.com/dating/margot-robbie#dating-henry-aitken",
+		        "image": "//img6.bdbphotos.com/images/orig/d/h/dh59qfhjt95xfqjh.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Will Smith",
+        "url": "https://www.whosdatedwho.com/dating/margot-robbie#dating-will-smith",
+		        "image": "//img6.bdbphotos.com/images/orig/q/u/quyldhjafodsdoj.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="margot-robbie" data-ff-tid="1" data-ff-id="2857332" data-ff-title="Margot Robbie" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="2857332"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/margot-robbie">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-margot-robbie" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Margot Robbie 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-margot-robbie"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/s/1/s1qr404dvfpl0lvs.jpg?skj2io4l" alt="Margot Robbie" class=" " /></div></div><div class="ff-relationship text-center ff-married" ><span>Married</span></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Margot Robbie&nbsp;&nbsp;<span class="ff-smaller">Australian Actress</span></div><div class="ff-thumbs"><span onClick="contentVote('v2857332101',2857332,1,0,1,'margot-robbie');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v2857332101">176</v></span><span onClick="contentVote('v285733210-1',2857332,1,0,'-1','margot-robbie');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v285733210-1">28</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/margot-robbie/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">406</div><div class="footer"><span class="ff-rank-change ff-neg"><i class="icon-chart-line"></i><span>-101</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">32</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-cancer"><i class="icon-cancer"></i></a></div><div class="footer">Cancer</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">3</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Margot Robbie dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is she
+				dating right now?
+			</b></div><div style="position:relative;width:51%;padding-left:108px;height:130px;margin-bottom:20px;"><div style="position:absolute;left:0;top:0"><img width="100" height="130" style="width:100px;height:130px;" src="//img4.bdbphotos.com/images/120x156/q/t/qt9vzyh8vn2rv9.jpg?skj2io4l" alt="Margot Robbie and Tom Ackerley" class=" " /></div><a href="/dating/tom-ackerley">Tom Ackerley</a> and <a href="/dating/margot-robbie">Margot Robbie</a> have been married for 5 years since 19th Dec 2016.
+    				<a class="button radius small" href="margot-robbie-and-tom-ackerley" style="position:absolute;bottom:0;left:108px;right:0;background-color:#ad0400;margin:0;">view relationship</a></div><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="margot-robbie">Margot Robbie</topic> has been in a relationship with <a href="/dating/henry-aitken">Henry Aitken</a><span> (2014)</span>.</p><p><topic url="margot-robbie">Margot Robbie</topic> is rumoured to have hooked up with <a href="/dating/will-smith">Will Smith</a><span> (2013)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="margot-robbie">Margot Robbie</topic> is a 32 year old Australian Actress. Born Margot Elise Robbie on 2nd July, 1990 in Gold Coast, Queensland, Australia, she is famous for Neighbours (Soap Opera), The Wolf of Wall Street and Suicide Squad in a career that spans 2008&#8211;present. Her zodiac sign is Cancer.</p><div class="ff-person-profile-detail-toggle hide"><p class="ff-auto-about"><topic url="margot-robbie">Margot Robbie</topic> has been in 12 on-screen matchups, including <a href="/dating/chiwetel-ejiofor">Chiwetel Ejiofor</a> in <i>Z for Zachariah</i><span> (2015)</span>, <a href="/dating/domhnall-gleeson">Domhnall Gleeson</a> in <i>Goodbye Christopher Robin</i><span> (2017)</span>, <a href="/dating/leonardo-dicaprio">Leonardo DiCaprio</a> in <i>The Wolf of Wall Street</i><span> (2013)</span>, <a href="/dating/alexander-skarsgard">Alexander Skarsgård</a> in <i>The Legend of Tarzan</i><span> (2016)</span> and <a href="/dating/chris-pine">Chris Pine</a> in <i>Z for Zachariah</i><span> (2015)</span>.</p><p class="ff-auto-about"><topic url="margot-robbie">Margot Robbie</topic> is a member of the following lists: <a href="/lists/australian-television-actors">Australian television actors</a>, <a href="/lists/australian-expatriates-in-the-united-states">Australian expatriates in the United States</a> and <a href="/lists/australian-expatriates-in-the-united-kingdom">Australian expatriates in the United Kingdom</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Margot Robbie dating? Margot Robbie boyfriend, husband list. Help us build our profile of Margot Robbie! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/margot-robbie">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Margot Robbie and Tom Ackerley">
+								8 years, 4 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Dating</th><td>1</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Margot Robbie and Henry Aitken">
+								8 years, 8 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th>Rumoured</th><td>1</td><td>
+													-
+											</td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Margot Robbie and Henry Aitken">
+								8 years, 8 months
+						</span></td><td style="font-style:oblique">
+											5 years, 8 months
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Margot Robbie and Tom Ackerley">
+							8 years, 4 months
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Margot
+													</td></tr><tr><td>Middle Name</td><td>
+															Elise
+													</td></tr><tr><td>Last Name</td><td>
+															Robbie
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Margot Elise Robbie
+													</td></tr><tr><td>Alternative Name</td><td>
+															Margot Elise Robbie, Margot Robbie
+													</td></tr><tr><td>Age</td><td>
+															32 years
+													</td></tr><tr><td>Birthday</td><td>
+															2nd July, 1990
+													</td></tr><tr><td>Birthplace</td><td>
+															Gold Coast, Queensland, Australia
+													</td></tr><tr><td>Height</td><td>
+															5&#039; 6&quot; (168 cm)
+													</td></tr><tr><td>Weight</td><td>
+															126lbs (57 kg)
+													</td></tr><tr><td>Build</td><td>
+															Slim
+													</td></tr><tr><td>Eye Color</td><td>
+															Blue
+													</td></tr><tr><td>Hair Color</td><td>
+															Blonde
+													</td></tr><tr><td>Distinctive Feature</td><td>
+															Blue Eyes, Large Smile
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Cancer
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Christian
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															Australian
+													</td></tr><tr><td>High School</td><td>
+															Somerset College, Gold Coast, Queensland
+													</td></tr><tr><td>Occupation Text</td><td>
+															Actress, Producer
+													</td></tr><tr><td>Occupation</td><td>
+															Actress
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Neighbours (Soap Opera), The Wolf of Wall Street and Suicide Squad
+													</td></tr><tr><td>Year(s) Active</td><td>
+															2007&#8211;present, 2008&#8211;present
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															Aran Michael Management (Melbourne), Management 360 (LA)
+													</td></tr><tr><td>Brand Endorsement</td><td>
+															Nivea Young ad
+													</td></tr><tr><td>Bust (inches)</td><td>
+															34
+													</td></tr><tr><td>Cup Size</td><td>
+															B
+													</td></tr><tr><td>Waist (inches)</td><td>
+															23
+													</td></tr><tr><td>Hips (inches)</td><td>
+															34
+													</td></tr><tr><td>Clothes Size</td><td>
+															2
+													</td></tr><tr><td>Shoe Size</td><td>
+															7
+													</td></tr><tr><td>Official Websites</td><td>
+															twitter.com/MargotRobbie, http://www.margotrobbie.com.au/
+													</td></tr><tr><td>Friend</td><td>
+															Caitlin Stasey, Sam Clark, Dean Geyer
+													</td></tr><tr><td>Favorite People</td><td>
+															Cate Blanchett
+													</td></tr><tr><td>Favorite Bands</td><td>
+															Hillsong
+													</td></tr><tr><td>Favorite Books</td><td>
+															The Bible
+													</td></tr><tr><td>Favorite Foods</td><td>
+															French Fries
+													</td></tr><tr><td>Favorite Colors</td><td>
+															Blue
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Margot Elise Robbie ( MAR-goh ROB-ee; born 2 July 1990) is an Australian actress and producer. She has received nominations for two Academy Awards, four Golden Globe Awards, and five BAFTA Awards. Time magazine named her one of the 100 most influential people in the world in 2017 and she was ranked among the world's highest-paid actresses by Forbes in 2019.
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Margot Robbie
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Margot Robbie
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/margot-robbie/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,tom-ackerley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/tom-ackerley">
+				Tom Ackerley
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Jun 2014
+					</td><td>
+							present
+					</td><td>
+						    			8 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,margot-robbie-and-tom-ackerley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-tom-ackerley"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,henry-aitken" data-ff-gx-click href="https://www.whosdatedwho.com/dating/henry-aitken">
+				Henry Aitken
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Feb 2014
+					</td><td>
+						    Feb 2014
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,margot-robbie-and-henry-aitken" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-henry-aitken"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,will-smith" data-ff-gx-click href="https://www.whosdatedwho.com/dating/will-smith">
+				Will Smith
+			</a></td><td>
+			Encounter
+		</td><td style="text-align:center"><a title="Rumor" style="color:#ad0400;font-weight:bold">R</a></td><td>
+						    2013
+					</td><td>
+						    2013
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,margot-robbie-and-will-smith" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-will-smith"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-tom-ackerley"><a data-ff-gx="View Person,tom-ackerley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/tom-ackerley"><div class="ff-img"><img width="198" height="230.86307053942" style="width:198px;height:230.86307053942px;" src="//img5.bdbphotos.com/images/orig/k/o/ko0kbbu4y69jy49b.jpg?skj2io4l" alt="Tom Ackerley" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Tom Ackerley
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v5251368128573321',5251368,1,2857332,1,'margot-robbie-and-tom-ackerley');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5251368128573321">391</v></span><span onClick="contentVote('v525136812857332-1',5251368,1,2857332,'-1','margot-robbie-and-tom-ackerley');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v525136812857332-1">208</v></span></div></div><h3>2014</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,margot-robbie-and-tom-ackerley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-tom-ackerley">
+			
+							Tom Ackerley and Margot Robbie have been marr...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-henry-aitken"><a data-ff-gx="View Person,henry-aitken" data-ff-gx-click href="https://www.whosdatedwho.com/dating/henry-aitken"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/d/h/dh59qfhjt95xth9j.jpg?skj2io4l" alt="Henry Aitken" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Henry Aitken
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v24892464128573321',24892464,1,2857332,1,'margot-robbie-and-henry-aitken');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v24892464128573321">53</v></span><span onClick="contentVote('v2489246412857332-1',24892464,1,2857332,'-1','margot-robbie-and-henry-aitken');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2489246412857332-1">203</v></span></div></div><h3>2014</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,margot-robbie-and-henry-aitken" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-henry-aitken">
+			
+							Henry Aitken and Margot Robbie are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-will-smith"><a data-ff-gx="View Person,will-smith" data-ff-gx-click href="https://www.whosdatedwho.com/dating/will-smith"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/q/u/quyldhjafodss.jpg?skj2io4l" alt="Will Smith" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><div class="ff-rumour" style=""><span>Rumor</span></div><h4 class="ff-title">
+								Will Smith
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v2438128573321',2438,1,2857332,1,'margot-robbie-and-will-smith');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v2438128573321">192</v></span><span onClick="contentVote('v243812857332-1',2438,1,2857332,'-1','margot-robbie-and-will-smith');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v243812857332-1">380</v></span></div></div><h3>2013</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,margot-robbie-and-will-smith" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-will-smith">
+			
+							Margot Robbie and Will Smith are separated...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/k/o/ko0kbbu4y69jy49b.jpg?skj2io4l')" data-ff-gx="View Person,tom-ackerley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/tom-ackerley"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="tom-ackerley" data-ff-gx="View Person,tom-ackerley" data-ff-gx-click>Tom Ackerley</a></h4><h3>
+						2014
+						<small></small></h3><p data-ff-gx="View Couple,margot-robbie-and-tom-ackerley" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-tom-ackerley">
+												
+						Tom Ackerley and Margot Robbie have been married for 5 years.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">8</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/margot-robbie-and-tom-ackerley/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><circle cx="50" cy="50" r="45" stroke="green" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:green;stroke:none;">3</text></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>80%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">45%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:65.275459098497%;border-bottom:2px solid green;"></div><div style="float:left;width:34.724540901503%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v5251368128573321',5251368,1,2857332,1,'margot-robbie-and-tom-ackerley');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v5251368128573321">391</v></span><span onClick="contentVote('v525136812857332-1',5251368,1,2857332,'-1','margot-robbie-and-tom-ackerley');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v525136812857332-1">208</v></span></div><a class="button radius small ff-view-button" href="margot-robbie-and-tom-ackerley"  data-ff-gx="View Couple,margot-robbie-and-tom-ackerley" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/d/h/dh59qfhjt95xfqjh.jpg?skj2io4l')" data-ff-gx="View Person,henry-aitken" data-ff-gx-click href="https://www.whosdatedwho.com/dating/henry-aitken"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="henry-aitken" data-ff-gx="View Person,henry-aitken" data-ff-gx-click>Henry Aitken</a></h4><h3>
+						2014
+						<small></small></h3><p data-ff-gx="View Couple,margot-robbie-and-henry-aitken" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-henry-aitken">
+												
+						Henry Aitken and Margot Robbie dated in February, 2014.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:100%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/margot-robbie-and-henry-aitken/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:20.703125%;border-bottom:2px solid green;"></div><div style="float:left;width:79.296875%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v24892464128573321',24892464,1,2857332,1,'margot-robbie-and-henry-aitken');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v24892464128573321">53</v></span><span onClick="contentVote('v2489246412857332-1',24892464,1,2857332,'-1','margot-robbie-and-henry-aitken');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2489246412857332-1">203</v></span></div><a class="button radius small ff-view-button" href="margot-robbie-and-henry-aitken"  data-ff-gx="View Couple,margot-robbie-and-henry-aitken" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/q/u/quyldhjafodsdoj.jpg?skj2io4l')" data-ff-gx="View Person,will-smith" data-ff-gx-click href="https://www.whosdatedwho.com/dating/will-smith"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="will-smith" data-ff-gx="View Person,will-smith" data-ff-gx-click>Will Smith</a></h4><h3>
+						2013
+						<small>
+													(Rumor)
+												</small></h3><p data-ff-gx="View Couple,margot-robbie-and-will-smith" data-ff-gx-click href="https://www.whosdatedwho.com/dating/margot-robbie-and-will-smith">
+												
+						Margot Robbie is rumored to have hooked up with Will Smith in 2013.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/margot-robbie-and-will-smith/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">+</text><path d="M 50 5 A 45 45 0 0 1 58 6" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>20%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>73%</td></tr><tr><td>Age</td><td>1%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">29%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:33.566433566434%;border-bottom:2px solid green;"></div><div style="float:left;width:66.433566433566%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v2438128573321',2438,1,2857332,1,'margot-robbie-and-will-smith');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v2438128573321">192</v></span><span onClick="contentVote('v243812857332-1',2438,1,2857332,'-1','margot-robbie-and-will-smith');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v243812857332-1">380</v></span></div><a class="button radius small ff-view-button" href="margot-robbie-and-will-smith"  data-ff-gx="View Couple,margot-robbie-and-will-smith" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/margot-robbie">Margot Robbie</a></td><td>32</td><td><i class="icon-46"></i>
+
+Cancer</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/au.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Australian</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/tom-ackerley">Tom Ackerley</a></td><td>32</td><td><i class="icon-40"></i>
+
+Capricorn</td><td>Assistant Director</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/gb.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />British</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/henry-aitken">Henry Aitken</a></td><td>-</td><td><i class="icon-"></i></td><td></td><td><br /></td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/will-smith">Will Smith</a></td><td>54</td><td><i class="icon-49"></i>
+
+Libra</td><td>Actor</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-2857332"
+		data-ff-thumbs-id="gallery-thumbs-2857332"
+		data-ff-topic="2857332"
+><div id="gallery-display-2857332" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/l/p/lpqvdutf16h2vqu2.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; Attends the &amp;#8216;Amsterdam&amp;#8217; after party in London</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/4/s/4sdex6qnvgd55dn.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; Attends the &amp;#8216;Amsterdam&amp;#8217; after party in London</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/h/u/hu50m6xgnfiyx6n5.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/7/a/7aqhf5jqqs1e5fqa.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/1/0/10qd0uyc3ju5q00u.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/x/z/xzpqk1haggwskqhx.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/4/x/4xvn5jwejjtzj5ex.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/p/r/prq9r5pr7luvvur.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/6/7/67o1oaql42vu1oau.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/y/1/y1houjepsr5oh1u5.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/8/j/8j35uxvbvzq3bvz5.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/a/r/ar94h81rc0dy498y.jpg?skj2io4l"><div class="ff-caption">Margot Robbie &amp;#8211; The Tonight Show in New York</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-2857332" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/l/p/lpqvdutf16h2vqu2.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/4/s/4sdex6qnvgd55dn.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/h/u/hu50m6xgnfiyx6n5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/7/a/7aqhf5jqqs1e5fqa.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/1/0/10qd0uyc3ju5q00u.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/x/z/xzpqk1haggwskqhx.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/4/x/4xvn5jwejjtzj5ex.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/p/r/prq9r5pr7luvvur.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/6/7/67o1oaql42vu1oau.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/y/1/y1houjepsr5oh1u5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/8/j/8j35uxvbvzq3bvz5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/a/r/ar94h81rc0dy498y.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Barbie</td><td>2023</td><td>Barbie</td><td>Movie</td></tr><tr><td>Babylon</td><td>2022</td><td>Clara Bow</td><td>Movie</td></tr><tr><td>Asteroid City</td><td>2022</td><td></td><td>Movie</td></tr><tr><td>Amsterdam</td><td>2022</td><td></td><td>Movie</td></tr><tr><td>The Suicide Squad</td><td>2021</td><td>Harley Quinn</td><td>Movie</td></tr><tr><td>Peter Rabbit 2: The Runaway</td><td>2021</td><td>Flopsy, The Narrator (voice)</td><td>Movie</td></tr><tr><td>Birds of Prey</td><td>2020</td><td>Harley Quinn</td><td>Movie</td></tr><tr><td>Ruin</td><td>2020</td><td>Elsa Brzezina</td><td>Movie</td></tr><tr><td>Once Upon a Time in Hollywood</td><td>2019</td><td>Sharon Tate</td><td>Movie</td></tr><tr><td>Dreamland</td><td>2019</td><td>Allison Wells</td><td>Movie</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>Dollface</td><td>2019</td><td>Imelda</td><td>TV Show</td></tr><tr><td>Bombshell</td><td>2019</td><td>Kayla Pospisil</td><td>Movie</td></tr><tr><td>Mary Queen of Scots</td><td>2018</td><td>Queen Elizabeth I</td><td>Movie</td></tr><tr><td>Terminal</td><td>2018</td><td>Annie, Bonnie</td><td>Movie</td></tr><tr><td>Peter Rabbit</td><td>2018</td><td>Flopsy, The Narrator (voice)</td><td>Movie</td></tr><tr><td>Slaughterhouse Rulez</td><td>2018</td><td>Audrey</td><td>Movie</td></tr><tr><td>Flopsy Turvy</td><td>2018</td><td>Flopsy (voice)</td><td>Short Film</td></tr><tr><td>Goodbye Christopher Robin</td><td>2017</td><td>Daphne Milne</td><td>Movie</td></tr><tr><td>I, Tonya</td><td>2017</td><td>Tonya</td><td>Movie</td></tr><tr><td>The Legend of Tarzan</td><td>2016</td><td>Jane Clayton</td><td>Movie</td></tr><tr><td>Suicide Squad</td><td>2016</td><td>Harley Quinn</td><td>Movie</td></tr><tr><td>Whiskey Tango Foxtrot</td><td>2016</td><td>Tanya Vanderpoel</td><td>Movie</td></tr><tr><td>Australian Psycho</td><td>2016</td><td>Margot Robbie</td><td>Short Film</td></tr><tr><td>The Big Short</td><td>2015</td><td>Margot Robbie (uncredited)</td><td>Movie</td></tr><tr><td>Z for Zachariah</td><td>2015</td><td>Ann Burden</td><td>Movie</td></tr><tr><td>Focus</td><td>2015</td><td>Jess</td><td>Movie</td></tr><tr><td>Suite Française</td><td>2014</td><td>Celine Joseph</td><td>Movie</td></tr><tr><td>The Wolf of Wall Street</td><td>2013</td><td>Naomi Lapaglia</td><td>Movie</td></tr><tr><td>About Time</td><td>2013</td><td>Charlotte</td><td>Movie</td></tr><tr><td>Pan Am</td><td>2011</td><td>Laura Cameron</td><td>TV Show</td></tr><tr><td>I.C.U.</td><td>2009</td><td>Tristan Waters</td><td>Movie</td></tr><tr><td>Review with Myles Barlow</td><td>2008</td><td>Kelly</td><td>TV Show</td></tr><tr><td>The Elephant Princess</td><td>2008</td><td>Juliet</td><td>TV Show</td></tr><tr><td>Vigilante</td><td>2008</td><td>Cassandra</td><td>Movie</td></tr><tr><td>City Homicide</td><td>2007</td><td>Caitlin Brentford</td><td>TV Show</td></tr><tr><td>Neighbours</td><td>1985</td><td>Donna Brown, Donna Freedman</td><td>TV Show</td></tr><tr><td>Gotham City Sirens</td><td></td><td>Harley Quinn</td><td>Movie</td></tr><tr><td>Untitled Margot Robbie Ocean's Eleven Film</td><td></td><td></td><td>Movie</td></tr></tbody></table><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-filmography-table-toggle" data-ff-scroll><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Show Less
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.onscreenMatchupsGrid" class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen" ><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/chiwetel-ejiofor-and-margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/o/g/ogvij8ziv5b8z5.jpg?skj2io4l" alt="Chiwetel Ejiofor and Margot Robbie" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/o/g/ogvij8ziv5b8vb.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/chiwetel-ejiofor">Chiwetel Ejiofor</a><a href="https://www.whosdatedwho.com/dating/chiwetel-ejiofor-and-margot-robbie"><ul><li>
+							Z for Zachariah<br />
+							2015
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/domhnall-gleeson-and-margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/l/9/l9lq4fvpn90fflnf.jpg?skj2io4l" alt="Domhnall Gleeson and Margot Robbie" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/l/9/l9lq4fvpn90f94fv.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/domhnall-gleeson">Domhnall Gleeson</a><a href="https://www.whosdatedwho.com/dating/domhnall-gleeson-and-margot-robbie"><ul><li>
+							Goodbye Christopher Robin<br />
+							2017
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/leonardo-dicaprio-and-margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/2/q/2qjz79cxnnprnr9j.jpg?skj2io4l" alt="Leonardo DiCaprio and Margot Robbie" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/2/q/2qjz79cxnnprcqnz.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/leonardo-dicaprio">Leonardo DiCaprio</a><a href="https://www.whosdatedwho.com/dating/leonardo-dicaprio-and-margot-robbie"><ul><li>
+							The Wolf of Wall Street<br />
+							2013
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-alexander-skarsgard"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/r/e/ref6zfxqxe82q8ze.jpg?skj2io4l" alt="Margot Robbie and Alexander Skarsgård" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/r/e/ref6zfxqxe82frqf.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/alexander-skarsgard">Alexander Skarsgård</a><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-alexander-skarsgard"><ul><li>
+							The Legend of Tarzan<br />
+							2016
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-chris-pine"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/8/b/8b1ed6xj7hbabbjd.jpg?skj2io4l" alt="Margot Robbie and Chris Pine" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/8/b/8b1ed6xj7hba7eb6.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/chris-pine">Chris Pine</a><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-chris-pine"><ul><li>
+							Z for Zachariah<br />
+							2015
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-jared-leto"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/9/4/94jtzcvchvyyzyc.jpg?skj2io4l" alt="Margot Robbie and Jared Leto" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/9/4/94jtzcvchvyyyvh.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/jared-leto">Jared Leto</a><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-jared-leto"><ul><li>
+							Suicide Squad<br />
+							2016
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-rafal-zawierucha"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/i/r/iru5w7n867yf7in5.jpg?skj2io4l" alt="Margot Robbie and Rafal Zawierucha" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/i/r/iru5w7n867yf8u7w.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/rafal-zawierucha">Rafal Zawierucha</a><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-rafal-zawierucha"><ul><li>
+							Once Upon a Time in Hollywood<br />
+							2019
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-rodrigo-santoro"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/u/2/u2qqsfhayja00qyf.jpg?skj2io4l" alt="Margot Robbie and Rodrigo Santoro" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/u/2/u2qqsfhayja0js0h.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/rodrigo-santoro">Rodrigo Santoro</a><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-rodrigo-santoro"><ul><li>
+							Focus<br />
+							2015
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><div class="ff-onscreen-toggle hide"><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-will-smith"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/n/z/nz9ghpa9uss9asgn.jpg?skj2io4l" alt="Margot Robbie and Will Smith" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/n/z/nz9ghpa9uss9h9az.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/will-smith">Will Smith</a><a href="https://www.whosdatedwho.com/dating/margot-robbie-and-will-smith"><ul><li>
+							Focus<br />
+							2015
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/michael-mosley-and-margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/k/1/k1zg2cq2pg4zqggk.jpg?skj2io4l" alt="Michael Mosley and Margot Robbie" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/k/1/k1zg2cq2pg4z2zq1.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/michael-mosley">Michael Mosley</a><a href="https://www.whosdatedwho.com/dating/michael-mosley-and-margot-robbie"><ul><li>
+							Pan Am<br />
+							2011
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/sam-clark-and-margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/s/r/srj86zjd769r69d.jpg?skj2io4l" alt="Sam Clark and Margot Robbie" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/s/r/srj86zjd769rrj7.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/sam-clark">Sam Clark</a><a href="https://www.whosdatedwho.com/dating/sam-clark-and-margot-robbie"><ul><li>
+							Neighbours<br />
+							1985
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/sebastian-stan-and-margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/x/z/xzp9s9yrf5djrdsz.jpg?skj2io4l" alt="Sebastian Stan and Margot Robbie" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/x/z/xzp9s9yrf5dj9xrp.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/sebastian-stan">Sebastian Stan</a><a href="https://www.whosdatedwho.com/dating/sebastian-stan-and-margot-robbie"><ul><li>
+							I, Tonya<br />
+							2017
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></div></ul></div><div class="text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-onscreen-toggle" data-ff-scroll><div class="ff-onscreen-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down" style="background-color:#f3f3f3;"></i></div>
+		More Margot Robbie Onscreen Matchups
+	</div><div class="ff-onscreen-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up" style="background-color:#f3f3f3;"></i></div>
+		Less Margot Robbie Onscreen Matchups
+	</div></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/margot-robbie/forum" title="Margot Robbie discussion board">View all comments (25)</a></small></h3><div data-ffw="content" data-ff-eid="103515004" data-ff-url="" data-ff-tid="6" data-ff-id="103712977" data-ff-title="Excellent actress" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/GroupPhoenix"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/o/6/o66ewphvt07467e0.jpg?skj2io4l" alt="GroupPhoenix" class=" " /></span><span data-ff-webname>GroupPhoenix</span></a><span class="ff-bullet"></span><span data-ff-time="2020-11-25 05:12:03" class="ff-comment-time">Nov 25, 2020</span><p data-ff-auto-image class="ff-comment" data-ff-text>Excellent actress</p></div><div data-ffw="content" data-ff-eid="95069463" data-ff-url="" data-ff-tid="6" data-ff-id="95070504" data-ff-title="gorgeous" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Canon99"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/l/i/li4nisih39bns4hi.jpg?skj2io4l" alt="Canon99" class=" " /></span><span data-ff-webname>Canon99</span></a><span class="ff-bullet"></span><span data-ff-time="2019-05-15 07:05:42" class="ff-comment-time">May 15, 2019</span><p data-ff-auto-image class="ff-comment" data-ff-text>gorgeous</p></div><div data-ffw="content" data-ff-eid="34228499" data-ff-url="" data-ff-tid="6" data-ff-id="74816916" data-ff-title="2 of the crazy clowness??" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/mandia27"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/l/7/l7suimazrtveaurs.jpg?skj2io4l" alt="mandia27" class=" " /></span><span data-ff-webname>mandia27</span></a><span class="ff-bullet"></span><span data-ff-time="2017-11-08 12:11:58" class="ff-comment-time">Nov 8, 2017</span><p data-ff-auto-image class="ff-comment" data-ff-text>2 of the crazy clowness??</p></div><div data-ffw="content" data-ff-eid="53279224" data-ff-url="" data-ff-tid="6" data-ff-id="53430454" data-ff-title="Scorching hot." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/IndianHead"><span class="ff-img" data-ff-image></span><span data-ff-webname>IndianHead</span></a><span class="ff-bullet"></span><span data-ff-time="2016-11-04 10:17:58" class="ff-comment-time">Nov 4, 2016</span><p data-ff-auto-image class="ff-comment" data-ff-text>Scorching hot.</p></div><div data-ffw="content" data-ff-eid="50876792" data-ff-url="" data-ff-tid="6" data-ff-id="50881028" data-ff-title="Queeen! No words, she&#039;s stunning." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/RoseBF"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/8/o/8oczo3zb8qjlcloj.jpg?skj2io4l" alt="RoseBF" class=" " /></span><span data-ff-webname>RoseBF</span></a><span class="ff-bullet"></span><span data-ff-time="2016-04-13 12:39:20" class="ff-comment-time">Apr 13, 2016</span><p data-ff-auto-image class="ff-comment" data-ff-text>Queeen! No words, she's stunning.</p></div><div data-ffw="content" data-ff-eid="34662550" data-ff-url="" data-ff-tid="6" data-ff-id="41794783" data-ff-title="in her banner pic she looks like Felicia from General Hospital" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/leeniebe"><span class="ff-img" data-ff-image></span><span data-ff-webname>leeniebe</span></a><span class="ff-bullet"></span><span data-ff-time="2015-02-25 15:46:14" class="ff-comment-time">Feb 25, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>in her banner pic she looks like Felicia from General Hospital</p></div><div data-ffw="content" data-ff-eid="0" data-ff-url="" data-ff-tid="6" data-ff-id="41788291" data-ff-title="She reminds me of a young Cameron Diaz, with the blonde hair and the blue eyes and big smile. Personally, I feel she looks more interesting with dark hair. Anyone know what her real, natural hair colour is? She would look good with red. What are they going to do for her look as Harley Quinn? Can&#039;t wait!" class="ff-comment-item"><span class="ff-user"><span class="ff-img" data-ff-image></span><span data-ff-webname>oZ</span></span><span class="ff-bullet"></span><span data-ff-time="2015-02-25 08:42:59" class="ff-comment-time">Feb 25, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>She reminds me of a young Cameron Diaz, with the blonde hair and the blue eyes and big smile. Personally, I feel she looks more interesting with dark hair. Anyone know what her real, natural hair colour is? She would look good with red. What are they going to do for her look as Harley Quinn? Can't wait!</p></div><div data-ffw="content" data-ff-eid="34662550" data-ff-url="" data-ff-tid="6" data-ff-id="41753009" data-ff-title="She looked stunning at Oscars last night." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/leeniebe"><span class="ff-img" data-ff-image></span><span data-ff-webname>leeniebe</span></a><span class="ff-bullet"></span><span data-ff-time="2015-02-23 13:00:03" class="ff-comment-time">Feb 23, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>She looked stunning at Oscars last night.</p></div><div data-ffw="content" data-ff-eid="34662550" data-ff-url="" data-ff-tid="6" data-ff-id="41753008" data-ff-title="Paps not apps, Paps not apps." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/leeniebe"><span class="ff-img" data-ff-image></span><span data-ff-webname>leeniebe</span></a><span class="ff-bullet"></span><span data-ff-time="2015-02-23 12:59:29" class="ff-comment-time">Feb 23, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>Paps not apps, Paps not apps.</p></div><div data-ffw="content" data-ff-eid="34662550" data-ff-url="" data-ff-tid="6" data-ff-id="41753006" data-ff-title="So now that her and Will Smith&#039;s movie is coming out, are the hooked up comments below just rumors people created from filming scenes caught by apps?" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/leeniebe"><span class="ff-img" data-ff-image></span><span data-ff-webname>leeniebe</span></a><span class="ff-bullet"></span><span data-ff-time="2015-02-23 12:58:53" class="ff-comment-time">Feb 23, 2015</span><p data-ff-auto-image class="ff-comment" data-ff-text>So now that her and Will Smith's movie is coming out, are the hooked up comments below just rumors people created from filming scenes caught by apps?</p></div><div data-ffw="content" data-ff-eid="36967893" data-ff-url="" data-ff-tid="6" data-ff-id="36970719" data-ff-title="An interesting new face, she gave a good performance in Scorsese&#039;s &amp;quot;Wolf&amp;quot;." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Seychell11"><span class="ff-img" data-ff-image></span><span data-ff-webname>Seychell11</span></a><span class="ff-bullet"></span><span data-ff-time="2014-10-19 09:20:26" class="ff-comment-time">Oct 19, 2014</span><p data-ff-auto-image class="ff-comment" data-ff-text>An interesting new face, she gave a good performance in Scorsese's &quot;Wolf&quot;.</p></div><div data-ffw="content" data-ff-eid="34676422" data-ff-url="" data-ff-tid="6" data-ff-id="35331596" data-ff-title="Seems like she hasn&#039;t really dated all that much" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/sillywilly"><span class="ff-img" data-ff-image></span><span data-ff-webname>sillywilly</span></a><span class="ff-bullet"></span><span data-ff-time="2014-08-27 22:08:48" class="ff-comment-time">Aug 27, 2014</span><p data-ff-auto-image class="ff-comment" data-ff-text>Seems like she hasn't really dated all that much</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/margot-robbie/forum" title="Margot Robbie discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/kelli-garner"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/c/3/c3fnvex977levl9.jpg?skj2io4l" alt="Kelli Garner" class=" " /><div class="ff-name">Kelli Garner</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,458</span></span><span class="ff-rank-change ff-neg"><span>-35</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/christina-ricci"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/f/b/fbdex0hlxxh2hx.jpg?skj2io4l" alt="Christina Ricci" class=" " /><div class="ff-name">Christina Ricci</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>687</span></span><span class="ff-rank-change ff-neg"><span>-216</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/karine-vanasse"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/p/8/p8oxj7hbd9wcjwb.jpg?skj2io4l" alt="Karine Vanasse" class=" " /><div class="ff-name">Karine Vanasse</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/michael-mosley"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/c/g/cg3dmxip8i57mpg5.jpg?skj2io4l" alt="Michael Mosley" class=" " /><div class="ff-name">Michael Mosley</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/mike-vogel"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/4/f/4fncufva6moa6afn.jpg?skj2io4l" alt="Mike Vogel" class=" " /><div class="ff-name">Mike Vogel</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/kaley-cuoco-sweeting"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/s/0/s0pn71op64467p04.jpg?skj2io4l" alt="Kaley Cuoco" class=" " /><div class="ff-name">Kaley Cuoco</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>12</span></span><span class="ff-rank-change"><span>+66</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/australian-television-actors" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/m/6/m6quh6wd0pdr6qd6.jpg?skj2io4l" alt="Australian television actors" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Australian television actors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/australian-expatriates-in-the-united-states" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/n/0/n0q1cvx66sqbs6.jpg?skj2io4l" alt="Australian expatriates in the United States" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Australian expatriates in the United States
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/australian-expatriates-in-the-united-kingdom" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/p/5/p5cnmw4jiweinpwi.jpg?skj2io4l" alt="Australian expatriates in the United Kingdom" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Australian expatriates in the United Kingdom
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1990-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/r/8/r8yo93rkwcw398rr.jpg?skj2io4l" alt="1990 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1990 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/australian-soap-opera-actors" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/z/u/zucvxw1mp9fhwcmu.jpg?skj2io4l" alt="Australian soap opera actors" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Australian soap opera actors
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Margot Robbie</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Mmmhmmm" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/2/5/25i546o1dm4omd.jpg?skj2io4l" alt="Mmmhmmm" class=" " /></div><div style="float:right">
+					340
+				</div>
+					Mmmhmmm
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/hulja" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/l/g/lg3ey8fhahx3el83.jpg?skj2io4l" alt="hulja" class=" " /></div><div style="float:right">
+					302
+				</div>
+					hulja
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/angel_angel" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/d/ddj4fwgj0c3zwjjd.jpg?skj2io4l" alt="angel_angel" class=" " /></div><div style="float:right">
+					260
+				</div>
+					angel_angel
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/mandia27" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/l/7/l7suimazrtveaurs.jpg?skj2io4l" alt="mandia27" class=" " /></div><div style="float:right">
+					246
+				</div>
+					mandia27
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/kaitlin309" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					212
+				</div>
+					kaitlin309
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Margot Robbie profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Margot Robbie to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="2857332:margot-robbie"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Margot Robbie</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/114557420">
+			Margot Robbie and Riccardo Tisci
+		</a></li><li style="clear:both;"><a href="/six-degrees/114521349">
+			Linda Blair and Margot Robbie
+		</a></li><li style="clear:both;"><a href="/six-degrees/112672101">
+			Margot Robbie and Sam Claflin
+		</a></li><li style="clear:both;"><a href="/six-degrees/112539130">
+			Kim Kardashian and Margot Robbie
+		</a></li><li style="clear:both;"><a href="/six-degrees/112165861">
+			Margot Robbie and Billie Eilish
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Margot Robbie</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/l/p/lpqvdutf16h2fhdp.jpg?skj2io4l" alt="Margot Robbie &amp;#8211; Attends the &amp;#8216;Amsterdam&amp;#8217; after party in London" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/margot-robbie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/4/s/4sdex6qnvgd5qg.jpg?skj2io4l" alt="Margot Robbie &amp;#8211; Attends the &amp;#8216;Amsterdam&amp;#8217; after party in London" class=" " /></a></div><a href="https://www.famousfix.com/topic/margot-robbie" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												quotes, 
+																									trivia, 
+																									photos, 
+																									videos
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.208</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,2857332,2,1,"","",3,"%2Fdating%2Fmargot-robbie","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>

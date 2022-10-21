@@ -1,0 +1,728 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Brandon Jenner dating? Brandon Jenner girlfriend, wife</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/brandon-jenner" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/brandon-jenner" /><meta name="title" content="Who is Brandon Jenner dating? Brandon Jenner girlfriend, wife" /><meta name="description" content="18 October 2022... Brandon Jenner news, gossip, photos of Brandon Jenner, biography, Brandon Jenner girlfriend list 2022. Relationship history. Brandon Jenner relationship list. Brandon Jenner dating history, 2022, 2021, list of Brandon Jenner relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/brandon-jenner" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Brandon Jenner" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img6.bdbphotos.com/images/orig/o/4/o43u9dy0pjttu3dt.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/brandon-jenner",
+  "name": "Brandon Jenner",
+"jobTitle": "Musician",  "url": "https://www.whosdatedwho.com/dating/brandon-jenner",
+"birthDate": "1981-06-04",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Cayley Stoker",
+        "url": "https://www.whosdatedwho.com/dating/brandon-jenner#dating-cayley-stoker",
+		        "image": "//img6.bdbphotos.com/images/orig/3/o/3orwiyjeoo1pp1e.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Leah Jenner",
+        "url": "https://www.whosdatedwho.com/dating/brandon-jenner#dating-leah-jenner",
+		        "image": "//img5.bdbphotos.com/images/orig/c/s/csemz8a0pn6ca8pe.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Kim Kardashian",
+        "url": "https://www.whosdatedwho.com/dating/brandon-jenner#dating-kim-kardashian",
+		        "image": "//img2.bdbphotos.com/images/orig/1/v/1vr06nqft35uv103.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="brandon-jenner" data-ff-tid="1" data-ff-id="324158" data-ff-title="Brandon Jenner" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="c67e315f40a297feb90da5a714b0da05" data-ff-page="324158"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/brandon-jenner">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-brandon-jenner" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Brandon Jenner 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-brandon-jenner"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/o/4/o43u9dy0pjttdtpo.jpg?skj2io4l" alt="Brandon Jenner" class=" " /></div></div><div class="ff-name text-left ff-banner-gradient">
+		
+		Brandon Jenner&nbsp;&nbsp;<span class="ff-smaller">American Musician</span></div><div class="ff-thumbs"><span onClick="contentVote('v324158101',324158,1,0,1,'brandon-jenner');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v324158101">8</v></span><span onClick="contentVote('v32415810-1',324158,1,0,'-1','brandon-jenner');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v32415810-1">3</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="//members.whosdatedwho.com#/topic/brandon-jenner/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">2455</div><div class="footer"><span class="ff-rank-change ff-neg"><i class="icon-chart-line"></i><span>-419</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">41</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-gemini"><i class="icon-gemini"></i></a></div><div class="footer">Gemini</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">3</div><div class="footer">total</div></a></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact lots"><i class='icon-child' ></i><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">3 children</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5751287805"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h1 style="font-size: 1.2rem;">Brandon Jenner dating history</h1><div style="padding-bottom:8px;"><b>
+				Who
+				is he
+				dating right now?
+			</b></div><p class="ff-auto-status">
+    				    					According to our records, <topic url="brandon-jenner">Brandon Jenner</topic> is possibly single.
+    				    			</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="brandon-jenner">Brandon Jenner</topic> was previously married to <a href="/dating/cayley-stoker">Cayley Stoker</a><span> (2020)</span> and <a href="/dating/leah-jenner">Leah Jenner</a><span> (2012 - 2019)</span>.</p><p><topic url="brandon-jenner">Brandon Jenner</topic> has had an encounter with <a href="/dating/kim-kardashian">Kim Kardashian</a><span> (1991)</span>.</p><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="brandon-jenner">Brandon Jenner</topic> is a 41 year old American Musician. Born Brandon Thompson Jenner on 4th June, 1981 in Los Angeles, California, USA, he is famous for The Princes of Malibu in a career that spans 1995&#8211;present. His zodiac sign is Gemini.</p><p class="ff-auto-about"><topic url="brandon-jenner">Brandon Jenner</topic> has been in an on-screen matchup with <a href="/dating/leah-jenner">Leah Jenner</a> in <i>Keeping Up with the Kardashians</i><span> (2006)</span>.</p><p class="ff-auto-about"><topic url="brandon-jenner">Brandon Jenner</topic> is a member of the following lists: <a href="/lists/participants-in-american-reality-television-series">Participants in American reality television series</a>, <a href="/lists/american-pop-musicians">American pop musicians</a> and <a href="/lists/1981-births">1981 births</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Who is Brandon Jenner dating? Brandon Jenner girlfriend, wife list. Help us build our profile of Brandon Jenner! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="//members.whosdatedwho.com#/topic/brandon-jenner">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>2</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Brandon Jenner and Leah Felder">
+								14 years, 10 months
+							</span></td><td>
+													9 years, 2 months
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Brandon Jenner and Cayley Stoker">
+								3 years, 7 months
+							</span></td></tr><tr><th>Encounter</th><td>1</td><td>
+													-
+											</td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Brandon Jenner and Leah Felder">
+								14 years, 10 months
+						</span></td><td style="font-style:oblique">
+											6 years, 1 month
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Brandon Jenner and Cayley Stoker">
+							3 years, 7 months
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Brandon
+													</td></tr><tr><td>Middle Name</td><td>
+															Thompson
+													</td></tr><tr><td>Last Name</td><td>
+															Jenner
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Brandon Thompson Jenner
+													</td></tr><tr><td>Alternative Name</td><td>
+															Brandon
+													</td></tr><tr><td>Age</td><td>
+															41 years
+													</td></tr><tr><td>Birthday</td><td>
+															4th June, 1981
+													</td></tr><tr><td>Birthplace</td><td>
+															Los Angeles, California, USA
+													</td></tr><tr><td>Height</td><td>
+															6&#039; 1½&quot; (187 cm)
+													</td></tr><tr><td>Build</td><td>
+															Athletic
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Light
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Gemini
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Christian
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>Occupation Text</td><td>
+															Singer, Musician, Television Personality
+													</td></tr><tr><td>Occupation</td><td>
+															Musician
+													</td></tr><tr><td>Claim to Fame</td><td>
+															The Princes of Malibu
+													</td></tr><tr><td>Year(s) Active</td><td>
+															2005 – Present, 1995&#8211;present
+													</td></tr><tr><td>Father</td><td>
+															Bruce Jenner, David Foster (step-father)
+													</td></tr><tr><td>Mother</td><td>
+															Linda Thompson, Kris Jenner (step-mother)
+													</td></tr><tr><td>Brother</td><td>
+															Brody Jenner, Burt Jenner (half-brother), Rob Kardashian (step-brother)
+													</td></tr><tr><td>Sister</td><td>
+															Casey Jenner (half-sister), Kendall Jenner (half-sister), Kylie Jenner (half-sister), Kourtney Kardashian (step-sister), Kim Kardashian (step-sister), Khloe Kardashian (step-sister)
+													</td></tr></table></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Brandon Jenner
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Brandon Jenner
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="//members.whosdatedwho.com#/topic/brandon-jenner/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,cayley-stoker" data-ff-gx-click href="https://www.whosdatedwho.com/dating/cayley-stoker">
+				Cayley Stoker
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Mar 2019
+					</td><td><a href="//members.whosdatedwho.com#/topic/brandon-jenner-and-cayley-stoker/relationship" title="Edit this now"><i class="icon-help-circled"></i></a></td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,brandon-jenner-and-cayley-stoker" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-cayley-stoker"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,leah-jenner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/leah-jenner">
+				Leah Jenner
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    Sep 2004
+					</td><td>
+						    Jul 2019
+					</td><td>
+						    			14 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,brandon-jenner-and-leah-felder" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-leah-felder"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian">
+				Kim Kardashian
+			</a></td><td>
+			Encounter
+		</td><td style="text-align:center"></td><td>
+						    1991
+					</td><td>
+						    1991
+					</td><td>
+										-
+					</td><td><a title="View Couple" data-ff-gx="View Couple,brandon-jenner-and-kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-kim-kardashian"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-cayley-stoker"><a data-ff-gx="View Person,cayley-stoker" data-ff-gx-click href="https://www.whosdatedwho.com/dating/cayley-stoker"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/3/o/3orwiyjeoo1p.jpg?skj2io4l" alt="Cayley Stoker" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Cayley Stoker
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v9520487813241581',95204878,1,324158,1,'brandon-jenner-and-cayley-stoker');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v9520487813241581">16</v></span><span onClick="contentVote('v952048781324158-1',95204878,1,324158,'-1','brandon-jenner-and-cayley-stoker');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v952048781324158-1">25</v></span></div></div><h3>2019</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,brandon-jenner-and-cayley-stoker" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-cayley-stoker">
+			
+							Cayley Stoker and Brandon Jenner have been ma...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-leah-jenner"><a data-ff-gx="View Person,leah-jenner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/leah-jenner"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/c/s/csemz8a0pn6cn06p.jpg?skj2io4l" alt="Leah Jenner" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Leah Jenner
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v59364813241581',593648,1,324158,1,'brandon-jenner-and-leah-felder');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v59364813241581">62</v></span><span onClick="contentVote('v5936481324158-1',593648,1,324158,'-1','brandon-jenner-and-leah-felder');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v5936481324158-1">37</v></span></div></div><h3>2004 - 2019</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,brandon-jenner-and-leah-felder" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-leah-felder">
+			
+							Leah Jenner and Brandon Jenner were divorced ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-kim-kardashian"><a data-ff-gx="View Person,kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/1/v/1vr06nqft35u6rn0.jpg?skj2io4l" alt="Kim Kardashian" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Kim Kardashian
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v333913241581',3339,1,324158,1,'brandon-jenner-and-kim-kardashian');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v333913241581">56</v></span><span onClick="contentVote('v33391324158-1',3339,1,324158,'-1','brandon-jenner-and-kim-kardashian');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v33391324158-1">62</v></span></div></div><h3>1991</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,brandon-jenner-and-kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-kim-kardashian">
+			
+							Brandon Jenner and Kim Kardashian are separat...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/3/o/3orwiyjeoo1pp1e.jpg?skj2io4l')" data-ff-gx="View Person,cayley-stoker" data-ff-gx-click href="https://www.whosdatedwho.com/dating/cayley-stoker"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="cayley-stoker" data-ff-gx="View Person,cayley-stoker" data-ff-gx-click>Cayley Stoker</a></h4><h3>
+						2019
+						<small></small></h3><p data-ff-gx="View Couple,brandon-jenner-and-cayley-stoker" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-cayley-stoker">
+												
+						Cayley Stoker and Brandon Jenner have been married for 2 years. They were dating for 10 months after getting together in Mar 2019. After 1 day of engagement they married on 26th Jan 2020.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">3</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/brandon-jenner-and-cayley-stoker/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>80%</td></tr><tr><td>Chinese zodiac</td><td>80%</td></tr><tr><td>Age</td><td>72%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">58%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact some"><i class='icon-child' ></i><i class='icon-child' ></i></div><div class="footer">2 children</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:39.024390243902%;border-bottom:2px solid green;"></div><div style="float:left;width:60.975609756098%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v9520487813241581',95204878,1,324158,1,'brandon-jenner-and-cayley-stoker');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v9520487813241581">16</v></span><span onClick="contentVote('v952048781324158-1',95204878,1,324158,'-1','brandon-jenner-and-cayley-stoker');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v952048781324158-1">25</v></span></div><a class="button radius small ff-view-button" href="brandon-jenner-and-cayley-stoker"  data-ff-gx="View Couple,brandon-jenner-and-cayley-stoker" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/c/s/csemz8a0pn6ca8pe.jpg?skj2io4l')" data-ff-gx="View Person,leah-jenner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/leah-jenner"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="leah-jenner" data-ff-gx="View Person,leah-jenner" data-ff-gx-click>Leah Jenner</a></h4><h3>
+						2004 - 2019
+						<small></small></h3><p data-ff-gx="View Couple,brandon-jenner-and-leah-felder" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-leah-felder">
+												
+						Leah Jenner and Brandon Jenner were married for 7 years. They dated for 7 years after getting together in Sep 2004 and married on 31st May 2012. 7 years later they divorced on 15th Jul 2019.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">14</div><div class="footer">years</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/brandon-jenner-and-leah-felder/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">2</text><path d="M 50 5 A 45 45 0 1 1 12 75" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>1%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">50%</div></a></div></div><div style="width:25%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small children"><a href="#ff-children"><div class="header">Children</div><div class="fact "><i class='icon-child' ></i></div><div class="footer">1 child</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:62.626262626263%;border-bottom:2px solid green;"></div><div style="float:left;width:37.373737373737%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v59364813241581',593648,1,324158,1,'brandon-jenner-and-leah-felder');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v59364813241581">62</v></span><span onClick="contentVote('v5936481324158-1',593648,1,324158,'-1','brandon-jenner-and-leah-felder');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v5936481324158-1">37</v></span></div><a class="button radius small ff-view-button" href="brandon-jenner-and-leah-felder"  data-ff-gx="View Couple,brandon-jenner-and-leah-felder" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/1/v/1vr06nqft35uv103.jpg?skj2io4l')" data-ff-gx="View Person,kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/kim-kardashian"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="kim-kardashian" data-ff-gx="View Person,kim-kardashian" data-ff-gx-click>Kim Kardashian</a></h4><h3>
+						1991
+						<small></small></h3><p data-ff-gx="View Couple,brandon-jenner-and-kim-kardashian" data-ff-gx-click href="https://www.whosdatedwho.com/dating/brandon-jenner-and-kim-kardashian">
+												
+						Brandon Jenner and Kim Kardashian had an encounter in 1991.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;//members.whosdatedwho.com/?layout=popover#/topic/brandon-jenner-and-kim-kardashian/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:50%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>91%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i></div></div><div class="footer">77%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:47.457627118644%;border-bottom:2px solid green;"></div><div style="float:left;width:52.542372881356%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v333913241581',3339,1,324158,1,'brandon-jenner-and-kim-kardashian');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v333913241581">56</v></span><span onClick="contentVote('v33391324158-1',3339,1,324158,'-1','brandon-jenner-and-kim-kardashian');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v33391324158-1">62</v></span></div><a class="button radius small ff-view-button" href="brandon-jenner-and-kim-kardashian"  data-ff-gx="View Couple,brandon-jenner-and-kim-kardashian" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/brandon-jenner">Brandon Jenner</a></td><td>41</td><td><i class="icon-45"></i>
+
+Gemini</td><td>Musician</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/cayley-stoker">Cayley Stoker</a></td><td>36</td><td><i class="icon-41"></i>
+
+Aquarius</td><td></td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/leah-jenner">Leah Jenner</a></td><td>39</td><td><i class="icon-51"></i>
+
+Sagittarius</td><td>Musician</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/kim-kardashian">Kim Kardashian</a></td><td>41</td><td><i class="icon-49"></i>
+
+Libra</td><td>Reality TV</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.children" class="ff-dropitem block-topic-children" data-ff-name="topic.children"><div id="section-children" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Children 
+									
+								</h2></div><div class="ff-block-content " id="ff-children"><table class="ff-table" width="100%"><thead><tr><th>Name</th><th>Gender</th><th>Born</th><th>Age</th><th>Other Parent</th></tr></thead><tbody><tr><td>Eva James</td><td>Female</td><td>22nd July, 2015</td><td>7 years old</td><td><a href="leah-jenner">Leah Jenner</a></td></tr><tr><td>Bo Thompson</td><td>Male</td><td>19th February, 2020</td><td>2 years old</td><td><a href="cayley-stoker">Cayley Stoker</a></td></tr><tr><td>Sam Stoker</td><td>Male</td><td>19th February, 2020</td><td>2 years old</td><td><a href="cayley-stoker">Cayley Stoker</a></td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-324158"
+		data-ff-thumbs-id="gallery-thumbs-324158"
+		data-ff-topic="324158"
+><div id="gallery-display-324158" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/d/udjx1irtx53n5xni.jpg?skj2io4l"><div class="ff-caption">Brandon Jenner - Kris</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/l/s/lsfop7qncixkick7.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/o/9/o9dyq5lausa49oys.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/q/z/qz6w7b4g5pe46z7e.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/a/f/afacjmhdm2082m8m.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/9/y/9yyx1y5q5h9393y5.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/q/2/q2wio2f6xzibzxb2.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/r/d/rdnnnvdy8lridv8n.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/g/e/gef7b4g4pw13eg7w.jpg?skj2io4l"><div class="ff-caption">Blac Chyna and Tyga Attend Kendall Jenner&#039;s 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/c/7/c7u42s8zzswez8s4.jpg?skj2io4l"><div class="ff-caption">Brandon Jenner</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/q/d/qdk5tlg6x2f2x6ft.jpg?skj2io4l"><div class="ff-caption">Brandon Jenner</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/r/b/rblwlatg7tmgmtt.jpg?skj2io4l"><div class="ff-caption">Brandon Jenner and Leah Felder&#039;s wedding in Hawaii (May 31)</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-324158" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/d/udjx1irtx53n5xni.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/l/s/lsfop7qncixkick7.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/o/9/o9dyq5lausa49oys.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/q/z/qz6w7b4g5pe46z7e.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/a/f/afacjmhdm2082m8m.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/9/y/9yyx1y5q5h9393y5.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/q/2/q2wio2f6xzibzxb2.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/r/d/rdnnnvdy8lridv8n.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/g/e/gef7b4g4pw13eg7w.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/c/7/c7u42s8zzswez8s4.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/q/d/qdk5tlg6x2f2x6ft.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/r/b/rblwlatg7tmgmtt.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="13%" >Year</th><th width="30%" >Character</th><th width="17%" >Type</th></tr></thead><tbody><tr><td>Vaseline</td><td>2012</td><td>The Bartender</td><td>Short Film</td></tr></tbody></table></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.onscreenMatchupsGrid" class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen" ><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/brandon-jenner-and-leah-felder"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/9/d/9doqt3b5jsyts9bq.jpg?skj2io4l" alt="Brandon Jenner and Leah Felder" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/9/d/9doqt3b5jsyt5ost.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/leah-jenner">Leah Jenner</a><a href="https://www.whosdatedwho.com/dating/brandon-jenner-and-leah-felder"><ul><li>
+							Keeping Up with the Kardashians<br />
+							2006
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></ul></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Have your say</h3><a href="https://www.famousfix.com/topic/brandon-jenner/forum" title="Brandon Jenner discussion board">Be the first to make a comment >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/brody-jenner"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/r/v/rvr8b2rlxvcgblvc.jpg?skj2io4l" alt="Brody Jenner" class=" " /><div class="ff-name">Brody Jenner</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>481</span></span><span class="ff-rank-change ff-neg"><span>-13</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/caitlyn-jenner"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/k/r/krf3rjpikrszrsi.jpg?skj2io4l" alt="Caitlyn Jenner" class=" " /><div class="ff-name">Caitlyn Jenner</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,530</span></span><span class="ff-rank-change ff-neg"><span>-25</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/casey-jenner"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/q/f/qfelnt5ucn733ect.jpg?skj2io4l" alt="Casey Jenner" class=" " /><div class="ff-name">Casey Jenner</div><div class="ff-rank"></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/kris-jenner"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/q/0/q0pcj2nhf6zsspf2.jpg?skj2io4l" alt="Kris Jenner" class=" " /><div class="ff-name">Kris Jenner</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>807</span></span><span class="ff-rank-change"><span>+226</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/avril-lavigne"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/f/a/facdabm3u1hia3ah.jpg?skj2io4l" alt="Avril Lavigne" class=" " /><div class="ff-name">Avril Lavigne</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>319</span></span><span class="ff-rank-change"><span>+46</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/abigail-breslin"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/z/c/zcvcj2mz3bisiczj.jpg?skj2io4l" alt="Abigail Breslin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/c/zcvcj2mz3bis3ci2.jpg?skj2io4l" /><div class="ff-name">Abigail Breslin</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>+1,055</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/participants-in-american-reality-television-series" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/5/p/5pe5aij7gbs9bg.jpg?skj2io4l" alt="Participants in American reality television series" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Participants in American reality television series
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-pop-musicians" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/3/t/3towepayiugmw3pm.jpg?skj2io4l" alt="American pop musicians" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American pop musicians
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/1981-births" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/1/2/12be5nuey3273u7n.jpg?skj2io4l" alt="1981 births" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1981 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-people-of-welsh-descent" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/y/y/yyjzxh7uw1gh7zwj.jpg?skj2io4l" alt="American people of Welsh descent" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American people of Welsh descent
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-people-of-english-descent" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/s/f/sfharfo8xvqxfqav.jpg?skj2io4l" alt="American people of English descent" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American people of English descent
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Brandon Jenner</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Nightstar" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/v/u/vufbfyq3orwoqbof.jpg?skj2io4l" alt="Nightstar" class=" " /></div><div style="float:right">
+					257
+				</div>
+					Nightstar
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/oh_dear" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/g/dgrq1awma1cpcmw.jpg?skj2io4l" alt="oh_dear" class=" " /></div><div style="float:right">
+					247
+				</div>
+					oh_dear
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/kimkim15" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/i/5/i5e4loc29d3eoe25.jpg?skj2io4l" alt="kimkim15" class=" " /></div><div style="float:right">
+					18
+				</div>
+					kimkim15
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/Lovinglife1212" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square " style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					15
+				</div>
+					Lovinglife1212
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="//members.whosdatedwho.com#/member/CindyCelebs" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/k/y/kyzzgba5b9r5azbz.jpg?skj2io4l" alt="CindyCelebs" class=" " /></div><div style="float:right">
+					12
+				</div>
+					CindyCelebs
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Brandon Jenner profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Brandon Jenner to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="324158:brandon-jenner"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Brandon Jenner</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/110802658">
+			Chrishell Stause and Brandon Jenner
+		</a></li><li style="clear:both;"><a href="/six-degrees/110796070">
+			Brandon Jenner and Amber Andrews
+		</a></li><li style="clear:both;"><a href="/six-degrees/109720228">
+			Brandon Jenner and Gabby Windey
+		</a></li><li style="clear:both;"><a href="/six-degrees/109720220">
+			Brandon Jenner and Nikki Bella
+		</a></li><li style="clear:both;"><a href="/six-degrees/109720217">
+			Candice Swanepoel and Brandon Jenner
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Brandon Jenner</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/brandon-jenner"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/u/d/udjx1irtx53n13t.jpg?skj2io4l" alt="Brandon Jenner - Kris" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/brandon-jenner"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/l/s/lsfop7qncixkpxn.jpg?skj2io4l" alt="Blac Chyna and Tyga Attend Kendall Jenner's 18th Birthday Bash at Magic Mountain in Valencia, California - October 29, 2013" class=" " /></a></div><a href="https://www.famousfix.com/topic/brandon-jenner" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												trivia, 
+																									photos, 
+																									videos, 
+																									news
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4356445222935173"
+     data-ad-slot="5368144426"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset>	</div>
+	</div>
+	
+		
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.340</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,324158,2,1,"","",3,"%2Fdating%2Fbrandon-jenner","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>
